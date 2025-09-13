@@ -1,0 +1,450 @@
+{
+  "nome": "Anapurus",
+  "perguntas": [
+    {
+      "pergunta": "O nome 'Anapurus' é uma homenagem a qual povo indígena que habitava a região?",
+      "opcoes": ["Guajajaras", "Tupinambás", "Tribo Anapurus-I", "Timbiras"],
+      "respostaCorreta": "Tribo Anapurus-I"
+    },
+    {
+      "pergunta": "Qual é a principal base da economia do município de Anapurus?",
+      "opcoes": ["Turismo de praia", "Indústria de tecnologia", "Agropecuária", "Extração de petróleo"],
+      "respostaCorreta": "Agropecuária"
+    },
+    {
+      "pergunta": "Anapurus foi desmembrada e emancipada de qual município em 1964?",
+      "opcoes": ["Chapadinha", "Brejo", "São Luís", "Teresina"],
+      "respostaCorreta": "Brejo"
+    },
+    {
+      "pergunta": "Qual santo é o padroeiro de Anapurus, celebrado anualmente com um grande festejo?",
+      "opcoes": ["São João", "São Pedro", "Santo Antônio", "São Bernardo"],
+      "respostaCorreta": "São Bernardo"
+    },
+    {
+      "pergunta": "Anapurus está localizada em qual microrregião do Maranhão?",
+      "opcoes": ["Baixada Maranhense", "Lençóis Maranhenses", "Chapadinha", "Litoral Ocidental"],
+      "respostaCorreta": "Chapadinha"
+    },
+    {
+      "pergunta": "Qual o gentílico para quem nasce em Anapurus?",
+      "opcoes": ["Anapurusense", "Anapuruense", "Anense", "Purusense"],
+      "respostaCorreta": "Anapuruense"
+    },
+    {
+      "pergunta": "Qual destes produtos agrícolas NÃO é um dos principais cultivados em Anapurus?",
+      "opcoes": ["Arroz", "Milho", "Mandioca", "Trigo"],
+      "respostaCorreta": "Trigo"
+    },
+    {
+      "pergunta": "Qual importante rio banha o município de Anapurus?",
+      "opcoes": ["Rio Tocantins", "Rio Mearim", "Rio Munim", "Rio Gurupi"],
+      "respostaCorreta": "Rio Munim"
+    },
+    {
+      "pergunta": "A criação de qual tipo de gado é predominante na pecuária de Anapurus?",
+      "opcoes": ["Gado leiteiro", "Gado de corte", "Ovinos", "Caprinos"],
+      "respostaCorreta": "Gado de corte"
+    },
+    {
+      "pergunta": "Qual rodovia estadual é a principal via de acesso a Anapurus?",
+      "opcoes": ["MA-230", "MA-006", "MA-101", "MA-202"],
+      "respostaCorreta": "MA-230"
+    },
+    {
+      "pergunta": "Em que data se comemora o aniversário de emancipação política de Anapurus?",
+      "opcoes": ["1º de Janeiro", "7 de Setembro", "15 de Novembro", "10 de Novembro"],
+      "respostaCorreta": "10 de Novembro"
+    },
+    {
+      "pergunta": "O Festejo de São Bernardo, padroeiro da cidade, acontece em que mês?",
+      "opcoes": ["Janeiro", "Junho", "Agosto", "Dezembro"],
+      "respostaCorreta": "Agosto"
+    },
+    {
+      "pergunta": "Qual a vegetação predominante na região de Anapurus, característica do Leste Maranhense?",
+      "opcoes": ["Mata Atlântica", "Manguezal", "Campos e Cerrado", "Caatinga"],
+      "respostaCorreta": "Campos e Cerrado"
+    },
+    {
+      "pergunta": "O que significa o termo 'desmembrado' na história de um município?",
+      "opcoes": ["Que ele foi destruído", "Que ele foi separado de um município maior para se tornar independente", "Que ele mudou de nome", "Que ele foi comprado"],
+      "respostaCorreta": "Que ele foi separado de um município maior para se tornar independente"
+    },
+    {
+      "pergunta": "A população de Anapurus, segundo o Censo de 2022, é de aproximadamente:",
+      "opcoes": ["5.000 habitantes", "8.000 habitantes", "13.000 habitantes", "25.000 habitantes"],
+      "respostaCorreta": "13.000 habitantes"
+    },
+    {
+      "pergunta": "Qual destas cidades NÃO faz divisa com Anapurus?",
+      "opcoes": ["Mata Roma", "Brejo", "Chapadinha", "São Luís"],
+      "respostaCorreta": "São Luís"
+    },
+    {
+      "pergunta": "O que é 'agricultura de subsistência', praticada por muitas famílias em Anapurus?",
+      "opcoes": ["Plantio para exportação", "Plantio para vender apenas na cidade", "Plantio voltado principalmente para o consumo da própria família", "Plantio de produtos de luxo"],
+      "respostaCorreta": "Plantio voltado principalmente para o consumo da própria família"
+    },
+    {
+      "pergunta": "Qual o poder que administra o município?",
+      "opcoes": ["O Governo do Estado", "A Prefeitura Municipal", "O Governo Federal", "A ONU"],
+      "respostaCorreta": "A Prefeitura Municipal"
+    },
+    {
+      "pergunta": "O clima em Anapurus é predominantemente:",
+      "opcoes": ["Frio e seco", "Quente e úmido", "Temperado", "Polar"],
+      "respostaCorreta": "Quente e úmido"
+    },
+    {
+      "pergunta": "A farinha produzida na região é feita, em sua maioria, de qual produto?",
+      "opcoes": ["Trigo", "Milho", "Mandioca", "Arroz"],
+      "respostaCorreta": "Mandioca"
+    },
+    {
+      "pergunta": "O que é uma 'vaquejada', evento cultural comum na região de Anapurus?",
+      "opcoes": ["Uma exposição de gado", "Uma competição onde vaqueiros tentam derrubar um boi", "Um desfile de cavalos", "Um tipo de dança"],
+      "respostaCorreta": "Uma competição onde vaqueiros tentam derrubar um boi"
+    },
+    {
+      "pergunta": "Qual o significado do nome da tribo 'Anapurus-I'?",
+      "opcoes": ["Povo do Rio", "Povo da Montanha", "Formiga Grande", "Guerreiros do Sol"],
+      "respostaCorreta": "Formiga Grande"
+    },
+    {
+      "pergunta": "Qual a principal fonte de receita para a prefeitura de Anapurus?",
+      "opcoes": ["Turismo", "Impostos de grandes indústrias", "Repasses de verbas do estado e da união", "Exportação de soja"],
+      "respostaCorreta": "Repasses de verbas do estado e da união"
+    },
+    {
+      "pergunta": "A região do Baixo Parnaíba, onde Anapurus se insere, é uma transição entre quais biomas?",
+      "opcoes": ["Amazônia e Mata Atlântica", "Cerrado e Caatinga", "Pampa e Pantanal", "Manguezal e Restinga"],
+      "respostaCorreta": "Cerrado e Caatinga"
+    },
+    {
+      "pergunta": "Qual é a função da Câmara Municipal de Vereadores em Anapurus?",
+      "opcoes": ["Executar as obras da cidade", "Julgar os crimes", "Criar as leis municipais e fiscalizar o prefeito", "Comandar a polícia"],
+      "respostaCorreta": "Criar as leis municipais e fiscalizar o prefeito"
+    },
+    {
+      "pergunta": "Qual o principal tipo de criação de aves na zona rural de Anapurus?",
+      "opcoes": ["Avestruz", "Pavão", "Galinha caipira", "Falcão"],
+      "respostaCorreta": "Galinha caipira"
+    },
+    {
+      "pergunta": "O município de Belágua faz divisa com Anapurus. Verdadeiro ou Falso?",
+      "opcoes": ["Verdadeiro", "Falso"],
+      "respostaCorreta": "Verdadeiro"
+    },
+    {
+      "pergunta": "O que o hino de Anapurus exalta em sua letra?",
+      "opcoes": ["Apenas o time de futebol", "As belezas naturais, a bravura e a esperança do povo", "A riqueza industrial", "A proximidade com a capital"],
+      "respostaCorreta": "As belezas naturais, a bravura e a esperança do povo"
+    },
+    {
+      "pergunta": "A culinária local, com pratos como galinha caipira e panelada, tem forte influência de qual cultura?",
+      "opcoes": ["Italiana", "Japonesa", "Sertaneja", "Indígena"],
+      "respostaCorreta": "Sertaneja"
+    },
+    {
+      "pergunta": "Qual é a cidade polo da região, para onde muitos anapuruenses viajam para acessar serviços mais complexos?",
+      "opcoes": ["São Luís", "Imperatriz", "Chapadinha", "Fortaleza"],
+      "respostaCorreta": "Chapadinha"
+    },
+    {
+      "pergunta": "Qual a cor predominante da bandeira de Anapurus, além do branco e verde?",
+      "opcoes": ["Vermelho", "Preto", "Azul", "Amarelo"],
+      "respostaCorreta": "Azul"
+    },
+    {
+      "pergunta": "O que o Índice de Desenvolvimento Humano (IDH) de Anapurus, considerado baixo, reflete?",
+      "opcoes": ["Que a cidade é muito desenvolvida", "Desafios nas áreas de educação, renda e expectativa de vida", "Que a cidade é muito populosa", "Que o clima é ruim"],
+      "respostaCorreta": "Desafios nas áreas de educação, renda e expectativa de vida"
+    },
+    {
+      "pergunta": "Qual a importância da agricultura familiar para o município?",
+      "opcoes": ["Nenhuma, só o agronegócio importa", "É a principal responsável pelo abastecimento de alimentos na cidade", "Serve apenas como hobby", "Produz apenas para exportação"],
+      "respostaCorreta": "É a principal responsável pelo abastecimento de alimentos na cidade"
+    },
+    {
+      "pergunta": "O relevo da região de Anapurus é caracterizado por:",
+      "opcoes": ["Grandes montanhas e vales profundos", "Planícies e chapadas baixas", "Dunas e praias", "Cânions e desfiladeiros"],
+      "respostaCorreta": "Planícies e chapadas baixas"
+    },
+    {
+      "pergunta": "Qual o principal problema enfrentado pelos produtores rurais da região?",
+      "opcoes": ["Excesso de chuva", "Falta de terras para plantar", "Períodos de estiagem (seca) e acesso a crédito", "Solo muito fértil"],
+      "respostaCorreta": "Períodos de estiagem (seca) e acesso a crédito"
+    },
+    {
+      "pergunta": "Qual o período do ano com maior incidência de chuvas em Anapurus?",
+      "opcoes": ["De janeiro a maio", "De junho a agosto", "De setembro a dezembro", "Chove o ano todo igualmente"],
+      "respostaCorreta": "De janeiro a maio"
+    },
+    {
+      "pergunta": "O que o brasão de armas de Anapurus simboliza?",
+      "opcoes": ["Apenas a figura do prefeito", "A história, a economia e os valores do município", "A fauna e a flora de outros países", "Um mapa do tesouro"],
+      "respostaCorreta": "A história, a economia e os valores do município"
+    },
+    {
+      "pergunta": "O transporte intermunicipal entre Anapurus e cidades vizinhas é feito principalmente por:",
+      "opcoes": ["Trem", "Avião", "Vans e ônibus", "Barco"],
+      "respostaCorreta": "Vans e ônibus"
+    },
+    {
+      "pergunta": "A 'casa de farinha' é uma estrutura tradicional na zona rural para processar qual produto?",
+      "opcoes": ["Milho", "Arroz", "Trigo", "Mandioca"],
+      "respostaCorreta": "Mandioca"
+    },
+    {
+      "pergunta": "Qual o primeiro prefeito eleito de Anapurus após sua emancipação?",
+      "opcoes": ["Antônio de Pádua Almeida", "José de Ribamar Fiquene", "Jackson Lago", "Roseana Sarney"],
+      "respostaCorreta": "Antônio de Pádua Almeida"
+    },
+    {
+      "pergunta": "Qual a importância do Rio Munim para as comunidades ribeirinhas?",
+      "opcoes": ["Apenas para lazer", "Fonte de água, alimento (pesca) e via de transporte", "Gera energia elétrica para a cidade", "Não tem comunidades ribeirinhas"],
+      "respostaCorreta": "Fonte de água, alimento (pesca) e via de transporte"
+    },
+    {
+      "pergunta": "Qual destes costumes é comum na zona rural de Anapurus?",
+      "opcoes": ["Tomar chá das cinco", "Celebrar o Halloween", "Reunir-se na porta de casa para conversar ao fim da tarde", "Praticar esqui na neve"],
+      "respostaCorreta": "Reunir-se na porta de casa para conversar ao fim da tarde"
+    },
+    {
+      "pergunta": "Qual o principal desafio para a educação no município?",
+      "opcoes": ["Excesso de alunos por sala", "Falta de professores", "Melhorar a infraestrutura e combater a evasão escolar", "Muitas escolas bilíngues"],
+      "respostaCorreta": "Melhorar a infraestrutura e combater a evasão escolar"
+    },
+    {
+      "pergunta": "A culinária local é considerada rica em qual tipo de carboidrato?",
+      "opcoes": ["Pães e massas", "Derivados da mandioca e do milho", "Batata inglesa", "Arroz arbóreo"],
+      "respostaCorreta": "Derivados da mandioca e do milho"
+    },
+    {
+      "pergunta": "Onde a maioria da população de Anapurus reside?",
+      "opcoes": ["Na zona urbana", "Na zona rural", "A população é dividida igualmente", "Em outros municípios"],
+      "respostaCorreta": "Na zona urbana"
+    },
+    {
+      "pergunta": "O que são 'políticas públicas' municipais?",
+      "opcoes": ["Festas organizadas pelo prefeito", "Ações do governo para melhorar a vida da população", "Regras de condomínio", "Leis de trânsito"],
+      "respostaCorreta": "Ações do governo para melhorar a vida da população"
+    },
+    {
+      "pergunta": "A principal atividade de lazer dos jovens na cidade gira em torno de:",
+      "opcoes": ["Óperas e teatros", "Praças, eventos esportivos e festas locais", "Museus de arte moderna", "Parques de diversão"],
+      "respostaCorreta": "Praças, eventos esportivos e festas locais"
+    },
+    {
+      "pergunta": "Qual o nome da região de desenvolvimento da qual Anapurus faz parte?",
+      "opcoes": ["Região Metropolitana de São Luís", "Região do Baixo Parnaíba", "Região Tocantina", "Região dos Lençóis"],
+      "respostaCorreta": "Região do Baixo Parnaíba"
+    },
+    {
+      "pergunta": "O que é o 'Fundo de Participação dos Municípios' (FPM)?",
+      "opcoes": ["Uma festa municipal", "Uma taxa paga pelos cidadãos", "A principal fonte de repasse de verbas da União para a cidade", "Um fundo de investimento privado"],
+      "respostaCorreta": "A principal fonte de repasse de verbas da União para a cidade"
+    },
+    {
+      "pergunta": "O sistema de saúde de Anapurus é composto principalmente por:",
+      "opcoes": ["Grandes hospitais particulares", "Clínicas de estética", "Unidades básicas de saúde (postos de saúde)", "Hospitais de campanha"],
+      "respostaCorreta": "Unidades básicas de saúde (postos de saúde)"
+    },
+    {
+      "pergunta": "A 'queima de roça' para o plantio, embora tradicional, é um problema por causar qual dano ambiental?",
+      "opcoes": ["Enchentes", "Poluição do ar e empobrecimento do solo", "Terremotos", "Congelamento do solo"],
+      "respostaCorreta": "Poluição do ar e empobrecimento do solo"
+    },
+    {
+      "pergunta": "Qual destes NÃO é um prato comum na mesa de um anapuruense?",
+      "opcoes": ["Arroz com feijão", "Galinha caipira", "Cuscuz", "Sushi"],
+      "respostaCorreta": "Sushi"
+    },
+    {
+      "pergunta": "O que o êxodo rural representa para Anapurus?",
+      "opcoes": ["A chegada de muitas pessoas na zona rural", "A saída de pessoas da zona rural para a cidade", "A exportação de produtos rurais", "Uma festa da colheita"],
+      "respostaCorreta": "A saída de pessoas da zona rural para a cidade"
+    },
+    {
+      "pergunta": "Qual destes é um programa social federal importante para a população de baixa renda em Anapurus?",
+      "opcoes": ["Vale-Cultura", "Bolsa Família", "CNH Social", "ProUni"],
+      "respostaCorreta": "Bolsa Família"
+    },
+    {
+      "pergunta": "A cidade de Mata Roma faz divisa com Anapurus. Verdadeiro ou Falso?",
+      "opcoes": ["Verdadeiro", "Falso"],
+      "respostaCorreta": "Verdadeiro"
+    },
+    {
+      "pergunta": "Qual a importância da feira livre na cidade?",
+      "opcoes": ["É apenas um ponto turístico", "Principal local de comercialização de produtos da agricultura familiar", "Um evento que ocorre apenas uma vez por ano", "Não existe feira livre"],
+      "respostaCorreta": "Principal local de comercialização de produtos da agricultura familiar"
+    },
+    {
+      "pergunta": "O que a criação de gado extensiva, comum na região, significa?",
+      "opcoes": ["Gado criado em pequenos espaços, comendo ração", "Gado criado solto em grandes áreas de pastagem", "Gado criado para produção de leite", "Gado importado da Europa"],
+      "respostaCorreta": "Gado criado solto em grandes áreas de pastagem"
+    },
+    {
+      "pergunta": "Qual o principal desafio para o desenvolvimento econômico de Anapurus?",
+      "opcoes": ["Falta de pessoas para trabalhar", "Excesso de indústrias", "Diversificar a economia e melhorar a infraestrutura", "Clima muito frio"],
+      "respostaCorreta": "Diversificar a economia e melhorar a infraestrutura"
+    },
+    {
+      "pergunta": "Qual a religião com o maior número de adeptos em Anapurus?",
+      "opcoes": ["Espiritismo", "Evangélica", "Católica", "Judaísmo"],
+      "respostaCorreta": "Católica"
+    },
+    {
+      "pergunta": "O que o termo 'renda per capita' mede?",
+      "opcoes": ["O total de riqueza da cidade", "A renda média por habitante", "O salário do prefeito", "O custo de vida"],
+      "respostaCorreta": "A renda média por habitante"
+    },
+    {
+      "pergunta": "Qual a principal atividade de lazer nas comunidades rurais?",
+      "opcoes": ["Ir ao cinema", "Jogos de futebol e festas religiosas", "Ir ao shopping", "Praticar golfe"],
+      "respostaCorreta": "Jogos de futebol e festas religiosas"
+    },
+    {
+      "pergunta": "A vegetação de cerrado é adaptada a qual característica climática?",
+      "opcoes": ["Frio intenso e neve", "Umidade constante o ano todo", "Uma estação seca bem definida", "Maremotos"],
+      "respostaCorreta": "Uma estação seca bem definida"
+    },
+    {
+      "pergunta": "Qual o significado da palavra 'agropecuária'?",
+      "opcoes": ["Apenas plantação", "Apenas criação de animais", "A junção de agricultura (plantação) e pecuária (criação de animais)", "Pesca e caça"],
+      "respostaCorreta": "A junção de agricultura (plantação) e pecuária (criação de animais)"
+    },
+    {
+      "pergunta": "O que o censo do IBGE, realizado a cada 10 anos, coleta?",
+      "opcoes": ["Apenas o tipo de comida que as pessoas comem", "Informações sobre a população e suas condições de vida", "A previsão do tempo", "O time de futebol preferido"],
+      "respostaCorreta": "Informações sobre a população e suas condições de vida"
+    },
+    {
+      "pergunta": "Qual a importância de um prefeito para um município como Anapurus?",
+      "opcoes": ["Nenhuma, ele não tem poder", "Ele é o chefe do poder executivo, responsável por administrar a cidade", "Ele apenas organiza as festas", "Sua função é apenas simbólica"],
+      "respostaCorreta": "Ele é o chefe do poder executivo, responsável por administrar a cidade"
+    },
+    {
+      "pergunta": "O que a cultura de 'ajuda mútua' ou 'mutirão' representa nas comunidades rurais?",
+      "opcoes": ["Uma forma de competição", "Um sistema de trabalho coletivo para ajudar uns aos outros", "Um imposto pago à prefeitura", "Uma festa de dança"],
+      "respostaCorreta": "Um sistema de trabalho coletivo para ajudar uns aos outros"
+    },
+    {
+      "pergunta": "A cidade de Vargem Grande faz divisa com Anapurus. Verdadeiro ou Falso?",
+      "opcoes": ["Verdadeiro", "Falso"],
+      "respostaCorreta": "Falso"
+    },
+    {
+      "pergunta": "Qual destes é um desafio para a saúde em Anapurus?",
+      "opcoes": ["Excesso de médicos especialistas", "A necessidade de deslocamento para cidades maiores para casos complexos", "Poluição do ar por indústrias", "Muitos hospitais de luxo"],
+      "respostaCorreta": "A necessidade de deslocamento para cidades maiores para casos complexos"
+    },
+    {
+      "pergunta": "O que o 'associativismo rural' busca promover?",
+      "opcoes": ["A competição entre os produtores", "A união dos produtores para comprar insumos e vender a produção", "O fim da agricultura", "A criação de grandes cidades rurais"],
+      "respostaCorreta": "A união dos produtores para comprar insumos e vender a produção"
+    },
+    {
+      "pergunta": "Qual a principal forma de energia utilizada para cozinhar na zona rural?",
+      "opcoes": ["Energia solar", "Fogão elétrico de indução", "Gás de cozinha e lenha", "Micro-ondas"],
+      "respostaCorreta": "Gás de cozinha e lenha"
+    },
+    {
+      "pergunta": "O que a 'mortalidade infantil' mede?",
+      "opcoes": ["A quantidade de crianças na cidade", "O número de óbitos de crianças antes de completar um ano de vida", "O número de crianças que não vão à escola", "A taxa de natalidade"],
+      "respostaCorreta": "O número de óbitos de crianças antes de completar um ano de vida"
+    },
+    {
+      "pergunta": "Qual o papel do 'agente comunitário de saúde' em Anapurus?",
+      "opcoes": ["Realizar cirurgias complexas", "Fazer o elo entre a comunidade e o posto de saúde", "Dirigir a ambulância", "Vender remédios"],
+      "respostaCorreta": "Fazer o elo entre a comunidade e o posto de saúde"
+    },
+    {
+      "pergunta": "A 'panelada', prato apreciado na região, é feita com qual parte do boi?",
+      "opcoes": ["Picanha", "Filé mignon", "Vísceras (bucho, tripas)", "Costela"],
+      "respostaCorreta": "Vísceras (bucho, tripas)"
+    },
+    {
+      "pergunta": "O que a 'eletrificação rural' levou para as comunidades mais distantes?",
+      "opcoes": ["Apenas contas de luz mais altas", "Acesso a eletrodomésticos, iluminação e melhor qualidade de vida", "Mais mosquitos", "Sinal de internet 5G"],
+      "respostaCorreta": "Acesso a eletrodomésticos, iluminação e melhor qualidade de vida"
+    },
+    {
+      "pergunta": "Qual destes é um doce comum feito de milho, especialmente na época junina?",
+      "opcoes": ["Pudim", "Mungunzá (ou canjica)", "Tiramisù", "Cheesecake"],
+      "respostaCorreta": "Mungunzá (ou canjica)"
+    },
+    {
+      "pergunta": "O que o termo 'leguminosas', como o feijão, significa?",
+      "opcoes": ["Frutas cítricas", "Verduras de folha escura", "Plantas cujas sementes crescem em vagens", "Raízes e tubérculos"],
+      "respostaCorreta": "Plantas cujas sementes crescem em vagens"
+    },
+    {
+      "pergunta": "Qual destes é um direito garantido pela Constituição que o município deve prover?",
+      "opcoes": ["Carro de luxo para todos", "Viagens internacionais anuais", "Educação básica e saúde", "Internet de alta velocidade gratuita"],
+      "respostaCorreta": "Educação básica e saúde"
+    },
+    {
+      "pergunta": "A cidade de São Benedito do Rio Preto faz divisa com Anapurus. Verdadeiro ou Falso?",
+      "opcoes": ["Verdadeiro", "Falso"],
+      "respostaCorreta": "Falso"
+    },
+    {
+      "pergunta": "O que a bandeira de Anapurus tem em seu centro?",
+      "opcoes": ["Uma estrela", "O brasão do município", "Um mapa do Maranhão", "A imagem de São Bernardo"],
+      "respostaCorreta": "O brasão do município"
+    },
+    {
+      "pergunta": "Qual o principal meio de comunicação para notícias locais na cidade?",
+      "opcoes": ["Grandes jornais impressos (Folha, Estadão)", "Canais de TV internacionais (CNN, BBC)", "Rádios locais e blogs da cidade", "Revistas de moda"],
+      "respostaCorreta": "Rádios locais e blogs da cidade"
+    },
+    {
+      "pergunta": "O que a 'rotação de culturas' significa para um agricultor?",
+      "opcoes": ["Plantar a mesma coisa todo ano", "Alternar diferentes tipos de plantas no mesmo terreno para conservar o solo", "Girar fisicamente a plantação", "Plantar apenas em círculos"],
+      "respostaCorreta": "Alternar diferentes tipos de plantas no mesmo terreno para conservar o solo"
+    },
+    {
+      "pergunta": "Qual destes é um animal selvagem comum na região de cerrado de Anapurus?",
+      "opcoes": ["Urso polar", "Pinguim", "Seriema", "Tigre siberiano"],
+      "respostaCorreta": "Seriema"
+    },
+    {
+      "pergunta": "O que significa dizer que o poder em um município é dividido em 'Executivo' e 'Legislativo'?",
+      "opcoes": ["Que a cidade tem dois prefeitos", "Que o prefeito (Executivo) executa e a câmara (Legislativo) faz as leis", "Que a cidade é dividida em duas partes", "Que existem dois times de futebol rivais"],
+      "respostaCorreta": "Que o prefeito (Executivo) executa e a câmara (Legislativo) faz as leis"
+    },
+    {
+      "pergunta": "A 'Festa de Reis', em janeiro, é uma tradição de qual origem?",
+      "opcoes": ["Indígena", "Africana", "Religiosa católica (cristã)", "Asiática"],
+      "respostaCorreta": "Religiosa católica (cristã)"
+    },
+    {
+      "pergunta": "O que a 'posse de terra' representa para um agricultor familiar?",
+      "opcoes": ["Apenas um custo extra", "A segurança para plantar e investir na produção", "Um documento sem valor", "Uma permissão para caçar"],
+      "respostaCorreta": "A segurança para plantar e investir na produção"
+    },
+    {
+      "pergunta": "Qual destes é um problema social que afeta jovens em municípios pequenos com poucas oportunidades?",
+      "opcoes": ["Excesso de ofertas de emprego", "A necessidade de migrar para cidades maiores para estudar e trabalhar", "Muitas opções de lazer", "Falta de redes sociais"],
+      "respostaCorreta": "A necessidade de migrar para cidades maiores para estudar e trabalhar"
+    },
+    {
+      "pergunta": "O que a 'aridez' do período de estiagem causa na vegetação?",
+      "opcoes": ["Ela fica mais verde e exuberante", "Ela se adapta, ficando com aparência seca para economizar água", "Ela floresce intensamente", "Ela congela"],
+      "respostaCorreta": "Ela se adapta, ficando com aparência seca para economizar água"
+    },
+    {
+      "pergunta": "Qual a importância de vacinar o gado?",
+      "opcoes": ["Apenas para cumprir a lei", "Para prevenir doenças e garantir a saúde do rebanho e a segurança alimentar", "Para o gado correr mais rápido", "Não tem importância"],
+      "respostaCorreta": "Para prevenir doenças e garantir a saúde do rebanho e a segurança alimentar"
+    },
+    {
+      "pergunta": "O que a frase 'terra de gente honesta e trabalhadora' busca ressaltar sobre Anapurus?",
+      "opcoes": ["Que a cidade é rica", "O caráter e os valores de sua população", "A geografia local", "A culinária"],
+      "respostaCorreta": "O caráter e os valores de sua população"
+    }
+  ]
+}

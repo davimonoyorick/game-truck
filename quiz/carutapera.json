@@ -1,0 +1,450 @@
+{
+  "nome": "Carutapera",
+  "perguntas": [
+    {
+      "pergunta": "Devido à sua forte economia pesqueira, qual apelido é frequentemente dado a Carutapera?",
+      "opcoes": ["Terra do Pescado", "Rainha do Milho", "Capital do Gado", "Cidade dos Ventos"],
+      "respostaCorreta": "Terra do Pescado"
+    },
+    {
+      "pergunta": "Carutapera faz divisa com qual outro estado brasileiro, sendo separada pelo rio Gurupi?",
+      "opcoes": ["Piauí", "Tocantins", "Ceará", "Pará"],
+      "respostaCorreta": "Pará"
+    },
+    {
+      "pergunta": "Qual o significado do nome 'Carutapera', de origem tupi?",
+      "opcoes": ["Rio dos Peixes", "Povoação Abandonada", "Terra das Palmeiras", "Morro Verde"],
+      "respostaCorreta": "Povoação Abandonada"
+    },
+    {
+      "pergunta": "A economia de Carutapera é fortemente ligada a qual atividade?",
+      "opcoes": ["Indústria automobilística", "Mineração de ouro", "Pesca", "Cultivo de uvas"],
+      "respostaCorreta": "Pesca"
+    },
+    {
+      "pergunta": "Qual destes produtos do mar NÃO é comumente encontrado na culinária de Carutapera?",
+      "opcoes": ["Camarão", "Caranguejo", "Turú", "Salmão"],
+      "respostaCorreta": "Salmão"
+    },
+    {
+      "pergunta": "Em que ano Carutapera foi elevada à categoria de vila, desmembrando-se de Turiaçu?",
+      "opcoes": ["1822", "1901", "1886", "1950"],
+      "respostaCorreta": "1886"
+    },
+    {
+      "pergunta": "Qual bioma predomina na região de Carutapera, fazendo parte da chamada 'Amazônia Maranhense'?",
+      "opcoes": ["Cerrado", "Caatinga", "Mata Atlântica", "Bioma Amazônia (Manguezal)"],
+      "respostaCorreta": "Bioma Amazônia (Manguezal)"
+    },
+    {
+      "pergunta": "Quem foram os fundadores da povoação de Carutapera em 1861?",
+      "opcoes": ["Jesuítas portugueses", "Bandeirantes paulistas", "Firmino e Fausta Pantoja", "Imigrantes italianos"],
+      "respostaCorreta": "Firmino e Fausta Pantoja"
+    },
+    {
+      "pergunta": "O acesso rodoviário principal a Carutapera se dá pela BR-316 e depois por qual rodovia estadual?",
+      "opcoes": ["MA-006", "MA-101", "MA-206", "MA-333"],
+      "respostaCorreta": "MA-206"
+    },
+    {
+      "pergunta": "Qual o nome do rio à margem do qual Carutapera foi fundada?",
+      "opcoes": ["Rio Gurupi", "Rio Tocantins", "Rio Mearim", "Rio Arapiranga"],
+      "respostaCorreta": "Rio Arapiranga"
+    },
+    {
+      "pergunta": "Qual prato exótico, um molusco encontrado em troncos de mangue, é uma iguaria famosa em Carutapera?",
+      "opcoes": ["Ostra", "Mexilhão", "Sururu", "Turú"],
+      "respostaCorreta": "Turú"
+    },
+    {
+      "pergunta": "O aniversário da autonomia de Carutapera é comemorado em qual data?",
+      "opcoes": ["7 de Setembro", "15 de Novembro", "3 de Junho", "1 de Maio"],
+      "respostaCorreta": "3 de Junho"
+    },
+    {
+      "pergunta": "O que a expressão 'terra do pescado' significa para Carutapera?",
+      "opcoes": ["Que a cidade tem muitos pesque-pagues", "A abundância e importância do peixe na economia e cultura", "Que a cidade exporta peixes ornamentais", "Que há uma estátua de peixe na entrada"],
+      "respostaCorreta": "A abundância e importância do peixe na economia e cultura"
+    },
+    {
+      "pergunta": "Além de pessoas, os portos de Carutapera são usados para transportar mercadorias para ilhas e para qual cidade do Pará?",
+      "opcoes": ["Belém", "Santarém", "Marabá", "Viseu"],
+      "respostaCorreta": "Viseu"
+    },
+    {
+      "pergunta": "A culinária local, como 'açaí com camarão', reflete a influência de qual cultura?",
+      "opcoes": ["Africana", "Europeia", "Indígena e Amazônica", "Asiática"],
+      "respostaCorreta": "Indígena e Amazônica"
+    },
+    {
+      "pergunta": "Qual município Carutapera pertencia antes de ganhar sua autonomia?",
+      "opcoes": ["Cândido Mendes", "Godofredo Viana", "Turiaçu", "Luís Domingues"],
+      "respostaCorreta": "Turiaçu"
+    },
+    {
+      "pergunta": "O que representa o manguezal para a biodiversidade de Carutapera?",
+      "opcoes": ["Uma área de deserto", "Uma floresta de pinheiros", "Um berçário natural para muitas espécies marinhas", "Uma plantação de eucaliptos"],
+      "respostaCorreta": "Um berçário natural para muitas espécies marinhas"
+    },
+    {
+      "pergunta": "Qual o gentílico para quem nasce em Carutapera?",
+      "opcoes": ["Carutaense", "Carutaperense", "Caruense", "Taperense"],
+      "respostaCorreta": "Carutaperense"
+    },
+    {
+      "pergunta": "O município de Luís Domingues, hoje independente, já foi um distrito de Carutapera. Verdadeiro ou Falso?",
+      "opcoes": ["Verdadeiro", "Falso"],
+      "respostaCorreta": "Verdadeiro"
+    },
+    {
+      "pergunta": "A pesca praticada em Carutapera é predominantemente de qual tipo?",
+      "opcoes": ["Pesca industrial em alto mar", "Pesca com arpão", "Pesca esportiva de luxo", "Pesca artesanal"],
+      "respostaCorreta": "Pesca artesanal"
+    },
+    {
+      "pergunta": "Qual a distância aproximada por terra (via BR-135/222/316) entre São Luís e Carutapera?",
+      "opcoes": ["Cerca de 200 km", "Cerca de 350 km", "Cerca de 560 km", "Cerca de 800 km"],
+      "respostaCorreta": "Cerca de 560 km"
+    },
+    {
+      "pergunta": "O que o bioma amazônico proporciona a Carutapera em termos de recursos naturais?",
+      "opcoes": ["Apenas madeira", "Grande biodiversidade na fauna e flora", "Minas de carvão", "Geleiras"],
+      "respostaCorreta": "Grande biodiversidade na fauna e flora"
+    },
+    {
+      "pergunta": "Qual a principal via de transporte para as ilhas e praias isoladas do município?",
+      "opcoes": ["Helicópteros", "Estradas de terra", "Transporte fluvial/marítimo", "Teleféricos"],
+      "respostaCorreta": "Transporte fluvial/marítimo"
+    },
+    {
+      "pergunta": "Em 1931, Carutapera teve sua autonomia extinta e foi reanexada a qual município?",
+      "opcoes": ["Turiaçu", "Cândido Mendes", "Viseu", "Bragança"],
+      "respostaCorreta": "Turiaçu"
+    },
+    {
+      "pergunta": "O que é 'Janeirão' em Carutapera?",
+      "opcoes": ["Um imposto pago em janeiro", "Um festival cultural e esportivo", "Uma frente fria que chega em janeiro", "O nome do prefeito"],
+      "respostaCorreta": "Um festival cultural e esportivo"
+    },
+    {
+      "pergunta": "A farinha que acompanha o açaí em Carutapera é tipicamente produzida a partir de quê?",
+      "opcoes": ["Trigo", "Milho", "Mandioca", "Arroz"],
+      "respostaCorreta": "Mandioca"
+    },
+    {
+      "pergunta": "Qual evento esportivo tradicional acontece em janeiro, como parte do 'Janeirão'?",
+      "opcoes": ["Corrida de Fórmula 1", "Copão de São Sebastião", "Torneio de Tênis", "Maratona Aquática"],
+      "respostaCorreta": "Copão de São Sebastião"
+    },
+    {
+      "pergunta": "A localização de Carutapera, próxima à foz do Rio Gurupi, a coloca em qual região geográfica do Maranhão?",
+      "opcoes": ["Sul Maranhense", "Lençóis Maranhenses", "Noroeste Maranhense", "Baixada Maranhense"],
+      "respostaCorreta": "Noroeste Maranhense"
+    },
+    {
+      "pergunta": "A frase 'Gente acolhedora, humilde de coração' descreve qual aspecto de Carutapera?",
+      "opcoes": ["A arquitetura", "O clima", "A hospitalidade de seu povo", "A economia"],
+      "respostaCorreta": "A hospitalidade de seu povo"
+    },
+    {
+      "pergunta": "Qual destes peixes é abundante na região e muito consumido frito, assado ou cozido?",
+      "opcoes": ["Truta", "Salmão", "Pescada", "Bacalhau"],
+      "respostaCorreta": "Pescada"
+    },
+    {
+      "pergunta": "A reforma e ampliação da orla de Carutapera visa principalmente:",
+      "opcoes": ["Construir um aeroporto", "Modernizar e valorizar o litoral", "Criar uma fazenda de camarão", "Plantar coqueiros"],
+      "respostaCorreta": "Modernizar e valorizar o litoral"
+    },
+    {
+      "pergunta": "A cultura local é fortemente transmitida de que maneira?",
+      "opcoes": ["Por livros e enciclopédias", "Pela televisão local", "De forma oral, dos mais velhos para os mais novos", "Através da internet"],
+      "respostaCorreta": "De forma oral, dos mais velhos para os mais novos"
+    },
+    {
+      "pergunta": "O que o percentual de 94,61% de receitas externas (em 2023) indica sobre a economia de Carutapera?",
+      "opcoes": ["Que a cidade é autossuficiente", "Que depende muito de repasses federais e estaduais", "Que exporta muitos produtos", "Que tem muitas empresas estrangeiras"],
+      "respostaCorreta": "Que depende muito de repasses federais e estaduais"
+    },
+    {
+      "pergunta": "A cidade de Carutapera está localizada na Zona Costeira e Marinha. Verdadeiro ou Falso?",
+      "opcoes": ["Verdadeiro", "Falso"],
+      "respostaCorreta": "Verdadeiro"
+    },
+    {
+      "pergunta": "Qual a principal dificuldade para o acesso 100% rodoviário de São Luís a Carutapera?",
+      "opcoes": ["A falta de postos de gasolina", "A distância muito maior e a necessidade de usar balsas", "A grande quantidade de pedágios", "A estrada ser toda de terra"],
+      "respostaCorreta": "A distância muito maior e a necessidade de usar balsas"
+    },
+    {
+      "pergunta": "As 'lendas da região que impressiona multidão' fazem parte de qual patrimônio de Carutapera?",
+      "opcoes": ["Patrimônio material", "Patrimônio arquitetônico", "Patrimônio imaterial e cultural", "Patrimônio industrial"],
+      "respostaCorreta": "Patrimônio imaterial e cultural"
+    },
+    {
+      "pergunta": "O que é Itamataré?",
+      "opcoes": ["Um rio local", "O nome do primeiro prefeito", "Um antigo distrito de Carutapera", "Uma dança típica"],
+      "respostaCorreta": "Um antigo distrito de Carutapera"
+    },
+    {
+      "pergunta": "A cidade de Carutapera possui uma pista de pouso para qual tipo de aeronave?",
+      "opcoes": ["Grandes jatos comerciais", "Helicópteros militares", "Pequenas aeronaves", "Ônibus espaciais"],
+      "respostaCorreta": "Pequenas aeronaves"
+    },
+    {
+      "pergunta": "O que é o 'Copão de São Sebastião'?",
+      "opcoes": ["Uma competição de culinária", "Um torneio de futebol amador", "Um bloco de carnaval", "Uma festa religiosa"],
+      "respostaCorreta": "Um torneio de futebol amador"
+    },
+    {
+      "pergunta": "Por que a culinária de Carutapera é considerada '100% natural'?",
+      "opcoes": ["Porque todos os alimentos são orgânicos certificados", "Pelo uso abundante de produtos frescos e locais, como peixes e açaí", "Porque não usam sal", "Porque só comem alimentos crus"],
+      "respostaCorreta": "Pelo uso abundante de produtos frescos e locais, como peixes e açaí"
+    },
+    {
+      "pergunta": "Qual a importância do Rio Gurupi para Carutapera?",
+      "opcoes": ["É a principal fonte de água potável", "Define a divisa com o estado do Pará", "É onde se pratica surf", "Não tem importância para a cidade"],
+      "respostaCorreta": "Define a divisa com o estado do Pará"
+    },
+    {
+      "pergunta": "Qual destes crustáceos é um símbolo da culinária e da economia local?",
+      "opcoes": ["Lagosta", "Lagostim", "Caranguejo", "Siri"],
+      "respostaCorreta": "Caranguejo"
+    },
+    {
+      "pergunta": "O que a prefeitura tem feito para garantir o 'abastecimento sustentável' de água?",
+      "opcoes": ["Construindo mais poços", "Implementando novas ações de gestão hídrica", "Trazendo água de outro estado", "Dessalinizando a água do mar"],
+      "respostaCorreta": "Implementando novas ações de gestão hídrica"
+    },
+    {
+      "pergunta": "Como o manguezal contribui para a proteção da zona costeira de Carutapera?",
+      "opcoes": ["Atraindo turistas", "Servindo como uma barreira natural contra a erosão", "Fornecendo areia para as praias", "Não contribui"],
+      "respostaCorreta": "Servindo como uma barreira natural contra a erosão"
+    },
+    {
+      "pergunta": "Qual o nome do terminal hidroviário onde se desembarca do ferry-boat vindo de São Luís?",
+      "opcoes": ["Terminal da Ponta da Espera", "Terminal do Cujupe", "Porto de Itaqui", "Porto da Madeira"],
+      "respostaCorreta": "Terminal do Cujupe"
+    },
+    {
+      "pergunta": "Qual destes é um prato típico que combina açaí e um fruto do mar?",
+      "opcoes": ["Açaí com peixe frito", "Açaí com camarão", "Açaí com ostra", "Açaí com caranguejo"],
+      "respostaCorreta": "Açaí com camarão"
+    },
+    {
+      "pergunta": "Carutapera está mais próxima de qual capital: São Luís ou Belém (PA)?",
+      "opcoes": ["São Luís", "Belém (PA)", "Teresina (PI)", "Fica exatamente no meio"],
+      "respostaCorreta": "Belém (PA)"
+    },
+    {
+      "pergunta": "O que são as 'reentrâncias maranhenses', característica geográfica presente no litoral de Carutapera?",
+      "opcoes": ["Grandes montanhas", "Extensas planícies desérticas", "Recortes profundos do litoral, formando baías e estuários", "Cavernas subterrâneas"],
+      "respostaCorreta": "Recortes profundos do litoral, formando baías e estuários"
+    },
+    {
+      "pergunta": "Qual a principal atividade econômica que ameaça a conservação dos manguezais na região?",
+      "opcoes": ["A pesca artesanal", "O turismo ecológico", "A carcinicultura (criação de camarão)", "O cultivo de flores"],
+      "respostaCorreta": "A carcinicultura (criação de camarão)"
+    },
+    {
+      "pergunta": "Qual o principal desafio para o escoamento da produção pesqueira de Carutapera?",
+      "opcoes": ["A falta de compradores", "A qualidade do peixe", "A infraestrutura de transporte e estradas", "A falta de barcos"],
+      "respostaCorreta": "A infraestrutura de transporte e estradas"
+    },
+    {
+      "pergunta": "O clima de Carutapera é classificado como:",
+      "opcoes": ["Temperado", "Semiárido", "Tropical úmido", "Frio de montanha"],
+      "respostaCorreta": "Tropical úmido"
+    },
+    {
+      "pergunta": "Qual a importância cultural de festas como o 'Janeirão'?",
+      "opcoes": ["Apenas para arrecadar impostos", "Manter as tradições vivas e promover a integração da comunidade", "Atrair investidores estrangeiros", "Eleger o prefeito"],
+      "respostaCorreta": "Manter as tradições vivas e promover a integração da comunidade"
+    },
+    {
+      "pergunta": "Qual destes moluscos, que vive em conchas e é coletado na maré baixa, é parte da culinária local?",
+      "opcoes": ["Polvo", "Lula", "Mexilhão", "Escargot"],
+      "respostaCorreta": "Mexilhão"
+    },
+    {
+      "pergunta": "O turismo em Carutapera está mais associado a qual tipo de atividade?",
+      "opcoes": ["Turismo de negócios", "Turismo de inverno", "Turismo de base comunitária e ecoturismo", "Turismo de luxo"],
+      "respostaCorreta": "Turismo de base comunitária e ecoturismo"
+    },
+    {
+      "pergunta": "A população de Carutapera, segundo o censo de 2022, é de aproximadamente:",
+      "opcoes": ["5.000 habitantes", "10.000 habitantes", "24.000 habitantes", "50.000 habitantes"],
+      "respostaCorreta": "24.000 habitantes"
+    },
+    {
+      "pergunta": "Qual destes NÃO é um município vizinho a Carutapera?",
+      "opcoes": ["Cândido Mendes", "Godofredo Viana", "Turiaçu", "São Luís"],
+      "respostaCorreta": "São Luís"
+    },
+    {
+      "pergunta": "O que significa dizer que Carutapera está na 'Amazônia Legal'?",
+      "opcoes": ["Que a cidade é a capital da Amazônia", "Que faz parte de uma área definida por lei para fins de políticas de desenvolvimento", "Que todas as leis lá são amazônicas", "Que só vivem animais na cidade"],
+      "respostaCorreta": "Que faz parte de uma área definida por lei para fins de políticas de desenvolvimento"
+    },
+    {
+      "pergunta": "Qual a principal religião professada no município, seguindo a tendência nacional?",
+      "opcoes": ["Islamismo", "Judaísmo", "Catolicismo", "Budismo"],
+      "respostaCorreta": "Catolicismo"
+    },
+    {
+      "pergunta": "A vegetação de mangue é adaptada a qual tipo de ambiente?",
+      "opcoes": ["Ambientes secos e arenosos", "Ambientes de água doce e corrente", "Ambientes salinos e de transição entre terra e mar", "Ambientes de alta altitude e frio"],
+      "respostaCorreta": "Ambientes salinos e de transição entre terra e mar"
+    },
+    {
+      "pergunta": "Qual destes desafios sociais é presente em Carutapera, refletindo a realidade de muitos municípios da região?",
+      "opcoes": ["Excesso de indústrias poluentes", "Trânsito intenso de carros de luxo", "Baixo Índice de Desenvolvimento Humano (IDH)", "Falta de praias"],
+      "respostaCorreta": "Baixo Índice de Desenvolvimento Humano (IDH)"
+    },
+    {
+      "pergunta": "Qual o principal destino do pescado que sai do porto de Carutapera?",
+      "opcoes": ["Apenas o mercado local", "Exportação para a Europa", "Grandes centros como São Luís, Teresina e Fortaleza", "Venda para aquários"],
+      "respostaCorreta": "Grandes centros como São Luís, Teresina e Fortaleza"
+    },
+    {
+      "pergunta": "Qual destes nomes de distrito, que pertenceu a Carutapera no passado, também é o nome de uma árvore?",
+      "opcoes": ["Laranjeiras", "Coimbra", "Gurupi", "Pinheiros"],
+      "respostaCorreta": "Gurupi"
+    },
+    {
+      "pergunta": "A taxa de escolarização de 6 a 14 anos em Carutapera é alta ou baixa?",
+      "opcoes": ["Muito baixa, abaixo de 50%", "Média, em torno de 70%", "Alta, geralmente acima de 95%", "Não há dados sobre isso"],
+      "respostaCorreta": "Alta, geralmente acima de 95%"
+    },
+    {
+      "pergunta": "A 'comunidade do Canadá' em Carutapera recebeu melhorias recentes em qual área?",
+      "opcoes": ["Saneamento básico", "Internet 5G", "Asfalto nas vias", "Construção de um teatro"],
+      "respostaCorreta": "Asfalto nas vias"
+    },
+    {
+      "pergunta": "Qual destes problemas ambientais afeta diretamente a vida marinha em Carutapera?",
+      "opcoes": ["Poluição sonora", "Poluição luminosa", "Poluição por plásticos e lixo nos rios e mar", "Poluição do ar por indústrias"],
+      "respostaCorreta": "Poluição por plásticos e lixo nos rios e mar"
+    },
+    {
+      "pergunta": "O que a 'transmissão de conhecimento intergeracional' significa para a cultura local?",
+      "opcoes": ["Que os jovens ensinam os mais velhos a usar a internet", "Que o conhecimento é passado de geração em geração", "Que as escolas usam apenas livros antigos", "Que ninguém aprende nada novo"],
+      "respostaCorreta": "Que o conhecimento é passado de geração em geração"
+    },
+    {
+      "pergunta": "O PIB per capita de Carutapera é considerado alto ou baixo em comparação com a média nacional?",
+      "opcoes": ["Muito alto", "Na média nacional", "Baixo", "Um dos mais altos do mundo"],
+      "respostaCorreta": "Baixo"
+    },
+    {
+      "pergunta": "Qual a principal fonte de energia elétrica para Carutapera?",
+      "opcoes": ["Energia nuclear", "Energia eólica", "Energia solar em grande escala", "Sistema Interligado Nacional (hidrelétricas)"],
+      "respostaCorreta": "Sistema Interligado Nacional (hidrelétricas)"
+    },
+    {
+      "pergunta": "Qual a importância das 'capacitações para educadores' realizadas no município?",
+      "opcoes": ["Para ensinar os professores a cozinhar", "Para aprimorar a qualidade da educação local", "Para treinar os professores para as olimpíadas", "Para dar um dia de folga aos professores"],
+      "respostaCorreta": "Para aprimorar a qualidade da educação local"
+    },
+    {
+      "pergunta": "O artesanato local utiliza matérias-primas de qual origem?",
+      "opcoes": ["Plástico reciclado", "Metais importados", "Fibras naturais, sementes e conchas da região", "Vidro soprado"],
+      "respostaCorreta": "Fibras naturais, sementes e conchas da região"
+    },
+    {
+      "pergunta": "Qual destes NÃO é um benefício direto do manguezal para a população de Carutapera?",
+      "opcoes": ["Fonte de alimento (caranguejo, peixes)", "Proteção da costa", "Fonte de matéria-prima para o artesanato", "Local para cultivo de soja"],
+      "respostaCorreta": "Local para cultivo de soja"
+    },
+    {
+      "pergunta": "O que significa 'desenvolvimento sustentável' no contexto de Carutapera?",
+      "opcoes": ["Parar todo tipo de pesca e extrativismo", "Explorar os recursos naturais sem se preocupar com o futuro", "Usar os recursos de forma a garantir sua existência para as futuras gerações", "Construir o máximo de prédios possível"],
+      "respostaCorreta": "Usar os recursos de forma a garantir sua existência para as futuras gerações"
+    },
+    {
+      "pergunta": "Qual destes desafios de infraestrutura é mais evidente em Carutapera?",
+      "opcoes": ["Falta de aeroportos internacionais", "Congestionamentos gigantescos", "Saneamento básico e pavimentação de ruas", "Excesso de semáforos"],
+      "respostaCorreta": "Saneamento básico e pavimentação de ruas"
+    },
+    {
+      "pergunta": "A cultura do 'Bumba Meu Boi' é forte em Carutapera?",
+      "opcoes": ["Sim, é uma das principais manifestações", "Não, é mais comum em São Luís", "Não existe Bumba Meu Boi na cidade", "É uma festa rara, que acontece a cada 10 anos"],
+      "respostaCorreta": "Sim, é uma das principais manifestações"
+    },
+    {
+      "pergunta": "Qual destes peixes de água salgada é muito valorizado e pescado na região?",
+      "opcoes": ["Pirarucu", "Tucunaré", "Robalo", "Dourado"],
+      "respostaCorreta": "Robalo"
+    },
+    {
+      "pergunta": "O que são 'voadeiras' no contexto do transporte local?",
+      "opcoes": ["Um tipo de pássaro migratório", "Pequenas e rápidas embarcações a motor", "Bicicletas com motor", "Um tipo de pipa"],
+      "respostaCorreta": "Pequenas e rápidas embarcações a motor"
+    },
+    {
+      "pergunta": "Qual a maior ameaça à pesca artesanal em Carutapera?",
+      "opcoes": ["A falta de peixes no mar", "A concorrência com grandes barcos de pesca industrial e a poluição", "Os ataques de tubarão", "A proibição da pesca pelo governo"],
+      "respostaCorreta": "A concorrência com grandes barcos de pesca industrial e a poluição"
+    },
+    {
+      "pergunta": "O que as festas de padroeiros representam para as comunidades de Carutapera?",
+      "opcoes": ["Apenas feriados", "Um momento de fé, celebração e encontro da comunidade", "Uma oportunidade para protestos", "Um evento de negócios"],
+      "respostaCorreta": "Um momento de fé, celebração e encontro da comunidade"
+    },
+    {
+      "pergunta": "Qual destes frutos amazônicos, além do açaí, é comum na região?",
+      "opcoes": ["Maçã", "Uva", "Cupuaçu", "Pera"],
+      "respostaCorreta": "Cupuaçu"
+    },
+    {
+      "pergunta": "A 'casa de farinha' é uma estrutura rústica usada para produzir farinha de quê?",
+      "opcoes": ["Trigo", "Mandioca", "Milho", "Centeio"],
+      "respostaCorreta": "Mandioca"
+    },
+    {
+      "pergunta": "Qual o principal instrumento usado para a extração do turú dos troncos de mangue?",
+      "opcoes": ["Rede de pesca", "Anzol", "Machado", "Serra elétrica"],
+      "respostaCorreta": "Machado"
+    },
+    {
+      "pergunta": "O que é 'calafetar' um barco, uma prática comum nos portos de Carutapera?",
+      "opcoes": ["Pintar o barco", "Vedar as frestas do casco para não entrar água", "Colocar o motor", "Instalar as velas"],
+      "respostaCorreta": "Vedar as frestas do casco para não entrar água"
+    },
+    {
+      "pergunta": "A influência indígena em Carutapera é vista principalmente em quais aspectos?",
+      "opcoes": ["Na arquitetura dos prédios", "Nos nomes de lugares, culinária e lendas", "No sistema político", "Na moda local"],
+      "respostaCorreta": "Nos nomes de lugares, culinária e lendas"
+    },
+    {
+      "pergunta": "Qual destes é um desafio para a saúde pública em Carutapera?",
+      "opcoes": ["Excesso de hospitais de luxo", "Doenças relacionadas à falta de saneamento básico", "Poluição do ar", "Estresse causado pelo trânsito"],
+      "respostaCorreta": "Doenças relacionadas à falta de saneamento básico"
+    },
+    {
+      "pergunta": "Como a maré influencia a vida dos pescadores de Carutapera?",
+      "opcoes": ["Não influencia em nada", "Define os horários de saída e chegada dos barcos", "Muda a cor da água", "Faz os peixes dormirem"],
+      "respostaCorreta": "Define os horários de saída e chegada dos barcos"
+    },
+    {
+      "pergunta": "A 'Festa do Pescador' celebra qual santo, padroeiro dos pescadores?",
+      "opcoes": ["São João", "Santo Antônio", "São Pedro", "São Sebastião"],
+      "respostaCorreta": "São Pedro"
+    },
+    {
+      "pergunta": "Qual o principal combustível usado nos barcos de pesca artesanal?",
+      "opcoes": ["Energia solar", "Vento (velas)", "Óleo diesel", "Energia nuclear"],
+      "respostaCorreta": "Óleo diesel"
+    },
+    {
+      "pergunta": "O que é um 'curral de pesca', uma armadilha fixa usada na região?",
+      "opcoes": ["Uma piscina para criar peixes", "Uma grande estrutura de estacas que aprisiona os peixes na maré baixa", "Um tipo de anzol", "Uma pequena rede de mão"],
+      "respostaCorreta": "Uma grande estrutura de estacas que aprisiona os peixes na maré baixa"
+    },
+    {
+      "pergunta": "Qual a importância da valorização da 'cultura regional' para a identidade de Carutapera?",
+      "opcoes": ["Nenhuma importância", "Ajuda a fortalecer o sentimento de pertencimento e a autoestima da comunidade", "Atrapalha o progresso", "Serve apenas para atrair turistas"],
+      "respostaCorreta": "Ajuda a fortalecer o sentimento de pertencimento e a autoestima da comunidade"
+    }
+  ]
+}

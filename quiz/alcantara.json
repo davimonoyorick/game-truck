@@ -1,0 +1,456 @@
+{
+  "nome": "Alcântara",
+  "imagens" : [
+    "ALC1.JPG",
+    "ALC2.JPG",
+    "ALC3.JPG",
+    "ALC4.JPG",
+    "ALC5.JPG",
+    "ALC6.JPG",
+    "ALC7.JPG",
+    "ALC8.JPG",
+    "ALC9.JPG",
+    "ALC10.JPG",
+    "ALC11.JPG",
+    "ALC12.JPG",
+    "ALC13.JPG",
+    "ALC14.JPG"
+  ],
+  "perguntas": [
+    {
+      "pergunta": "Alcântara é mundialmente famosa por abrigar qual importante instalação brasileira?",
+      "opcoes": ["O maior observatório astronômico", "Centro de Lançamento de Foguetes", "A principal usina nuclear", "O maior porto do Brasil"],
+      "respostaCorreta": "Centro de Lançamento de Foguetes"
+    },
+    {
+      "pergunta": "Qual apelido é frequentemente dado a Alcântara devido à sua preservação arquitetônica e aparente estagnação após o declínio econômico?",
+      "opcoes": ["A metrópole do futuro", "A capital da alegria", "A cidade que parou no tempo", "O berço da indústria"],
+      "respostaCorreta": "A cidade que parou no tempo"
+    },
+    {
+      "pergunta": "Qual é a festa religiosa e cultural mais famosa de Alcântara, com personagens como o 'Imperador' e as 'caixeiras'?",
+      "opcoes": ["Carnaval", "Bumba Meu Boi", "Festa do Divino Espírito Santo", "Círio de Nazaré"],
+      "respostaCorreta": "Festa do Divino Espírito Santo"
+    },
+    {
+      "pergunta": "Qual é o nome do doce típico de Alcântara, feito à base de coco e especiarias, com um formato característico?",
+      "opcoes": ["Quindim", "Doce de Espécie", "Pé-de-moleque", "Brigadeiro"],
+      "respostaCorreta": "Doce de Espécie"
+    },
+    {
+      "pergunta": "Qual é a ruína mais icônica de Alcântara, uma igreja matriz que nunca foi concluída e hoje é um cartão-postal a céu aberto?",
+      "opcoes": ["Igreja da Sé de São Luís", "Ruínas da Matriz de São Matias", "Mosteiro de São Bento", "Convento das Mercês"],
+      "respostaCorreta": "Ruínas da Matriz de São Matias"
+    },
+    {
+      "pergunta": "Qual a principal vantagem da localização do Centro de Lançamento de Alcântara (CLA)?",
+      "opcoes": ["Estar perto de uma grande cidade", "Proximidade da linha do Equador", "Clima frio e seco", "Altitude elevada"],
+      "respostaCorreta": "Proximidade da linha do Equador"
+    },
+    {
+      "pergunta": "Como se chega a Alcântara partindo de São Luís?",
+      "opcoes": ["Por uma ponte rodoferroviária", "Apenas de avião", "Atravessando a Baía de São Marcos de barco/catamarã", "Por um túnel subterrâneo"],
+      "respostaCorreta": "Atravessando a Baía de São Marcos de barco/catamarã"
+    },
+    {
+      "pergunta": "O auge econômico de Alcântara, no período colonial, foi baseado na produção de quais produtos?",
+      "opcoes": ["Ouro e diamantes", "Café e soja", "Algodão e cana-de-açúcar", "Borracha e castanha"],
+      "respostaCorreta": "Algodão e cana-de-açúcar"
+    },
+    {
+      "pergunta": "O que são as 'caixeiras' na Festa do Divino?",
+      "opcoes": ["Vendedoras de caixas", "Mulheres que tocam pequenas caixas (tambores)", "Organizadoras da festa", "Cozinheiras oficiais"],
+      "respostaCorreta": "Mulheres que tocam pequenas caixas (tambores)"
+    },
+    {
+      "pergunta": "O Pelourinho de Alcântara, localizado na praça principal, era um símbolo de quê?",
+      "opcoes": ["Poder e justiça (e castigo de escravos)", "Homenagem aos fundadores", "Um antigo relógio de sol", "Um marco geográfico"],
+      "respostaCorreta": "Poder e justiça (e castigo de escravos)"
+    },
+    {
+      "pergunta": "Alcântara possui uma das maiores concentrações de comunidades de qual tipo no Brasil?",
+      "opcoes": ["Imigrantes japoneses", "Indígenas isolados", "Quilombolas", "Pescadores noruegueses"],
+      "respostaCorreta": "Quilombolas"
+    },
+    {
+      "pergunta": "A proximidade com a linha do Equador beneficia o lançamento de foguetes porque:",
+      "opcoes": ["O clima é mais estável", "Reduz o consumo de combustível", "Há menos tráfego aéreo", "A gravidade é menor"],
+      "respostaCorreta": "Reduz o consumo de combustível"
+    },
+    {
+      "pergunta": "Qual o nome da baía que separa São Luís de Alcântara?",
+      "opcoes": ["Baía de Guanabara", "Baía de Todos-os-Santos", "Baía de São Marcos", "Baía de Guajará"],
+      "respostaCorreta": "Baía de São Marcos"
+    },
+    {
+      "pergunta": "O que é o 'Palácio Negro' em Alcântara?",
+      "opcoes": ["A sede da prefeitura", "Um antigo mercado de escravos em ruínas", "Um teatro moderno", "A residência do imperador"],
+      "respostaCorreta": "Um antigo mercado de escravos em ruínas"
+    },
+    {
+      "pergunta": "Em que ano ocorreu o trágico acidente com o foguete VLS-1 em Alcântara?",
+      "opcoes": ["1999", "2003", "2010", "1995"],
+      "respostaCorreta": "2003"
+    },
+    {
+      "pergunta": "O 'Doce de Espécie' tem seu sabor marcante devido ao uso de coco e...",
+      "opcoes": ["Chocolate", "Gengibre e outras especiarias", "Leite condensado", "Frutas vermelhas"],
+      "respostaCorreta": "Gengibre e outras especiarias"
+    },
+    {
+      "pergunta": "Qual título de nobreza era comum entre os ricos fazendeiros de Alcântara no auge do Império?",
+      "opcoes": ["Duque", "Conde", "Príncipe", "Barão"],
+      "respostaCorreta": "Barão"
+    },
+    {
+      "pergunta": "A rivalidade histórica entre Alcântara e São Luís se deu, em parte, pela disputa de qual título?",
+      "opcoes": ["Capital do Maranhão", "Cidade mais bonita do Brasil", "Maior porto do Nordeste", "Melhor carnaval"],
+      "respostaCorreta": "Capital do Maranhão"
+    },
+    {
+      "pergunta": "O que o 'Mastro do Divino' simboliza durante a festa?",
+      "opcoes": ["A fartura da colheita", "A presença do Espírito Santo", "O poder do imperador", "A união do povo"],
+      "respostaCorreta": "A presença do Espírito Santo"
+    },
+    {
+      "pergunta": "Qual país assinou com o Brasil o Acordo de Salvaguardas Tecnológicas para o uso do Centro de Lançamento?",
+      "opcoes": ["Rússia", "China", "França", "Estados Unidos"],
+      "respostaCorreta": "Estados Unidos"
+    },
+    {
+      "pergunta": "O que significa dizer que Alcântara é uma 'cidade-monumento'?",
+      "opcoes": ["Que tem uma estátua gigante", "Que foi toda planejada", "Que seu conjunto arquitetônico é um monumento histórico nacional", "Que só vivem artistas na cidade"],
+      "respostaCorreta": "Que seu conjunto arquitetônico é um monumento histórico nacional"
+    },
+    {
+      "pergunta": "Qual destas ruas de Alcântara é famosa por sua ladeira e casarões?",
+      "opcoes": ["Rua da Amargura", "Avenida Paulista", "Rua do Comércio", "Rua da Quitanda"],
+      "respostaCorreta": "Rua da Amargura"
+    },
+    {
+      "pergunta": "A base de Alcântara é ideal para lançar que tipo de satélite com mais eficiência?",
+      "opcoes": ["Satélites de exploração polar", "Satélites geoestacionários", "Sondas para Marte", "Telescópios espaciais"],
+      "respostaCorreta": "Satélites geoestacionários"
+    },
+    {
+      "pergunta": "Qual material é predominante na construção dos sobrados coloniais de Alcântara?",
+      "opcoes": ["Concreto e vidro", "Madeira e palha", "Pedra de cantaria e azulejos", "Tijolos de barro e cimento"],
+      "respostaCorreta": "Pedra de cantaria e azulejos"
+    },
+    {
+      "pergunta": "O declínio econômico de Alcântara no final do século XIX está ligado à abolição da escravatura e à queda de qual produção?",
+      "opcoes": ["Do café", "Do ouro", "Do algodão", "Da borracha"],
+      "respostaCorreta": "Do algodão"
+    },
+    {
+      "pergunta": "O Museu Histórico de Alcântara funciona em um sobrado do século XIX conhecido como:",
+      "opcoes": ["Palácio dos Leões", "Casa das Minas", "Casa do Mordomo Régio", "Solar dos Vasconcelos"],
+      "respostaCorreta": "Solar dos Vasconcelos"
+    },
+    {
+      "pergunta": "A Festa do Divino em Alcântara dura quantos dias?",
+      "opcoes": ["Apenas 1 dia", "3 dias", "Um fim de semana", "Doze dias"],
+      "respostaCorreta": "Doze dias"
+    },
+    {
+      "pergunta": "Qual o principal tipo de foguete desenvolvido pelo Brasil e que teve um acidente em Alcântara?",
+      "opcoes": ["Ariane", "Saturn V", "Soyuz", "VLS (Veículo Lançador de Satélites)"],
+      "respostaCorreta": "VLS (Veículo Lançador de Satélites)"
+    },
+    {
+      "pergunta": "O que é o 'Império' na Festa do Divino?",
+      "opcoes": ["A casa do prefeito", "Um grande bolo decorado", "A residência do festeiro (mordomo) principal, ricamente ornamentada", "O nome do bloco de carnaval"],
+      "respostaCorreta": "A residência do festeiro (mordomo) principal, ricamente ornamentada"
+    },
+    {
+      "pergunta": "A instalação do Centro de Lançamento em Alcântara gerou conflitos sociais relacionados a qual questão?",
+      "opcoes": ["Poluição sonora", "Desapropriação de terras de comunidades quilombolas", "Aumento do turismo", "Tráfego de veículos"],
+      "respostaCorreta": "Desapropriação de terras de comunidades quilombolas"
+    },
+    {
+      "pergunta": "Qual a cor predominante (vermelho) nas vestimentas e decorações da Festa do Divino, simbolizando o Espírito Santo?",
+      "opcoes": ["Azul", "Branco", "Verde", "Vermelho e branco"],
+      "respostaCorreta": "Vermelho e branco"
+    },
+    {
+      "pergunta": "A 'Fonte de Mirititiva' é uma das antigas fontes de água da cidade. Verdadeiro ou Falso?",
+      "opcoes": ["Verdadeiro", "Falso"],
+      "respostaCorreta": "Verdadeiro"
+    },
+    {
+      "pergunta": "Qual o gentílico para quem nasce em Alcântara?",
+      "opcoes": ["Alcantarense", "Alcantariano", "Alcântaro", "Cantarense"],
+      "respostaCorreta": "Alcantarense"
+    },
+    {
+      "pergunta": "As ruínas da Igreja de Nossa Senhora do Carmo se destacam pela sua:",
+      "opcoes": ["Cúpula de ouro", "Torre de sinos intacta", "Porta frontal de pedra ricamente esculpida", "Vitrais coloridos"],
+      "respostaCorreta": "Porta frontal de pedra ricamente esculpida"
+    },
+    {
+      "pergunta": "A Ilha do Cajual, parte do município de Alcântara, é um importante sítio de qual área da ciência?",
+      "opcoes": ["Arqueologia", "Paleontologia (fósseis de dinossauros)", "Botânica", "Astronomia"],
+      "respostaCorreta": "Paleontologia (fósseis de dinossauros)"
+    },
+    {
+      "pergunta": "O que significa 'cidade que parou no tempo' para o turismo?",
+      "opcoes": ["Que a cidade é desinteressante", "Que é uma oportunidade de vivenciar um cenário histórico preservado", "Que os relógios não funcionam", "Que não há hotéis"],
+      "respostaCorreta": "Que é uma oportunidade de vivenciar um cenário histórico preservado"
+    },
+    {
+      "pergunta": "Qual destes NÃO é um motivo para a escolha de Alcântara como base de lançamento?",
+      "opcoes": ["Proximidade do equador", "Baixa densidade demográfica", "Estabilidade climática", "Presença de um vulcão ativo"],
+      "respostaCorreta": "Presença de um vulcão ativo"
+    },
+    {
+      "pergunta": "A expressão 'doce de espécie' vem da grande quantidade de quê em sua receita?",
+      "opcoes": ["Açúcar", "Espécies de frutas", "Especiarias", "Leite"],
+      "respostaCorreta": "Especiarias"
+    },
+    {
+      "pergunta": "O que os 'mordomos' fazem na Festa do Divino?",
+      "opcoes": ["São os seguranças do evento", "São os responsáveis por organizar e financiar a festa a cada ano", "São os músicos da banda", "São os cozinheiros"],
+      "respostaCorreta": "São os responsáveis por organizar e financiar a festa a cada ano"
+    },
+    {
+      "pergunta": "Qual destes materiais NÃO é comum encontrar nas ruas e construções de Alcântara?",
+      "opcoes": ["Pedra de lioz", "Azulejo português", "Asfalto", "Óleo de baleia (na argamassa)"],
+      "respostaCorreta": "Asfalto"
+    },
+    {
+      "pergunta": "Muitos sobrados de Alcântara possuem mirantes no telhado. Qual era a função deles?",
+      "opcoes": ["Observar as estrelas", "Tomar sol", "Observar a chegada de navios no porto", "Criar pombos"],
+      "respostaCorreta": "Observar a chegada de navios no porto"
+    },
+    {
+      "pergunta": "O que é o 'Lançador de Microssatélite' (VLM), desenvolvido para ser lançado de Alcântara?",
+      "opcoes": ["Um avião espacial", "Um foguete para levar pessoas à Lua", "Um foguete menor, derivado do VLS", "Um canhão espacial"],
+      "respostaCorreta": "Um foguete menor, derivado do VLS"
+    },
+    {
+      "pergunta": "A principal praça de Alcântara, onde ficam o Pelourinho e as ruínas da Matriz, chama-se:",
+      "opcoes": ["Praça da Sé", "Praça Gonçalves Dias", "Praça da Matriz", "Praça do Comércio"],
+      "respostaCorreta": "Praça da Matriz"
+    },
+    {
+      "pergunta": "A culinária alcantarense tem forte influência de quais três culturas?",
+      "opcoes": ["Italiana, alemã e japonesa", "Indígena, portuguesa e africana", "Francesa, inglesa e espanhola", "Árabe, chinesa e russa"],
+      "respostaCorreta": "Indígena, portuguesa e africana"
+    },
+    {
+      "pergunta": "O que o Acordo de Salvaguardas Tecnológicas (AST) com os EUA permite?",
+      "opcoes": ["Que os EUA comprem Alcântara", "O lançamento de foguetes americanos com tecnologia sensível a partir de Alcântara", "A construção de uma base militar americana", "A troca de receitas de doces"],
+      "respostaCorreta": "O lançamento de foguetes americanos com tecnologia sensível a partir de Alcântara"
+    },
+    {
+      "pergunta": "O que é a 'ladeira do jacaré'?",
+      "opcoes": ["Um zoológico de jacarés", "Uma lenda local", "Uma das ruas de acesso ao porto de Alcântara", "Um prato típico"],
+      "respostaCorreta": "Uma das ruas de acesso ao porto de Alcântara"
+    },
+    {
+      "pergunta": "Qual o nome do porto em São Luís de onde partem as embarcações para Alcântara?",
+      "opcoes": ["Porto de Itaqui", "Cais da Praia Grande", "Porto da Madeira", "Terminal da Ponta da Espera"],
+      "respostaCorreta": "Cais da Praia Grande"
+    },
+    {
+      "pergunta": "A estrutura social de Alcântara no período colonial era marcada pela figura do:",
+      "opcoes": ["Operário industrial", "Senhor de engenho", "Garimpeiro", "Pescador"],
+      "respostaCorreta": "Senhor de engenho"
+    },
+    {
+      "pergunta": "O que é um 'foguete de sondagem', frequentemente lançado de Alcântara?",
+      "opcoes": ["Um foguete que leva satélites", "Um foguete que não ultrapassa a atmosfera, para experimentos rápidos", "Um míssil militar", "Um fogo de artifício gigante"],
+      "respostaCorreta": "Um foguete que não ultrapassa a atmosfera, para experimentos rápidos"
+    },
+    {
+      "pergunta": "A Festa do Divino é uma tradição de qual origem religiosa?",
+      "opcoes": ["Indígena", "Africana", "Protestante", "Católica popular"],
+      "respostaCorreta": "Católica popular"
+    },
+    {
+      "pergunta": "Qual destes NÃO é um sobrenome de uma família tradicional da aristocracia de Alcântara?",
+      "opcoes": ["Belfort", "Vieira", "Ribeiro", "Silva"],
+      "respostaCorreta": "Silva"
+    },
+    {
+      "pergunta": "Por que muitas casas de Alcântara estão em ruínas?",
+      "opcoes": ["Por causa de um terremoto", "Devido ao abandono da cidade após o declínio econômico", "Foram bombardeadas na guerra", "É um estilo arquitetônico"],
+      "respostaCorreta": "Devido ao abandono da cidade após o declínio econômico"
+    },
+    {
+      "pergunta": "O que o termo 'cidade morta' significa em relação a Alcântara?",
+      "opcoes": ["Que não há habitantes", "É uma referência pejorativa ao seu passado glorioso e presente estagnado", "Que há um grande cemitério", "Que é uma cidade fantasma"],
+      "respostaCorreta": "É uma referência pejorativa ao seu passado glorioso e presente estagnado"
+    },
+    {
+      "pergunta": "As 'caixeiras do Divino' são consideradas o quê para a cultura maranhense?",
+      "opcoes": ["Apenas musicistas", "Um patrimônio imaterial", "Uma atração turística moderna", "Um grupo de dança"],
+      "respostaCorreta": "Um patrimônio imaterial"
+    },
+    {
+      "pergunta": "A viagem de catamarã entre São Luís e Alcântara dura aproximadamente:",
+      "opcoes": ["15 minutos", "1 hora e 20 minutos", "4 horas", "8 horas"],
+      "respostaCorreta": "1 hora e 20 minutos"
+    },
+    {
+      "pergunta": "Qual o principal desafio para o desenvolvimento do turismo em Alcântara?",
+      "opcoes": ["Falta de atrativos", "Infraestrutura (hospedagem, restaurantes, acesso)", "Clima ruim", "Falta de interesse das pessoas"],
+      "respostaCorreta": "Infraestrutura (hospedagem, restaurantes, acesso)"
+    },
+    {
+      "pergunta": "O que a proximidade com o oceano oferece ao Centro de Lançamento?",
+      "opcoes": ["Uma bela vista", "Uma área segura para a queda de estágios do foguete", "Facilidade para pescar", "Umidade para os equipamentos"],
+      "respostaCorreta": "Uma área segura para a queda de estágios do foguete"
+    },
+    {
+      "pergunta": "A Igreja de Nossa Senhora do Rosário dos Pretos era frequentada por quem, historicamente?",
+      "opcoes": ["Apenas pelos barões", "Pela população escravizada", "Apenas por portugueses", "Pelos militares"],
+      "respostaCorreta": "Pela população escravizada"
+    },
+    {
+      "pergunta": "O que é 'Itamatatiua'?",
+      "opcoes": ["Uma praia em Alcântara", "O nome de uma importante comunidade quilombola", "Um tipo de doce", "O nome antigo do Doce de Espécie"],
+      "respostaCorreta": "O nome de uma importante comunidade quilombola"
+    },
+    {
+      "pergunta": "Qual a principal atividade econômica das comunidades quilombolas de Alcântara?",
+      "opcoes": ["Produção de software", "Agricultura de subsistência e extrativismo", "Criação de gado de corte", "Mineração"],
+      "respostaCorreta": "Agricultura de subsistência e extrativismo"
+    },
+    {
+      "pergunta": "O que o IPHAN (Instituto do Patrimônio Histórico e Artístico Nacional) faz em Alcântara?",
+      "opcoes": ["Controla o Centro de Lançamento", "Fiscaliza a pesca", "Trabalha para tombar e preservar o patrimônio histórico", "Organiza a Festa do Divino"],
+      "respostaCorreta": "Trabalha para tombar e preservar o patrimônio histórico"
+    },
+    {
+      "pergunta": "O que é o 'regatão', uma figura comum na Baía de São Marcos?",
+      "opcoes": ["Um tipo de peixe grande", "Um barco-comércio que vende produtos para comunidades ribeirinhas", "Um músico de reggae", "Um atleta de regata"],
+      "respostaCorreta": "Um barco-comércio que vende produtos para comunidades ribeirinhas"
+    },
+    {
+      "pergunta": "Em qual século Alcântara viveu seu período de maior riqueza?",
+      "opcoes": ["Século XVI", "Século XX", "Século XVIII e início do XIX", "Século XXI"],
+      "respostaCorreta": "Século XVIII e início do XIX"
+    },
+    {
+      "pergunta": "A base de Alcântara é considerada uma das melhores do mundo para lançamento de foguetes. Verdadeiro ou Falso?",
+      "opcoes": ["Verdadeiro", "Falso"],
+      "respostaCorreta": "Verdadeiro"
+    },
+    {
+      "pergunta": "O que a 'sorte' do imperador, distribuída na Festa do Divino, geralmente contém?",
+      "opcoes": ["Dinheiro", "Pequenos pães ou biscoitos", "Joias", "Um bilhete de loteria"],
+      "respostaCorreta": "Pequenos pães ou biscoitos"
+    },
+    {
+      "pergunta": "Qual a principal matéria-prima do artesanato quilombola em Alcântara?",
+      "opcoes": ["Plástico", "Fibra de buriti", "Metal", "Vidro"],
+      "respostaCorreta": "Fibra de buriti"
+    },
+    {
+      "pergunta": "O que o incêndio na torre de lançamento do VLS-1 em 2003 representou para o programa espacial brasileiro?",
+      "opcoes": ["Um pequeno contratempo", "Um grande sucesso", "Um grande retrocesso e uma tragédia humana", "O início do programa"],
+      "respostaCorreta": "Um grande retrocesso e uma tragédia humana"
+    },
+    {
+      "pergunta": "Qual destas NÃO é uma das ruínas famosas de Alcântara?",
+      "opcoes": ["Igreja do Carmo", "Palácio Negro", "Forte de São Marcos", "Matriz de São Matias"],
+      "respostaCorreta": "Forte de São Marcos"
+    },
+    {
+      "pergunta": "O 'guaraná da Amazônia', popular na região, tem qual diferença principal do Guaraná Jesus?",
+      "opcoes": ["É azul", "Não tem gás", "É feito do fruto natural e menos doce", "É importado da Venezuela"],
+      "respostaCorreta": "É feito do fruto natural e menos doce"
+    },
+    {
+      "pergunta": "Por que a travessia para Alcântara depende da tábua de marés?",
+      "opcoes": ["Para evitar os piratas", "Porque os barcos são movidos pela maré", "A variação da maré é muito grande e afeta a segurança da navegação", "É apenas uma tradição"],
+      "respostaCorreta": "A variação da maré é muito grande e afeta a segurança da navegação"
+    },
+    {
+      "pergunta": "A 'Casa de Câmara e Cadeia' é um exemplo de prédio administrativo do período:",
+      "opcoes": ["Moderno", "Colonial", "Imperial", "Republicano"],
+      "respostaCorreta": "Colonial"
+    },
+    {
+      "pergunta": "As telhas dos casarões coloniais eram muitas vezes moldadas em qual parte do corpo dos escravos?",
+      "opcoes": ["Nas mãos", "Nos pés", "Nas costas", "Nas coxas"],
+      "respostaCorreta": "Nas coxas"
+    },
+    {
+      "pergunta": "Qual o principal objetivo dos foguetes de sondagem?",
+      "opcoes": ["Colocar satélites em órbita", "Levar cargas para a Estação Espacial", "Realizar experimentos científicos na alta atmosfera", "Viajar para outros planetas"],
+      "respostaCorreta": "Realizar experimentos científicos na alta atmosfera"
+    },
+    {
+      "pergunta": "O que é um 'sobrado' na arquitetura colonial brasileira?",
+      "opcoes": ["Uma casa de um só andar", "Uma casa com dois ou mais andares", "Uma cabana de palha", "Uma igreja pequena"],
+      "respostaCorreta": "Uma casa com dois ou mais andares"
+    },
+    {
+      "pergunta": "A culinária alcantarense é conhecida por ser rica em:",
+      "opcoes": ["Massas e vinhos", "Frutos do mar e temperos fortes", "Carnes de caça", "Queijos e doces de leite"],
+      "respostaCorreta": "Frutos do mar e temperos fortes"
+    },
+    {
+      "pergunta": "Qual a sensação descrita por muitos turistas ao caminhar pelas ruas de pedra de Alcântara?",
+      "opcoes": ["De estar em uma cidade futurista", "De estar em uma metrópole agitada", "De viajar de volta no tempo", "De estar em um parque de diversões"],
+      "respostaCorreta": "De viajar de volta no tempo"
+    },
+    {
+      "pergunta": "O que o termo 'cidade hospitaleira' significa?",
+      "opcoes": ["Que a cidade tem muitos hospitais", "Que os habitantes recebem bem os visitantes", "Que a cidade é perigosa", "Que há muitas hospedarias"],
+      "respostaCorreta": "Que os habitantes recebem bem os visitantes"
+    },
+    {
+      "pergunta": "Qual o papel do 'imperador' na Festa do Divino?",
+      "opcoes": ["Ele governa a cidade por 12 dias", "É uma criança que simboliza a realeza e a inocência", "É o padre que celebra a missa", "É um ator contratado"],
+      "respostaCorreta": "É uma criança que simboliza a realeza e a inocência"
+    },
+    {
+      "pergunta": "O que o turismo representa para a economia atual de Alcântara?",
+      "opcoes": ["Não tem importância", "É uma das principais fontes de renda", "Atrapalha a cidade", "É uma atividade secundária"],
+      "respostaCorreta": "É uma das principais fontes de renda"
+    },
+    {
+      "pergunta": "Os azulejos portugueses que revestem as fachadas tinham também uma função prática. Qual era?",
+      "opcoes": ["Assustar os inimigos", "Refletir a luz da lua", "Proteger as paredes da umidade e do calor", "Servir como quadros de aviso"],
+      "respostaCorreta": "Proteger as paredes da umidade e do calor"
+    },
+    {
+      "pergunta": "O que é a 'Praia da Baronesa'?",
+      "opcoes": ["A praia mais movimentada", "Uma praia dentro de uma propriedade particular", "Uma praia de água doce", "Uma pequena praia perto do porto"],
+      "respostaCorreta": "Uma pequena praia perto do porto"
+    },
+    {
+      "pergunta": "O que a preservação das ruínas ensina sobre a história de Alcântara?",
+      "opcoes": ["Que a cidade nunca foi importante", "Sobre o auge e o declínio de um ciclo econômico", "Que os construtores não eram bons", "Que a cidade foi destruída por uma guerra"],
+      "respostaCorreta": "Sobre o auge e o declínio de um ciclo econômico"
+    },
+    {
+      "pergunta": "A paisagem de Alcântara é uma mistura de arquitetura colonial com qual outro elemento contrastante?",
+      "opcoes": ["Grandes plantações de soja", "Prédios modernos", "Tecnologia aeroespacial", "Montanhas nevadas"],
+      "respostaCorreta": "Tecnologia aeroespacial"
+    },
+    {
+      "pergunta": "A existência de dezenas de comunidades quilombolas é um legado direto de qual período histórico?",
+      "opcoes": ["Da chegada dos franceses", "Do ciclo do algodão e da escravidão", "Da era espacial", "Do período republicano"],
+      "respostaCorreta": "Do ciclo do algodão e da escravidão"
+    },
+    {
+      "pergunta": "Qual o principal desafio da convivência entre o Centro de Lançamento e as comunidades locais?",
+      "opcoes": ["A disputa pelo melhor doce", "A conciliação entre desenvolvimento tecnológico e direitos territoriais", "O barulho dos foguetes", "A competição por turistas"],
+      "respostaCorreta": "A conciliação entre desenvolvimento tecnológico e direitos territoriais"
+    },
+    {
+      "pergunta": "A Festa do Divino de Alcântara é uma das mais tradicionais de qual estado?",
+      "opcoes": ["Bahia", "Pará", "Pernambuco", "Maranhão"],
+      "respostaCorreta": "Maranhão"
+    },
+    {
+      "pergunta": "O que o futuro de Alcântara busca conciliar?",
+      "opcoes": ["O passado e o presente", "O mar e a terra", "A tradição e a modernidade tecnológica", "A agricultura e a indústria"],
+      "respostaCorreta": "A tradição e a modernidade tecnológica"
+    }
+  ]
+}

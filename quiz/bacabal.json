@@ -1,0 +1,440 @@
+{
+  "nome": "Bacabal",
+  "perguntas": [
+    {
+      "pergunta": "O nome da cidade de Bacabal tem origem na abundância de qual palmeira na região?",
+      "opcoes": ["Babaçu", "Carnaúba", "Buriti", "Bacaba"],
+      "respostaCorreta": "Bacaba"
+    },
+    {
+      "pergunta": "Qual importante rio, conhecido por suas pororocas, banha a cidade de Bacabal?",
+      "opcoes": ["Rio Tocantins", "Rio Parnaíba", "Rio Mearim", "Rio Itapecuru"],
+      "respostaCorreta": "Rio Mearim"
+    },
+    {
+      "pergunta": "Devido à sua importância econômica e geográfica na região, Bacabal é frequentemente chamada de:",
+      "opcoes": ["Rainha do Sertão", "Pérola do Atlântico", "Princesa do Mearim", "Capital da Amazônia"],
+      "respostaCorreta": "Princesa do Mearim"
+    },
+    {
+      "pergunta": "Qual rodovia federal, uma das mais importantes do Brasil, corta o município de Bacabal?",
+      "opcoes": ["BR-101", "BR-135", "BR-316", "BR-040"],
+      "respostaCorreta": "BR-316"
+    },
+    {
+      "pergunta": "Qual evento festivo atrai milhares de pessoas para Bacabal, sendo um dos mais famosos do interior do Maranhão?",
+      "opcoes": ["Festival de Inverno", "Festa da Uva", "Carnaval", "Oktoberfest"],
+      "respostaCorreta": "Carnaval"
+    },
+    {
+      "pergunta": "Qual santa é a padroeira de Bacabal, com festejos celebrados em outubro?",
+      "opcoes": ["Nossa Senhora da Conceição", "Santa Rita de Cássia", "Santa Teresinha", "Nossa Senhora de Nazaré"],
+      "respostaCorreta": "Santa Teresinha"
+    },
+    {
+      "pergunta": "Bacabal foi desmembrada de qual município para se tornar independente em 1920?",
+      "opcoes": ["Chapadinha", "Pedreiras", "São Luís Gonzaga do Maranhão", "Codó"],
+      "respostaCorreta": "São Luís Gonzaga do Maranhão"
+    },
+    {
+      "pergunta": "A economia de Bacabal é fortemente baseada em qual setor?",
+      "opcoes": ["Turismo de praia", "Indústria de tecnologia", "Comércio e serviços", "Extração mineral"],
+      "respostaCorreta": "Comércio e serviços"
+    },
+    {
+      "pergunta": "Qual o gentílico para quem nasce em Bacabal?",
+      "opcoes": ["Bacabalense", "Bacabense", "Balense", "Cabaleiro"],
+      "respostaCorreta": "Bacabalense"
+    },
+    {
+      "pergunta": "Qual o nome do principal time de futebol profissional da cidade?",
+      "opcoes": ["Maranhão Atlético Clube", "Sampaio Corrêa", "Bacabal Esporte Clube (BEC)", "Imperatriz"],
+      "respostaCorreta": "Bacabal Esporte Clube (BEC)"
+    },
+    {
+      "pergunta": "O apelido do Bacabal Esporte Clube é:",
+      "opcoes": ["Bolívia Querida", "Tricolor de Aço", "Leão do Mearim", "Canário da Ilha"],
+      "respostaCorreta": "Leão do Mearim"
+    },
+    {
+      "pergunta": "A população de Bacabal, segundo o Censo de 2022, ultrapassa quantos habitantes?",
+      "opcoes": ["50.000", "75.000", "100.000", "200.000"],
+      "respostaCorreta": "100.000"
+    },
+    {
+      "pergunta": "O que é a 'pororoca', fenômeno que pode ocorrer no Rio Mearim?",
+      "opcoes": ["Uma seca severa", "Um tipo de peixe raro", "O encontro violento das águas do rio com as da maré", "Uma dança típica"],
+      "respostaCorreta": "O encontro violento das águas do rio com as da maré"
+    },
+    {
+      "pergunta": "Em que data se comemora o aniversário de Bacabal?",
+      "opcoes": ["7 de Setembro", "17 de Abril", "15 de Novembro", "25 de Dezembro"],
+      "respostaCorreta": "17 de Abril"
+    },
+    {
+      "pergunta": "A região do Vale do Mearim, onde Bacabal se localiza, é historicamente uma grande produtora de qual grão?",
+      "opcoes": ["Café", "Trigo", "Soja", "Arroz"],
+      "respostaCorreta": "Arroz"
+    },
+    {
+      "pergunta": "Qual o nome do principal estádio de futebol de Bacabal?",
+      "opcoes": ["Nhozinho Santos", "Castelão", "Frei Epifânio", "Correão (José de Alencar de Macedo Correia)"],
+      "respostaCorreta": "Correão (José de Alencar de Macedo Correia)"
+    },
+    {
+      "pergunta": "A culinária bacabalense, como a do interior maranhense, tem forte presença de qual prato?",
+      "opcoes": ["Sushi", "Pizza", "Galinha caipira", "Fondue de queijo"],
+      "respostaCorreta": "Galinha caipira"
+    },
+    {
+      "pergunta": "Qual a importância da BR-316 para Bacabal?",
+      "opcoes": ["É apenas uma rua interna", "É a principal via de escoamento da produção e conexão com a capital", "Leva a um porto marítimo", "É uma rodovia turística"],
+      "respostaCorreta": "É a principal via de escoamento da produção e conexão com a capital"
+    },
+    {
+      "pergunta": "Qual destes músicos, ícone do samba, tem uma forte ligação de infância com a cidade de Bacabal?",
+      "opcoes": ["Zeca Pagodinho", "Martinho da Vila", "Bezerra da Silva", "Paulinho da Viola"],
+      "respostaCorreta": "Bezerra da Silva"
+    },
+    {
+      "pergunta": "O que a posição geográfica de Bacabal representa para o Maranhão?",
+      "opcoes": ["Um ponto isolado e de difícil acesso", "Um entroncamento rodo-fluvial estratégico", "Uma área de fronteira internacional", "Um local de clima frio"],
+      "respostaCorreta": "Um entroncamento rodo-fluvial estratégico"
+    },
+    {
+      "pergunta": "O Centro de Convenções de Bacabal é um importante espaço para qual tipo de evento?",
+      "opcoes": ["Corridas de cavalo", "Eventos acadêmicos, culturais e de negócios", "Campeonatos de surf", "Festivais de cinema"],
+      "respostaCorreta": "Eventos acadêmicos, culturais e de negócios"
+    },
+    {
+      "pergunta": "A 'Ponte sobre o Rio Mearim' em Bacabal é fundamental para o fluxo em qual rodovia?",
+      "opcoes": ["BR-135", "BR-316", "MA-230", "BR-010"],
+      "respostaCorreta": "BR-316"
+    },
+    {
+      "pergunta": "Qual a principal atividade econômica no centro comercial de Bacabal?",
+      "opcoes": ["Venda de artigos de luxo", "Comércio varejista diversificado", "Indústria de base", "Bolsa de Valores"],
+      "respostaCorreta": "Comércio varejista diversificado"
+    },
+    {
+      "pergunta": "O festejo da padroeira Santa Teresinha acontece em qual mês?",
+      "opcoes": ["Janeiro", "Junho", "Agosto", "Outubro"],
+      "respostaCorreta": "Outubro"
+    },
+    {
+      "pergunta": "Qual o bioma predominante na região de Bacabal?",
+      "opcoes": ["Mata Atlântica", "Caatinga", "Mata de Cocais", "Pampa"],
+      "respostaCorreta": "Mata de Cocais"
+    },
+    {
+      "pergunta": "A 'Praça do Centenário' em Bacabal comemora os 100 anos de qual evento?",
+      "opcoes": ["Da fundação de São Luís", "Da Independência do Brasil", "Da emancipação da cidade", "Da Proclamação da República"],
+      "respostaCorreta": "Da emancipação da cidade"
+    },
+    {
+      "pergunta": "Qual destas cidades é um importante polo vizinho a Bacabal?",
+      "opcoes": ["São Luís", "Imperatriz", "Pedreiras", "Carolina"],
+      "respostaCorreta": "Pedreiras"
+    },
+    {
+      "pergunta": "A pecuária na região de Bacabal é focada principalmente em:",
+      "opcoes": ["Criação de ovelhas para lã", "Criação de gado de corte", "Criação de gado leiteiro", "Criação de lhamas"],
+      "respostaCorreta": "Criação de gado de corte"
+    },
+    {
+      "pergunta": "O que o termo 'entroncamento rodo-fluvial' significa?",
+      "opcoes": ["Um cruzamento de rios", "Um ponto de encontro de estradas e rios navegáveis", "Um congestionamento de carros", "Uma ponte quebrada"],
+      "respostaCorreta": "Um ponto de encontro de estradas e rios navegáveis"
+    },
+    {
+      "pergunta": "A Catedral de Santa Teresinha é a principal igreja de qual diocese?",
+      "opcoes": ["Diocese de São Luís", "Diocese de Imperatriz", "Diocese de Bacabal", "Diocese de Caxias"],
+      "respostaCorreta": "Diocese de Bacabal"
+    },
+    {
+      "pergunta": "O que é a 'Praça da Bíblia' em Bacabal?",
+      "opcoes": ["Uma livraria religiosa", "Um espaço público de lazer e eventos", "Um museu sobre a Bíblia", "Uma escola dominical"],
+      "respostaCorreta": "Um espaço público de lazer e eventos"
+    },
+    {
+      "pergunta": "Qual o principal desafio para o Rio Mearim em Bacabal?",
+      "opcoes": ["Excesso de pontes", "Assoreamento e poluição", "Falta de peixes", "Congelamento no inverno"],
+      "respostaCorreta": "Assoreamento e poluição"
+    },
+    {
+      "pergunta": "O Carnaval de Bacabal é conhecido por seus:",
+      "opcoes": ["Desfiles de escolas de samba", "Grandes blocos de rua e shows", "Batalhas de confete", "Corridas de boi"],
+      "respostaCorreta": "Grandes blocos de rua e shows"
+    },
+    {
+      "pergunta": "Qual instituição de ensino superior federal possui um campus em Bacabal?",
+      "opcoes": ["USP", "UFRJ", "UFMA", "Unicamp"],
+      "respostaCorreta": "UFMA"
+    },
+    {
+      "pergunta": "O que a 'Mata dos Cocais', bioma da região, tem como característica principal?",
+      "opcoes": ["Pinheiros e araucárias", "Cactos e vegetação seca", "Predominância de palmeiras como babaçu e carnaúba", "Vegetação rasteira de praia"],
+      "respostaCorreta": "Predominância de palmeiras como babaçu e carnaúba"
+    },
+    {
+      "pergunta": "O que a posição de Bacabal como 'cidade polo' significa para os municípios vizinhos?",
+      "opcoes": ["Que ela é isolada", "Que ela serve como centro de referência para comércio, saúde e educação", "Que ela é a capital do estado", "Que ela é menor que as vizinhas"],
+      "respostaCorreta": "Que ela serve como centro de referência para comércio, saúde e educação"
+    },
+    {
+      "pergunta": "O IFMA (Instituto Federal do Maranhão) em Bacabal oferece principalmente que tipo de curso?",
+      "opcoes": ["Cursos de medicina e direito", "Cursos técnicos e tecnológicos", "Cursos de artes cênicas", "Cursos de culinária"],
+      "respostaCorreta": "Cursos técnicos e tecnológicos"
+    },
+    {
+      "pergunta": "A 'panelada', prato comum na região, é feita principalmente com qual ingrediente?",
+      "opcoes": ["Frutos do mar", "Carne de frango", "Vísceras de boi", "Carne de porco"],
+      "respostaCorreta": "Vísceras de boi"
+    },
+    {
+      "pergunta": "Qual a principal atividade econômica que deu origem a Bacabal?",
+      "opcoes": ["Indústria petrolífera", "Agricultura e extrativismo", "Mineração de diamantes", "Turismo"],
+      "respostaCorreta": "Agricultura e extrativismo"
+    },
+    {
+      "pergunta": "Bacabal está localizada em qual vale?",
+      "opcoes": ["Vale do Silício", "Vale do São Francisco", "Vale do Mearim", "Vale do Paraíba"],
+      "respostaCorreta": "Vale do Mearim"
+    },
+    {
+      "pergunta": "A 'ponte metálica' sobre o Rio Mearim foi por muito tempo um marco da engenharia na região. Verdadeiro ou Falso?",
+      "opcoes": ["Verdadeiro", "Falso"],
+      "respostaCorreta": "Verdadeiro"
+    },
+    {
+      "pergunta": "O que o 'babaçu', palmeira abundante na região, fornece como matéria-prima?",
+      "opcoes": ["Apenas madeira", "Óleo, amêndoas, carvão e palha", "Frutas cítricas", "Látex"],
+      "respostaCorreta": "Óleo, amêndoas, carvão e palha"
+    },
+    {
+      "pergunta": "O clima de Bacabal, como o do interior do Maranhão, é caracterizado por ter:",
+      "opcoes": ["Quatro estações bem definidas", "Duas estações: uma chuvosa e uma seca", "Neve no inverno", "Clima seco o ano todo"],
+      "respostaCorreta": "Duas estações: uma chuvosa e uma seca"
+    },
+    {
+      "pergunta": "Qual a importância da pecuária para a economia de Bacabal?",
+      "opcoes": ["Apenas para lazer", "É uma das principais atividades econômicas, gerando renda e empregos", "Não existe pecuária na cidade", "É uma atividade em declínio"],
+      "respostaCorreta": "É uma das principais atividades econômicas, gerando renda e empregos"
+    },
+    {
+      "pergunta": "A cidade de Santa Inês, outro polo importante, fica em qual direção em relação a Bacabal?",
+      "opcoes": ["A leste, sentido Teresina", "A oeste, sentido Belém", "Ao norte, sentido litoral", "Ao sul, sentido Tocantins"],
+      "respostaCorreta": "A oeste, sentido Belém"
+    },
+    {
+      "pergunta": "Qual o principal desafio de infraestrutura para Bacabal?",
+      "opcoes": ["Falta de acesso à internet", "Melhoria do saneamento básico e da malha urbana", "Construção de um metrô", "Excesso de aeroportos"],
+      "respostaCorreta": "Melhoria do saneamento básico e da malha urbana"
+    },
+    {
+      "pergunta": "O que são as 'quebradeiras de coco babaçu'?",
+      "opcoes": ["Máquinas industriais", "Mulheres que têm como ofício a extração da amêndoa do coco babaçu", "Um tipo de dança", "Uma praga que ataca os coqueiros"],
+      "respostaCorreta": "Mulheres que têm como ofício a extração da amêndoa do coco babaçu"
+    },
+    {
+      "pergunta": "O que a construção da ponte sobre o Rio Mearim na BR-316 representou para Bacabal?",
+      "opcoes": ["Um problema ambiental", "A consolidação definitiva como um polo logístico", "Um gasto desnecessário", "O fim do transporte fluvial"],
+      "respostaCorreta": "A consolidação definitiva como um polo logístico"
+    },
+    {
+      "pergunta": "A 'Festa de Santa Teresinha' é marcada por qual tipo de evento?",
+      "opcoes": ["Apenas shows de rock", "Procissões, missas e eventos comunitários", "Corridas de carro", "Desfiles de moda"],
+      "respostaCorreta": "Procissões, missas e eventos comunitários"
+    },
+    {
+      "pergunta": "Qual destes NÃO é um município da região do Médio Mearim, próximo a Bacabal?",
+      "opcoes": ["Lago Verde", "Olho d'Água das Cunhãs", "São Mateus do Maranhão", "Barreirinhas"],
+      "respostaCorreta": "Barreirinhas"
+    },
+    {
+      "pergunta": "A cidade é um importante centro de distribuição para qual tipo de produto?",
+      "opcoes": ["Eletrônicos de luxo", "Gêneros alimentícios, bebidas e insumos agrícolas", "Carros importados", "Obras de arte"],
+      "respostaCorreta": "Gêneros alimentícios, bebidas e insumos agrícolas"
+    },
+    {
+      "pergunta": "O que a presença de um campus da UFMA significa para o desenvolvimento de Bacabal?",
+      "opcoes": ["Apenas mais trânsito", "A formação de mão de obra qualificada e o desenvolvimento intelectual da região", "Um aumento nos impostos", "Não significa nada"],
+      "respostaCorreta": "A formação de mão de obra qualificada e o desenvolvimento intelectual da região"
+    },
+    {
+      "pergunta": "Qual a principal cultura agrícola irrigada nas várzeas do Rio Mearim?",
+      "opcoes": ["Uva", "Maçã", "Arroz", "Trigo"],
+      "respostaCorreta": "Arroz"
+    },
+    {
+      "pergunta": "A 'Praça da Matriz' de Bacabal é dedicada a qual santa?",
+      "opcoes": ["Santa Luzia", "Santa Teresinha", "Nossa Senhora Aparecida", "Santa Clara"],
+      "respostaCorreta": "Santa Teresinha"
+    },
+    {
+      "pergunta": "O que a 'cultura da mandioca' fornece além da farinha?",
+      "opcoes": ["Apenas folhas para chá", "Goma para tapioca, tucupi e folhas para a maniçoba", "Madeira para construção", "Óleo combustível"],
+      "respostaCorreta": "Goma para tapioca, tucupi e folhas para a maniçoba"
+    },
+    {
+      "pergunta": "Qual destes é um problema social urbano presente em Bacabal?",
+      "opcoes": ["Falta de população", "Crescimento desordenado e formação de bairros periféricos", "Excesso de parques", "Ruas muito largas"],
+      "respostaCorreta": "Crescimento desordenado e formação de bairros periféricos"
+    },
+    {
+      "pergunta": "A culinária local é conhecida por ser:",
+      "opcoes": ["Leve e vegetariana", "Farta e calórica, com temperos fortes", "Agridocce e exótica", "Congelada e industrializada"],
+      "respostaCorreta": "Farta e calórica, com temperos fortes"
+    },
+    {
+      "pergunta": "O que é um 'barranco' no contexto do Rio Mearim?",
+      "opcoes": ["Um tipo de peixe", "As margens elevadas do rio", "Uma pequena cachoeira", "Uma ponte de madeira"],
+      "respostaCorreta": "As margens elevadas do rio"
+    },
+    {
+      "pergunta": "Qual a principal atividade de lazer nas margens do Rio Mearim em Bacabal?",
+      "opcoes": ["Esqui", "Bares e restaurantes populares (balneários)", "Mergulho", "Passeios de gôndola"],
+      "respostaCorreta": "Bares e restaurantes populares (balneários)"
+    },
+    {
+      "pergunta": "O que a expressão 'cidade que acolhe' significa?",
+      "opcoes": ["Que a cidade tem muitos abrigos", "Que a população é hospitaleira com visitantes e migrantes", "Que a cidade é cercada por muros", "Que a cidade é muito fria"],
+      "respostaCorreta": "Que a população é hospitaleira com visitantes e migrantes"
+    },
+    {
+      "pergunta": "A 'Feira do Produtor Rural' em Bacabal é importante para:",
+      "opcoes": ["Vender produtos importados", "Conectar diretamente o agricultor familiar ao consumidor urbano", "Expor carros antigos", "Realizar shows de rock"],
+      "respostaCorreta": "Conectar diretamente o agricultor familiar ao consumidor urbano"
+    },
+    {
+      "pergunta": "Qual a principal forma de transporte de cargas que chega a Bacabal?",
+      "opcoes": ["Ferroviário (trem)", "Aéreo (avião)", "Rodoviário (caminhão)", "Fluvial (barco)"],
+      "respostaCorreta": "Rodoviário (caminhão)"
+    },
+    {
+      "pergunta": "A energia elétrica que abastece Bacabal vem principalmente de qual fonte?",
+      "opcoes": ["Usinas nucleares", "Usinas hidrelétricas do Sistema Interligado Nacional", "Grandes parques eólicos locais", "Queima de carvão"],
+      "respostaCorreta": "Usinas hidrelétricas do Sistema Interligado Nacional"
+    },
+    {
+      "pergunta": "Qual o principal desafio para a saúde pública em Bacabal?",
+      "opcoes": ["Falta de pacientes", "Atender a demanda da cidade e dos municípios vizinhos", "Excesso de hospitais", "Doenças de frio"],
+      "respostaCorreta": "Atender a demanda da cidade e dos municípios vizinhos"
+    },
+    {
+      "pergunta": "Qual a importância de um 'polo de serviços' como Bacabal para a região?",
+      "opcoes": ["Concentra e distribui riquezas e oportunidades", "Aumenta o isolamento das outras cidades", "Não tem importância", "Causa a falência das cidades vizinhas"],
+      "respostaCorreta": "Concentra e distribui riquezas e oportunidades"
+    },
+    {
+      "pergunta": "O que a presença de grandes redes de varejo (supermercados, lojas de departamento) em Bacabal indica?",
+      "opcoes": ["Que a cidade é pequena e sem importância", "Sua força como um centro consumidor regional", "Que não há comércio local", "Que a população é muito rica"],
+      "respostaCorreta": "Sua força como um centro consumidor regional"
+    },
+    {
+      "pergunta": "Qual o nome da principal praça onde se localiza a prefeitura de Bacabal?",
+      "opcoes": ["Praça da Sé", "Praça dos Três Poderes", "Praça Sargento Pantoja", "Praça Rui Barbosa"],
+      "respostaCorreta": "Praça Sargento Pantoja"
+    },
+    {
+      "pergunta": "Qual destes animais é um símbolo da pecuária na região?",
+      "opcoes": ["Ovelha", "Boi Nelore", "Porco", "Cavalo"],
+      "respostaCorreta": "Boi Nelore"
+    },
+    {
+      "pergunta": "O que o 'êxodo rural' causou em Bacabal?",
+      "opcoes": ["O esvaziamento da cidade", "O crescimento rápido da zona urbana, muitas vezes sem planejamento", "O enriquecimento da zona rural", "A diminuição da população"],
+      "respostaCorreta": "O crescimento rápido da zona urbana, muitas vezes sem planejamento"
+    },
+    {
+      "pergunta": "O comércio de Bacabal é mais movimentado em qual período?",
+      "opcoes": ["Apenas aos domingos", "Durante o horário comercial e aos sábados pela manhã", "Apenas durante a noite", "Apenas uma vez por mês"],
+      "respostaCorreta": "Durante o horário comercial e aos sábados pela manhã"
+    },
+    {
+      "pergunta": "Qual destes é um prato feito com sangue e miúdos de porco ou bode, comum na região?",
+      "opcoes": ["Buchada", "Feijoada", "Sarapatel", "Vatapá"],
+      "respostaCorreta": "Sarapatel"
+    },
+    {
+      "pergunta": "Qual a principal forma de lazer noturno para os jovens em Bacabal?",
+      "opcoes": ["Ir à ópera", "Frequentar bares, lanchonetes e festas", "Passear no shopping", "Ir ao teatro"],
+      "respostaCorreta": "Frequentar bares, lanchonetes e festas"
+    },
+    {
+      "pergunta": "O que a 'navegação de pequeno calado' no Rio Mearim significa?",
+      "opcoes": ["Que apenas grandes navios podem navegar", "Que apenas barcos pequenos e rasos conseguem navegar", "Que a navegação é proibida", "Que o rio é muito fundo"],
+      "respostaCorreta": "Que apenas barcos pequenos e rasos conseguem navegar"
+    },
+    {
+      "pergunta": "A cidade de Bacabal tem um campus de qual universidade estadual?",
+      "opcoes": ["UECE", "UESPI", "UEMA", "UFT"],
+      "respostaCorreta": "UEMA"
+    },
+    {
+      "pergunta": "Qual o principal tipo de moradia na periferia da cidade?",
+      "opcoes": ["Mansões de luxo", "Prédios de apartamentos", "Casas simples de alvenaria", "Iglus"],
+      "respostaCorreta": "Casas simples de alvenaria"
+    },
+    {
+      "pergunta": "O que significa 'desmatamento' nas áreas rurais de Bacabal?",
+      "opcoes": ["O plantio de novas árvores", "A remoção da vegetação nativa para criar pastos ou lavouras", "A criação de parques ecológicos", "A chegada da primavera"],
+      "respostaCorreta": "A remoção da vegetação nativa para criar pastos ou lavouras"
+    },
+    {
+      "pergunta": "A 'ponte da amizade' em Bacabal liga o centro a qual importante bairro?",
+      "opcoes": ["Trizidela", "COHAB", "Vila São João", "Setor Industrial"],
+      "respostaCorreta": "Trizidela"
+    },
+    {
+      "pergunta": "Qual destes NÃO é um ingrediente comum na 'maria-isabel', prato típico da região?",
+      "opcoes": ["Arroz", "Carne de sol", "Cheiro-verde", "Algas marinhas"],
+      "respostaCorreta": "Algas marinhas"
+    },
+    {
+      "pergunta": "A maior parte da população de Bacabal se declara de qual cor ou raça, segundo o IBGE?",
+      "opcoes": ["Branca", "Preta", "Amarela", "Parda"],
+      "respostaCorreta": "Parda"
+    },
+    {
+      "pergunta": "O que o 'comércio informal' representa na economia de Bacabal?",
+      "opcoes": ["Uma atividade ilegal e proibida", "Uma fonte de renda importante para muitas famílias (vendedores ambulantes, etc.)", "O comércio de grandes lojas", "Não existe comércio informal"],
+      "respostaCorreta": "Uma fonte de renda importante para muitas famílias (vendedores ambulantes, etc.)"
+    },
+    {
+      "pergunta": "Qual o principal desafio para a agricultura familiar em Bacabal?",
+      "opcoes": ["Excesso de tecnologia", "Concorrência com o agronegócio e acesso a mercados", "Falta de sol", "Solo infértil"],
+      "respostaCorreta": "Concorrência com o agronegócio e acesso a mercados"
+    },
+    {
+      "pergunta": "O que a 'urbanização' significa para uma cidade como Bacabal?",
+      "opcoes": ["A diminuição da população", "O aumento da população rural", "O crescimento da área urbana e da população que vive na cidade", "A construção de florestas"],
+      "respostaCorreta": "O crescimento da área urbana e da população que vive na cidade"
+    },
+    {
+      "pergunta": "Qual destes é um doce popular em Bacabal, feito de massa e recheio doce, geralmente frito?",
+      "opcoes": ["Macaron", "Sonho", "Croissant", "Waffle"],
+      "respostaCorreta": "Sonho"
+    },
+    {
+      "pergunta": "A saúde em Bacabal atende apenas aos moradores da cidade?",
+      "opcoes": ["Sim, apenas moradores", "Não, atende a toda a região do Médio Mearim", "Atende apenas a casos de emergência", "Sim, e apenas os mais ricos"],
+      "respostaCorreta": "Não, atende a toda a região do Médio Mearim"
+    },
+    {
+      "pergunta": "A história de Bacabal está intimamente ligada à expansão da fronteira agrícola em qual direção?",
+      "opcoes": ["Do litoral para o interior", "Do sul para o norte", "Do interior para o litoral", "Do oeste para o leste"],
+      "respostaCorreta": "Do litoral para o interior"
+    },
+    {
+      "pergunta": "O que a 'rodoviária' de Bacabal representa para a região?",
+      "opcoes": ["Um simples ponto de ônibus", "Um importante terminal de passageiros que conecta dezenas de municípios", "Um museu de ônibus", "Uma garagem de caminhões"],
+      "respostaCorreta": "Um importante terminal de passageiros que conecta dezenas de municípios"
+    },
+    {
+      "pergunta": "Qual a principal conclusão sobre a importância de Bacabal para o Maranhão?",
+      "opcoes": ["É uma cidade pequena e sem influência", "É o principal polo econômico, social e logístico do Vale do Mearim", "É uma cidade puramente turística", "É a capital do estado"],
+      "respostaCorreta": "É o principal polo econômico, social e logístico do Vale do Mearim"
+    }
+  ]
+}

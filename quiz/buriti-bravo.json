@@ -1,0 +1,430 @@
+{
+  "nome": "Buriti Bravo",
+  "perguntas": [
+    {
+      "pergunta": "O nome 'Buriti Bravo' está ligado à abundância de qual palmeira na região?",
+      "opcoes": ["Carnaúba", "Babaçu", "Buritirana", "Açaí"],
+      "respostaCorreta": "Buritirana"
+    },
+    {
+      "pergunta": "O que o adjetivo 'Bravo' no nome da cidade remete?",
+      "opcoes": ["A um povo guerreiro", "À resistência e força do ambiente natural", "A um rio com correnteza forte", "A um cacique indígena"],
+      "respostaCorreta": "À resistência e força do ambiente natural"
+    },
+    {
+      "pergunta": "Qual evento cultural, que celebra a cultura sertaneja, é um dos mais aguardados do calendário da cidade?",
+      "opcoes": ["Festival de Jazz", "Oktoberfest", "Cavalgada de Buriti Bravo", "Festa do Divino"],
+      "respostaCorreta": "Cavalgada de Buriti Bravo"
+    },
+    {
+      "pergunta": "O povoamento de Buriti Bravo teve início em 1822, quando o Tenente Joaquim dos Santos adquiriu terras de quem?",
+      "opcoes": ["Do Imperador Dom Pedro I", "De um coronel de Caxias", "Do Padre Francisco da Rocha", "De um bandeirante paulista"],
+      "respostaCorreta": "Do Padre Francisco da Rocha"
+    },
+    {
+      "pergunta": "A economia inicial do povoado foi baseada na lavoura e na pecuária, utilizando qual tipo de mão de obra?",
+      "opcoes": ["Assalariada", "Europeia", "Indígena", "Escravizada"],
+      "respostaCorreta": "Escravizada"
+    },
+    {
+      "pergunta": "Qual o gentílico para quem nasce em Buriti Bravo?",
+      "opcoes": ["Buritiense", "Bravense", "Buriti-bravense", "Buritano"],
+      "respostaCorreta": "Buriti-bravense"
+    },
+    {
+      "pergunta": "O bioma predominante em todo o território de Buriti Bravo é o:",
+      "opcoes": ["Amazônia", "Caatinga", "Mata Atlântica", "Cerrado"],
+      "respostaCorreta": "Cerrado"
+    },
+    {
+      "pergunta": "Qual destes rios importantes passa pelo município de Buriti Bravo?",
+      "opcoes": ["Rio Mearim", "Rio Tocantins", "Rio Itapecuru", "Rio Parnaíba"],
+      "respostaCorreta": "Rio Itapecuru"
+    },
+    {
+      "pergunta": "Antes de se tornar município, Buriti Bravo foi um distrito subordinado a qual cidade, hoje conhecida como Colinas?",
+      "opcoes": ["Caxias", "Picos", "Pastos Bons", "Passagem Franca"],
+      "respostaCorreta": "Picos"
+    },
+    {
+      "pergunta": "A população de Buriti Bravo, segundo o Censo de 2022, é de aproximadamente:",
+      "opcoes": ["10.000 habitantes", "15.000 habitantes", "23.000 habitantes", "35.000 habitantes"],
+      "respostaCorreta": "23.000 habitantes"
+    },
+    {
+      "pergunta": "Qual a principal base da economia de Buriti Bravo?",
+      "opcoes": ["Turismo", "Indústria", "Agropecuária e administração pública", "Pesca"],
+      "respostaCorreta": "Agropecuária e administração pública"
+    },
+    {
+      "pergunta": "O que é o 'Festival Bravense', celebrado geralmente em junho?",
+      "opcoes": ["Um festival de cinema", "Um evento que celebra a cultura local com shows e danças típicas", "Uma competição de natação", "Uma feira de tecnologia"],
+      "respostaCorreta": "Um evento que celebra a cultura local com shows e danças típicas"
+    },
+    {
+      "pergunta": "Qual destes cultivos agrícolas se destaca na economia de Buriti Bravo?",
+      "opcoes": ["Café", "Uva", "Soja", "Trigo"],
+      "respostaCorreta": "Soja"
+    },
+    {
+      "pergunta": "Qual o nome do distrito que foi criado e anexado a Buriti Bravo em 1948?",
+      "opcoes": ["Canabrava", "Bacatuba", "Laranjeiras", "São Raimundo"],
+      "respostaCorreta": "Bacatuba"
+    },
+    {
+      "pergunta": "A 'Cavalgada de Buriti Bravo' é uma manifestação que une cultura, fé e qual tradição?",
+      "opcoes": ["Tradição pesqueira", "Tradição indígena", "Tradição sertaneja", "Tradição carnavalesca"],
+      "respostaCorreta": "Tradição sertaneja"
+    },
+    {
+      "pergunta": "Qual a principal atividade da pecuária no município?",
+      "opcoes": ["Criação de ovelhas", "Criação de gado de corte", "Criação de avestruzes", "Criação de gado leiteiro"],
+      "respostaCorreta": "Criação de gado de corte"
+    },
+    {
+      "pergunta": "Qual a principal fonte de receita para a prefeitura de Buriti Bravo?",
+      "opcoes": ["Impostos de grandes indústrias", "Turismo", "Repasses de verbas federais e estaduais", "Exportação de tecnologia"],
+      "respostaCorreta": "Repasses de verbas federais e estaduais"
+    },
+    {
+      "pergunta": "Qual o padroeiro da cidade, com igreja matriz no centro?",
+      "opcoes": ["São Francisco", "São Bernardo", "São José", "Santo Antônio"],
+      "respostaCorreta": "São José"
+    },
+    {
+      "pergunta": "Qual destes municípios NÃO faz divisa com Buriti Bravo?",
+      "opcoes": ["Caxias", "Matões", "Passagem Franca", "Bacabal"],
+      "respostaCorreta": "Bacabal"
+    },
+    {
+      "pergunta": "O que significa dizer que Buriti Bravo tem um 'baixo potencial de consumo'?",
+      "opcoes": ["Que não há lojas na cidade", "Que o poder de compra médio da população é limitado", "Que as pessoas preferem poupar a gastar", "Que os produtos são muito baratos"],
+      "respostaCorreta": "Que o poder de compra médio da população é limitado"
+    },
+    {
+      "pergunta": "O que é a 'agricultura familiar' em Buriti Bravo?",
+      "opcoes": ["Grandes fazendas de soja", "Produção em pequena escala, voltada para o consumo e o mercado local", "Plantações de eucalipto", "Não existe na cidade"],
+      "respostaCorreta": "Produção em pequena escala, voltada para o consumo e o mercado local"
+    },
+    {
+      "pergunta": "Qual a importância de um trator, como o destinado pela Senadora Eliziane Gama, para a agricultura familiar?",
+      "opcoes": ["Serve como meio de transporte", "Ajuda a mecanizar o preparo da terra, aumentando a produção", "É usado para decorar a praça", "Não tem utilidade"],
+      "respostaCorreta": "Ajuda a mecanizar o preparo da terra, aumentando a produção"
+    },
+    {
+      "pergunta": "Qual a principal atividade geradora de empregos formais no setor público de Buriti Bravo?",
+      "opcoes": ["Corpo de Bombeiros", "Universidade Federal", "Administração pública em geral (prefeitura)", "Exército"],
+      "respostaCorreta": "Administração pública em geral (prefeitura)"
+    },
+    {
+      "pergunta": "O que o programa 'Minha Casa Legal', em parceria com o ITERMA, busca fazer?",
+      "opcoes": ["Construir novas casas", "Regularizar a documentação de posse dos imóveis", "Pintar as fachadas das casas", "Sortear carros"],
+      "respostaCorreta": "Regularizar a documentação de posse dos imóveis"
+    },
+    {
+      "pergunta": "Qual o principal tipo de música tocada nas festas populares de Buriti Bravo?",
+      "opcoes": ["Rock", "Música clássica", "Forró e piseiro", "Jazz"],
+      "respostaCorreta": "Forró e piseiro"
+    },
+    {
+      "pergunta": "O que o termo 'emancipação política' significa?",
+      "opcoes": ["A primeira eleição para presidente", "O momento em que um povoado se torna um município independente", "A abolição da escravatura", "A construção da primeira igreja"],
+      "respostaCorreta": "O momento em que um povoado se torna um município independente"
+    },
+    {
+      "pergunta": "A cidade de Passagem Franca é vizinha a Buriti Bravo. Verdadeiro ou Falso?",
+      "opcoes": ["Verdadeiro", "Falso"],
+      "respostaCorreta": "Verdadeiro"
+    },
+    {
+      "pergunta": "O clima da região é caracterizado por ter duas estações. Quais são elas?",
+      "opcoes": ["Primavera e outono", "Verão e inverno", "Estação chuvosa e estação seca", "Estação quente e estação fria"],
+      "respostaCorreta": "Estação chuvosa e estação seca"
+    },
+    {
+      "pergunta": "Qual a importância da 'Praça de Eventos' para a vida social da cidade?",
+      "opcoes": ["É apenas um estacionamento", "É o principal local para a realização de grandes festas e shows", "Um cemitério", "Uma área industrial"],
+      "respostaCorreta": "É o principal local para a realização de grandes festas e shows"
+    },
+    {
+      "pergunta": "Qual a principal fonte de água para abastecimento da cidade?",
+      "opcoes": ["Rio Itapecuru", "Dessalinização da água do mar", "Água subterrânea (poços)", "Importação de água de outro estado"],
+      "respostaCorreta": "Água subterrânea (poços)"
+    },
+    {
+      "pergunta": "O que a 'Festa de São João' em Buriti Bravo celebra?",
+      "opcoes": ["A colheita do café", "Tradições juninas com quadrilhas, comidas típicas e Bumba Meu Boi", "O aniversário da cidade", "O Ano Novo"],
+      "respostaCorreta": "Tradições juninas com quadrilhas, comidas típicas e Bumba Meu Boi"
+    },
+    {
+      "pergunta": "A 'administração pública' é a maior empregadora formal da cidade. O que isso significa?",
+      "opcoes": ["Que a cidade não tem outras atividades", "Que a prefeitura e outros órgãos públicos geram a maioria dos empregos com carteira assinada", "Que o setor privado é maior", "Que todos trabalham de graça para a prefeitura"],
+      "respostaCorreta": "Que a prefeitura e outros órgãos públicos geram a maioria dos empregos com carteira assinada"
+    },
+    {
+      "pergunta": "Qual destes NÃO é um desafio para um município como Buriti Bravo?",
+      "opcoes": ["Gerar empregos e renda", "Melhorar a infraestrutura de saúde e educação", "Lidar com o excesso de indústrias de alta tecnologia", "Combater os efeitos da seca"],
+      "respostaCorreta": "Lidar com o excesso de indústrias de alta tecnologia"
+    },
+    {
+      "pergunta": "A culinária local é fortemente baseada em qual tipo de proteína?",
+      "opcoes": ["Frutos do mar", "Salmão e truta", "Carne de gado e galinha caipira", "Carne de ovelha"],
+      "respostaCorreta": "Carne de gado e galinha caipira"
+    },
+    {
+      "pergunta": "O que o termo 'sertão' representa na cultura de Buriti Bravo?",
+      "opcoes": ["Uma área de praia", "O interior, com suas tradições, música e modo de vida ligados ao campo", "Uma floresta tropical densa", "Uma grande metrópole"],
+      "respostaCorreta": "O interior, com suas tradições, música e modo de vida ligados ao campo"
+    },
+    {
+      "pergunta": "O que o IDHM (Índice de Desenvolvimento Humano Municipal) de Buriti Bravo, classificado como baixo, indica?",
+      "opcoes": ["Que a cidade tem um ótimo desenvolvimento", "Que há desafios nas áreas de renda, educação e longevidade", "Que a cidade é muito populosa", "Que o clima é excelente"],
+      "respostaCorreta": "Que há desafios nas áreas de renda, educação e longevidade"
+    },
+    {
+      "pergunta": "Qual a principal forma de lazer dos jovens na cidade?",
+      "opcoes": ["Ir à ópera", "Frequentar praças, eventos esportivos e festas", "Visitar museus de arte", "Passear de metrô"],
+      "respostaCorreta": "Frequentar praças, eventos esportivos e festas"
+    },
+    {
+      "pergunta": "O 'Boi Brilho da Vila' é uma manifestação de qual festa popular?",
+      "opcoes": ["Carnaval", "Festa do Divino", "Bumba Meu Boi", "Páscoa"],
+      "respostaCorreta": "Bumba Meu Boi"
+    },
+    {
+      "pergunta": "Qual a principal via de acesso a povoados rurais mais distantes?",
+      "opcoes": ["Rodovias asfaltadas", "Estradas vicinais (de terra)", "Ferrovias", "Hidrovias"],
+      "respostaCorreta": "Estradas vicinais (de terra)"
+    },
+    {
+      "pergunta": "O que o 'Rio Correntes', que passa no município, representa para a geografia local?",
+      "opcoes": ["A divisa com outro estado", "Um importante afluente do Rio Itapecuru", "Um rio que seca o ano todo", "O maior rio do Brasil"],
+      "respostaCorreta": "Um importante afluente do Rio Itapecuru"
+    },
+    {
+      "pergunta": "A cidade de Caxias, um grande polo regional, fica a leste de Buriti Bravo. Verdadeiro ou Falso?",
+      "opcoes": ["Verdadeiro", "Falso"],
+      "respostaCorreta": "Verdadeiro"
+    },
+    {
+      "pergunta": "Qual a importância da 'assistência técnica' para o homem do campo?",
+      "opcoes": ["Nenhuma", "Fornece orientação para melhorar a produção e a qualidade", "É um tipo de imposto", "Ajuda a vender o trator"],
+      "respostaCorreta": "Fornece orientação para melhorar a produção e a qualidade"
+    },
+    {
+      "pergunta": "O que a 'Junina Explode Coração' representa no Festival Bravense?",
+      "opcoes": ["Um show de rock", "Um grupo de quadrilha junina", "Uma dupla sertaneja", "Uma peça de teatro"],
+      "respostaCorreta": "Um grupo de quadrilha junina"
+    },
+    {
+      "pergunta": "A maioria dos empregos formais na agricultura local está ligada ao cultivo de quê?",
+      "opcoes": ["Flores", "Café", "Soja", "Laranja"],
+      "respostaCorreta": "Soja"
+    },
+    {
+      "pergunta": "O que o Mercado Municipal representa para a cidade?",
+      "opcoes": ["Um shopping de luxo", "Um ponto central de comércio de alimentos e produtos locais", "Um museu", "A sede da prefeitura"],
+      "respostaCorreta": "Um ponto central de comércio de alimentos e produtos locais"
+    },
+    {
+      "pergunta": "O que significa dizer que o crescimento do PIB de Buriti Bravo teve um 'bom desempenho' na região?",
+      "opcoes": ["Que cresceu menos que as cidades vizinhas", "Que o crescimento foi um dos melhores entre os municípios próximos", "Que o PIB diminuiu", "Que o PIB ficou estagnado"],
+      "respostaCorreta": "Que o crescimento foi um dos melhores entre os municípios próximos"
+    },
+    {
+      "pergunta": "Qual o principal tipo de energia consumida nas residências da cidade?",
+      "opcoes": ["Energia solar", "Energia eólica", "Energia elétrica da rede (hidrelétrica)", "Energia a carvão"],
+      "respostaCorreta": "Energia elétrica da rede (hidrelétrica)"
+    },
+    {
+      "pergunta": "A 'Dança dos Idosos' no Festival Bravense é uma atividade que promove o quê?",
+      "opcoes": ["Competição esportiva", "Inclusão social e bem-estar para a terceira idade", "Arrecadação de fundos", "Protestos políticos"],
+      "respostaCorreta": "Inclusão social e bem-estar para a terceira idade"
+    },
+    {
+      "pergunta": "O que a produção de carvão vegetal, atividade presente no município, geralmente utiliza como matéria-prima?",
+      "opcoes": ["Bambu", "Eucalipto", "Madeira nativa do cerrado", "Pinheiro"],
+      "respostaCorreta": "Madeira nativa do cerrado"
+    },
+    {
+      "pergunta": "Qual a principal atividade de lazer nas praças da cidade?",
+      "opcoes": ["Praticar hipismo", "Ponto de encontro, convivência e caminhadas", "Pesca esportiva", "Andar de gôndola"],
+      "respostaCorreta": "Ponto de encontro, convivência e caminhadas"
+    },
+    {
+      "pergunta": "O que significa 'desempenho econômico' de uma cidade?",
+      "opcoes": ["A beleza da cidade", "A capacidade da cidade de gerar riqueza e crescimento", "O número de habitantes", "O resultado do time de futebol"],
+      "respostaCorreta": "A capacidade da cidade de gerar riqueza e crescimento"
+    },
+    {
+      "pergunta": "Qual destes é um prato comum feito com milho verde, especialmente na época junina?",
+      "opcoes": ["Pamonha", "Sushi", "Pizza", "Macarronada"],
+      "respostaCorreta": "Pamonha"
+    },
+    {
+      "pergunta": "O que o termo 'perímetro urbano' define?",
+      "opcoes": ["Toda a área do município", "A fronteira com outro país", "A área que delimita a cidade, separando-a da zona rural", "A área de um condomínio fechado"],
+      "respostaCorreta": "A área que delimita a cidade, separando-a da zona rural"
+    },
+    {
+      "pergunta": "O município de Parnarama é vizinho de Buriti Bravo?",
+      "opcoes": ["Não, fica muito longe", "Sim, e seus grupos de quadrilha participam do festival local", "Fica em outro estado", "É uma ilha"],
+      "respostaCorreta": "Sim, e seus grupos de quadrilha participam do festival local"
+    },
+    {
+      "pergunta": "Qual a importância de ter um Plano Municipal de Saneamento Básico?",
+      "opcoes": ["Nenhuma", "É um planejamento para universalizar os serviços de água, esgoto e coleta de lixo", "É um plano para construir mais praças", "É uma lei de trânsito"],
+      "respostaCorreta": "É um planejamento para universalizar os serviços de água, esgoto e coleta de lixo"
+    },
+    {
+      "pergunta": "O que o 'êxodo rural' causou em Buriti Bravo ao longo dos anos?",
+      "opcoes": ["O esvaziamento da cidade", "O aumento da população na zona urbana", "O fim da agricultura", "O enriquecimento da zona rural"],
+      "respostaCorreta": "O aumento da população na zona urbana"
+    },
+    {
+      "pergunta": "Qual destes é um desafio para a saúde em Buriti Bravo?",
+      "opcoes": ["Excesso de médicos", "Acesso a atendimentos especializados, que muitas vezes exigem deslocamento", "Muitos hospitais", "Doenças de frio"],
+      "respostaCorreta": "Acesso a atendimentos especializados, que muitas vezes exigem deslocamento"
+    },
+    {
+      "pergunta": "O que o termo 'admissões' no mercado de trabalho significa?",
+      "opcoes": ["Demissões de funcionários", "Novas contratações com carteira assinada", "Férias coletivas", "Aposentadorias"],
+      "respostaCorreta": "Novas contratações com carteira assinada"
+    },
+    {
+      "pergunta": "A cultura do 'vaqueiro' é forte em Buriti Bravo. Verdadeiro ou Falso?",
+      "opcoes": ["Verdadeiro", "Falso"],
+      "respostaCorreta": "Verdadeiro"
+    },
+    {
+      "pergunta": "Qual o principal meio de transporte intermunicipal para os moradores?",
+      "opcoes": ["Avião", "Trem", "Ônibus e vans", "Navio"],
+      "respostaCorreta": "Ônibus e vans"
+    },
+    {
+      "pergunta": "O que a 'Casa dos Sonhos', projeto social de Antonio Paulo, oferece às crianças?",
+      "opcoes": ["Aulas de reforço escolar e apoio a famílias carentes", "Aulas de culinária", "Treinamento para astronautas", "Aulas de pilotagem de avião"],
+      "respostaCorreta": "Aulas de reforço escolar e apoio a famílias carentes"
+    },
+    {
+      "pergunta": "Qual destes animais selvagens é um símbolo do Cerrado e pode ser encontrado na região?",
+      "opcoes": ["Urso Panda", "Lobo-guará", "Pinguim", "Tigre"],
+      "respostaCorreta": "Lobo-guará"
+    },
+    {
+      "pergunta": "O que a 'regularização de imóveis' proporciona aos proprietários?",
+      "opcoes": ["Apenas um custo extra", "Segurança jurídica e o documento de posse (título)", "A desvalorização do imóvel", "A obrigação de pintar a casa"],
+      "respostaCorreta": "Segurança jurídica e o documento de posse (título)"
+    },
+    {
+      "pergunta": "Qual a principal atividade da 'agroindústria' que poderia se desenvolver em Buriti Bravo?",
+      "opcoes": ["Fabricação de carros", "Processamento dos grãos produzidos localmente (soja, milho)", "Produção de chips de computador", "Refino de petróleo"],
+      "respostaCorreta": "Processamento dos grãos produzidos localmente (soja, milho)"
+    },
+    {
+      "pergunta": "O que o termo 'potencial hídrico' do Rio Itapecuru significa?",
+      "opcoes": ["Que o rio está poluído", "A capacidade do rio de fornecer água para consumo e irrigação", "Que o rio é muito fundo", "Que o rio seca todo ano"],
+      "respostaCorreta": "A capacidade do rio de fornecer água para consumo e irrigação"
+    },
+    {
+      "pergunta": "A cidade de Jatobá é vizinha a Buriti Bravo?",
+      "opcoes": ["Não, fica em Pernambuco", "Sim, e seus grupos culturais participam do festival local", "É o nome de um bairro", "Não, fica na Bahia"],
+      "respostaCorreta": "Sim, e seus grupos culturais participam do festival local"
+    },
+    {
+      "pergunta": "O que a 'renda per capita' do município mede?",
+      "opcoes": ["O salário do prefeito", "A renda total da prefeitura", "A divisão do PIB pelo número de habitantes, uma média de renda", "O custo de vida"],
+      "respostaCorreta": "A divisão do PIB pelo número de habitantes, uma média de renda"
+    },
+    {
+      "pergunta": "O que são 'vias públicas'?",
+      "opcoes": ["Rios e lagos", "Ruas, avenidas e praças", "Propriedades privadas", "Hospitais e escolas"],
+      "respostaCorreta": "Ruas, avenidas e praças"
+    },
+    {
+      "pergunta": "O que o termo 'sede' do município significa?",
+      "opcoes": ["O ponto mais alto", "A principal área urbana, onde fica a prefeitura", "A zona rural", "A nascente do rio"],
+      "respostaCorreta": "A principal área urbana, onde fica a prefeitura"
+    },
+    {
+      "pergunta": "Qual destes é um desafio constante para a gestão municipal de Buriti Bravo?",
+      "opcoes": ["Excesso de verbas", "Equilibrar o orçamento para atender às demandas de saúde, educação e infraestrutura", "Falta de habitantes", "Muitos turistas"],
+      "respostaCorreta": "Equilibrar o orçamento para atender às demandas de saúde, educação e infraestrutura"
+    },
+    {
+      "pergunta": "A 'pecuária de corte' visa a produção de quê?",
+      "opcoes": ["Leite e queijo", "Lã e couro", "Carne", "Animais de estimação"],
+      "respostaCorreta": "Carne"
+    },
+    {
+      "pergunta": "O que significa 'patrimônio cultural imaterial' de uma cidade?",
+      "opcoes": ["Prédios e monumentos", "As festas, as danças, os saberes e as celebrações", "O dinheiro da prefeitura", "Os rios e as matas"],
+      "respostaCorreta": "As festas, as danças, os saberes e as celebrações"
+    },
+    {
+      "pergunta": "A maioria da população de Buriti Bravo se declara de qual cor ou raça, segundo o IBGE?",
+      "opcoes": ["Branca", "Preta", "Indígena", "Parda"],
+      "respostaCorreta": "Parda"
+    },
+    {
+      "pergunta": "O que o crescimento de 'novas empresas' em Buriti Bravo indica?",
+      "opcoes": ["Que a economia está parada", "Um sinal de dinamismo e crescimento econômico", "Que as empresas antigas estão fechando", "Que a cidade vai falir"],
+      "respostaCorreta": "Um sinal de dinamismo e crescimento econômico"
+    },
+    {
+      "pergunta": "Qual a principal atividade no Parque da Cidade?",
+      "opcoes": ["Caça esportiva", "Atividades ao ar livre, caminhadas e piqueniques", "Corridas de Fórmula 1", "Acampamento selvagem"],
+      "respostaCorreta": "Atividades ao ar livre, caminhadas e piqueniques"
+    },
+    {
+      "pergunta": "O que a 'identidade local' de Buriti Bravo reflete?",
+      "opcoes": ["Uma cultura puramente europeia", "Uma mistura de tradições sertanejas, agrícolas e a força do seu povo", "Uma cultura litorânea", "Uma cultura urbana como a de São Paulo"],
+      "respostaCorreta": "Uma mistura de tradições sertanejas, agrícolas e a força do seu povo"
+    },
+    {
+      "pergunta": "A cidade de Matões é vizinha de Buriti Bravo e também participa dos festivais locais. Verdadeiro ou Falso?",
+      "opcoes": ["Verdadeiro", "Falso"],
+      "respostaCorreta": "Verdadeiro"
+    },
+    {
+      "pergunta": "Qual o principal tipo de moradia na zona rural?",
+      "opcoes": ["Apartamentos", "Casas simples, muitas vezes de taipa ou alvenaria", "Iglus", "Casas na árvore"],
+      "respostaCorreta": "Casas simples, muitas vezes de taipa ou alvenaria"
+    },
+    {
+      "pergunta": "O que a 'Banda Amor Fatal', que toca no Festival Bravense, provavelmente toca?",
+      "opcoes": ["Ópera", "Música clássica", "Forró e ritmos populares", "Heavy Metal"],
+      "respostaCorreta": "Forró e ritmos populares"
+    },
+    {
+      "pergunta": "Qual o maior desafio para a juventude em Buriti Bravo?",
+      "opcoes": ["Excesso de opções de lazer", "A busca por oportunidades de educação superior e emprego", "Muitas vagas de emprego sobrando", "Clima muito frio"],
+      "respostaCorreta": "A busca por oportunidades de educação superior e emprego"
+    },
+    {
+      "pergunta": "O que o 'PIB per capita' representa?",
+      "opcoes": ["A riqueza total da cidade", "Uma média da riqueza produzida por cada habitante", "O custo de vida", "O valor dos imóveis"],
+      "respostaCorreta": "Uma média da riqueza produzida por cada habitante"
+    },
+    {
+      "pergunta": "O que a 'urbanização' do município significa?",
+      "opcoes": ["O crescimento da população rural", "O aumento da área e da população da cidade em detrimento do campo", "O plantio de árvores", "A construção de uma nova capital"],
+      "respostaCorreta": "O aumento da área e da população da cidade em detrimento do campo"
+    },
+    {
+      "pergunta": "A 'religiosidade' do povo buriti-bravense é uma característica cultural forte. Verdadeiro ou Falso?",
+      "opcoes": ["Verdadeiro", "Falso"],
+      "respostaCorreta": "Verdadeiro"
+    },
+    {
+      "pergunta": "O que a 'hospitalidade', frequentemente citada sobre o povo local, significa?",
+      "opcoes": ["Que a cidade tem muitos hospitais", "A qualidade de receber bem os visitantes", "Que o povo é hostil", "Que as casas são grandes"],
+      "respostaCorreta": "A qualidade de receber bem os visitantes"
+    },
+    {
+      "pergunta": "Qual a principal conclusão sobre a história de Buriti Bravo?",
+      "opcoes": ["É uma cidade que sempre foi grande e rica", "É marcada por um processo de ocupação, desafios e consolidação como polo local", "É uma cidade planejada como Brasília", "Sua história é desconhecida"],
+      "respostaCorreta": "É marcada por um processo de ocupação, desafios e consolidação como polo local"
+    }
+  ]
+}
