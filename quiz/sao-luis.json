@@ -1,0 +1,490 @@
+{
+  "nome": "São Luís",
+  "perguntas": [
+    {
+      "pergunta": "Por qual nação europeia a cidade de São Luís foi fundada em 1612?",
+      "opcoes": ["Portugueses", "Holandeses", "Espanhóis", "Franceses"],
+      "respostaCorreta": "Franceses"
+    },
+    {
+      "pergunta": "São Luís é conhecida como a 'Jamaica Brasileira' devido à sua forte cena de qual gênero musical?",
+      "opcoes": ["Samba", "Reggae", "Forró", "Bossa Nova"],
+      "respostaCorreta": "Reggae"
+    },
+    {
+      "pergunta": "O Centro Histórico de São Luís, Patrimônio Mundial da UNESCO, é famoso por qual característica arquitetônica?",
+      "opcoes": ["Prédios com telhados de ouro", "Arranha-céus modernos", "Fachadas revestidas de azulejos", "Muralhas medievais"],
+      "respostaCorreta": "Fachadas revestidas de azulejos"
+    },
+    {
+      "pergunta": "Qual o nome do refrigerante cor-de-rosa, criado no Maranhão e muito popular em São Luís?",
+      "opcoes": ["Tubaína", "Guaraná Jesus", "Cruzeiro", "Baré"],
+      "respostaCorreta": "Guaraná Jesus"
+    },
+    {
+      "pergunta": "Qual destes é um famoso apelido de São Luís, relacionado à sua rica produção literária no século XIX?",
+      "opcoes": ["Cidade Luz", "Atenas Brasileira", "Cidade Maravilhosa", "Terra da Garoa"],
+      "respostaCorreta": "Atenas Brasileira"
+    },
+    {
+      "pergunta": "O Palácio dos Leões, sede do governo do Maranhão, está localizado em que área de São Luís?",
+      "opcoes": ["Ponta d'Areia", "Centro Histórico", "Calhau", "Cohatrac"],
+      "respostaCorreta": "Centro Histórico"
+    },
+    {
+      "pergunta": "Qual é o nome indígena original da ilha onde se localiza São Luís?",
+      "opcoes": ["Tupiniquim", "Upaon-Açu", "Pindorama", "Guanabara"],
+      "respostaCorreta": "Upaon-Açu"
+    },
+    {
+      "pergunta": "O 'Arroz de Cuxá', prato típico local, leva como ingrediente principal uma erva azeda chamada:",
+      "opcoes": ["Coentro", "Vinagreira", "Manjericão", "Hortelã"],
+      "respostaCorreta": "Vinagreira"
+    },
+    {
+      "pergunta": "Qual manifestação folclórica, com seus diversos 'sotaques', é a mais famosa de São Luís e do Maranhão?",
+      "opcoes": ["Maracatu", "Frevo", "Bumba Meu Boi", "Jongo"],
+      "respostaCorreta": "Bumba Meu Boi"
+    },
+    {
+      "pergunta": "Qual ponte liga a ilha de São Luís ao continente?",
+      "opcoes": ["Ponte Rio-Niterói", "Ponte Hercílio Luz", "Ponte do São Francisco", "Ponte José Sarney"],
+      "respostaCorreta": "Ponte José Sarney"
+    },
+    {
+      "pergunta": "Aluísio Azevedo, autor do livro 'O Cortiço', nasceu em qual cidade?",
+      "opcoes": ["Rio de Janeiro", "Salvador", "São Luís", "Recife"],
+      "respostaCorreta": "São Luís"
+    },
+    {
+      "pergunta": "A Lenda da Serpente Encantada de São Luís diz que uma serpente gigante adormecida cresce sob a cidade. Onde sua cabeça estaria?",
+      "opcoes": ["Palácio dos Leões", "Igreja da Sé", "Fonte do Ribeirão", "Teatro Arthur Azevedo"],
+      "respostaCorreta": "Fonte do Ribeirão"
+    },
+    {
+      "pergunta": "Qual praia de São Luís é conhecida por sua longa faixa de areia e pela presença de muitas barracas e restaurantes?",
+      "opcoes": ["Praia do Futuro", "Praia de Copacabana", "Praia do Calhau", "Praia do Gunga"],
+      "respostaCorreta": "Praia do Calhau"
+    },
+    {
+      "pergunta": "O 'Tambor de Crioula' é uma expressão cultural afro-brasileira que envolve dança, canto e percussão. Qual é a principal característica da dança?",
+      "opcoes": ["O uso de fitas coloridas", "A punga ou umbigada", "Saltos acrobáticos", "O sapateado"],
+      "respostaCorreta": "A punga ou umbigada"
+    },
+    {
+      "pergunta": "Qual importante poeta do romantismo brasileiro, autor de 'Canção do Exílio', nasceu perto de São Luís e é um ícone maranhense?",
+      "opcoes": ["Castro Alves", "Carlos Drummond de Andrade", "Gonçalves Dias", "Machado de Assis"],
+      "respostaCorreta": "Gonçalves Dias"
+    },
+    {
+      "pergunta": "O Mercado das Tulhas, ou Feira da Praia Grande, é um local famoso por vender:",
+      "opcoes": ["Eletrônicos importados", "Roupas de grife", "Produtos típicos, artesanato e cachaça", "Carros antigos"],
+      "respostaCorreta": "Produtos típicos, artesanato e cachaça"
+    },
+    {
+      "pergunta": "Qual é o nome do principal teatro de São Luís, um dos mais antigos do Brasil?",
+      "opcoes": ["Teatro Municipal de São Paulo", "Teatro Amazonas", "Teatro Arthur Azevedo", "Teatro da Paz"],
+      "respostaCorreta": "Teatro Arthur Azevedo"
+    },
+    {
+      "pergunta": "A 'punga', elemento central do Tambor de Crioula, é um convite à dança feito através de um toque com qual parte do corpo?",
+      "opcoes": ["Mãos", "Pés", "Barriga (umbigo)", "Cabeça"],
+      "respostaCorreta": "Barriga (umbigo)"
+    },
+    {
+      "pergunta": "Qual destes bairros é conhecido por sua vida noturna e pela Lagoa da Jansen?",
+      "opcoes": ["Renascença", "Centro", "Ponta d'Areia", "Anil"],
+      "respostaCorreta": "Ponta d'Areia"
+    },
+    {
+      "pergunta": "O 'sotaque de matraca' é uma das variações mais conhecidas de qual festa popular?",
+      "opcoes": ["Carnaval", "Festa Junina", "Bumba Meu Boi", "Círio de Nazaré"],
+      "respostaCorreta": "Bumba Meu Boi"
+    },
+    {
+      "pergunta": "Qual famosa cantora brasileira, apelidada de 'Marrom', é natural de São Luís?",
+      "opcoes": ["Gal Costa", "Maria Bethânia", "Elza Soares", "Alcione"],
+      "respostaCorreta": "Alcione"
+    },
+    {
+      "pergunta": "O Porto do Itaqui, localizado em São Luís, é um dos mais importantes do Brasil para a exportação de qual produto?",
+      "opcoes": ["Café", "Soja", "Minério de Ferro", "Laranja"],
+      "respostaCorreta": "Minério de Ferro"
+    },
+    {
+      "pergunta": "A Fonte do Ribeirão, no Centro Histórico, é decorada com quantas carrancas?",
+      "opcoes": ["Três", "Cinco", "Sete", "Nove"],
+      "respostaCorreta": "Cinco"
+    },
+    {
+      "pergunta": "Qual o nome da principal avenida que margeia a orla marítima de São Luís?",
+      "opcoes": ["Avenida Atlântica", "Avenida Beira Mar", "Avenida Litorânea", "Avenida Vieira Souto"],
+      "respostaCorreta": "Avenida Litorânea"
+    },
+    {
+      "pergunta": "O escritor Ferreira Gullar, um dos fundadores do neoconcretismo, nasceu em qual cidade?",
+      "opcoes": ["São Paulo", "Belo Horizonte", "Teresina", "São Luís"],
+      "respostaCorreta": "São Luís"
+    },
+    {
+      "pergunta": "Qual time de futebol de São Luís é conhecido como 'Bolívia Querida'?",
+      "opcoes": ["Moto Club", "Maranhão Atlético Clube", "Imperatriz", "Sampaio Corrêa"],
+      "respostaCorreta": "Sampaio Corrêa"
+    },
+    {
+      "pergunta": "A culinária local utiliza muito um fruto do mar. Qual é ele?",
+      "opcoes": ["Lagosta", "Camarão seco", "Ostra", "Siri"],
+      "respostaCorreta": "Camarão seco"
+    },
+    {
+      "pergunta": "O Ceprama (Centro de Produção de Artesanato do Maranhão) funciona em uma antiga fábrica de quê?",
+      "opcoes": ["Tecidos", "Cerâmica", "Móveis", "Charutos"],
+      "respostaCorreta": "Tecidos"
+    },
+    {
+      "pergunta": "Qual o nome do principal rival do Sampaio Corrêa no futebol maranhense?",
+      "opcoes": ["Flamengo", "Bahia", "Ceará", "Moto Club"],
+      "respostaCorreta": "Moto Club"
+    },
+    {
+      "pergunta": "A celebração de São Marçal, em 30 de junho, encerra as festas juninas com um grande encontro de grupos de:",
+      "opcoes": ["Samba de Roda", "Capoeira", "Bumba Meu Boi", "Maracatu"],
+      "respostaCorreta": "Bumba Meu Boi"
+    },
+    {
+      "pergunta": "Qual o nome do complexo industrial de produção de alumínio localizado em São Luís?",
+      "opcoes": ["Vale", "CSN", "Alumar", "Gerdau"],
+      "respostaCorreta": "Alumar"
+    },
+    {
+      "pergunta": "O Convento das Mercês, um importante prédio histórico, hoje abriga um memorial dedicado a qual escritor maranhense?",
+      "opcoes": ["Arthur Azevedo", "Gonçalves Dias", "Ferreira Gullar", "Josué Montello"],
+      "respostaCorreta": "Ferreira Gullar"
+    },
+    {
+      "pergunta": "Qual destes instrumentos é a base rítmica para o sotaque de matraca do Bumba Meu Boi?",
+      "opcoes": ["Sanfona", "Violão", "Dois pedaços de madeira (matracas)", "Triângulo"],
+      "respostaCorreta": "Dois pedaços de madeira (matracas)"
+    },
+    {
+      "pergunta": "A 'Praia do Meio' está localizada entre quais outras duas praias famosas de São Luís?",
+      "opcoes": ["Calhau e Olho d'Água", "São Marcos e Ponta d'Areia", "Araçagi e Calhau", "Ponta d'Areia e Guia"],
+      "respostaCorreta": "São Marcos e Ponta d'Areia"
+    },
+    {
+      "pergunta": "A personagem histórica Ana Jansen, que viveu em São Luís no século XIX, era conhecida por qual alcunha?",
+      "opcoes": ["A Imperatriz do Maranhão", "Rainha do Sertão", "Donana, a Rainha do Maranhão", "A Baronesa de Itapecuru"],
+      "respostaCorreta": "Donana, a Rainha do Maranhão"
+    },
+    {
+      "pergunta": "Qual destes cantores e compositores da MPB, famoso pela música 'Telegrama', é natural de São Luís?",
+      "opcoes": ["Chico Buarque", "Caetano Veloso", "Zeca Baleiro", "Djavan"],
+      "respostaCorreta": "Zeca Baleiro"
+    },
+    {
+      "pergunta": "O sotaque de zabumba do Bumba Meu Boi é mais comum em qual região do Maranhão?",
+      "opcoes": ["Baixada Maranhense", "Região de Codó", "Lençóis Maranhenses", "Sul do estado"],
+      "respostaCorreta": "Baixada Maranhense"
+    },
+    {
+      "pergunta": "A Igreja da Sé, catedral de São Luís, é dedicada a qual santa?",
+      "opcoes": ["Nossa Senhora da Conceição", "Nossa Senhora da Vitória", "Nossa Senhora de Nazaré", "Santa Teresinha"],
+      "respostaCorreta": "Nossa Senhora da Vitória"
+    },
+    {
+      "pergunta": "Qual rio separa o município de São Luís do de Raposa?",
+      "opcoes": ["Rio Anil", "Rio Paciência", "Rio Bacanga", "Rio Mearim"],
+      "respostaCorreta": "Rio Paciência"
+    },
+    {
+      "pergunta": "O Bairro da Madre Deus é tradicionalmente conhecido por ser um reduto de qual cultura?",
+      "opcoes": ["Cultura alemã", "Cultura popular e carnavalesca", "Cultura indígena", "Cultura italiana"],
+      "respostaCorreta": "Cultura popular e carnavalesca"
+    },
+    {
+      "pergunta": "Qual destes doces, feito de uma espécie de gergelim, é um doce típico vendido nos tabuleiros da cidade?",
+      "opcoes": ["Pé de moleque", "Cocada", "Doce de espécie", "Brigadeiro"],
+      "respostaCorreta": "Doce de espécie"
+    },
+    {
+      "pergunta": "A 'Casa das Minas' é um famoso e antigo terreiro de qual religião de matriz africana?",
+      "opcoes": ["Candomblé", "Umbanda", "Tambor de Mina", "Xangô do Nordeste"],
+      "respostaCorreta": "Tambor de Mina"
+    },
+    {
+      "pergunta": "Qual o nome da lagoa artificial que é um dos principais cartões postais da parte moderna da cidade?",
+      "opcoes": ["Lagoa da Pampulha", "Lagoa Rodrigo de Freitas", "Lagoa da Jansen", "Lagoa do Abaeté"],
+      "respostaCorreta": "Lagoa da Jansen"
+    },
+    {
+      "pergunta": "O Palácio de La Ravardière, sede da prefeitura, homenageia Daniel de La Touche, Senhor de qual localidade na França?",
+      "opcoes": ["Paris", "Marselha", "La Ravardière", "Lyon"],
+      "respostaCorreta": "La Ravardière"
+    },
+    {
+      "pergunta": "O Espigão Costeiro da Ponta d'Areia foi construído para qual finalidade principal?",
+      "opcoes": ["Atrair turistas", "Proteger a orla da erosão", "Servir de pista de corrida", "Criar uma marina"],
+      "respostaCorreta": "Proteger a orla da erosão"
+    },
+    {
+      "pergunta": "Qual o nome da Reserva Ecológica localizada dentro da área urbana de São Luís?",
+      "opcoes": ["Parque do Cocó", "Parque do Sítio Rangedor", "Parque Ibirapuera", "Parque da Cidade"],
+      "respostaCorreta": "Parque do Sítio Rangedor"
+    },
+    {
+      "pergunta": "Na trama do Bumba Meu Boi, Pai Francisco mata o boi para satisfazer um desejo de quem?",
+      "opcoes": ["Do coronel", "De sua esposa, Catirina", "Do padre", "Do prefeito"],
+      "respostaCorreta": "De sua esposa, Catirina"
+    },
+    {
+      "pergunta": "O 'sotaque de orquestra' do Bumba Meu Boi se caracteriza pelo uso de qual tipo de instrumento?",
+      "opcoes": ["Apenas percussão", "Instrumentos de corda e sopro", "Sanfonas e triângulos", "Apenas matracas"],
+      "respostaCorreta": "Instrumentos de corda e sopro"
+    },
+    {
+      "pergunta": "O nome da cidade, São Luís, é uma homenagem a qual rei da França?",
+      "opcoes": ["Luís XIV", "Luís IX", "Napoleão Bonaparte", "Carlos Magno"],
+      "respostaCorreta": "Luís IX"
+    },
+    {
+      "pergunta": "A 'Casa do Maranhão' é um museu interativo que conta a história e cultura do estado. Onde ele está localizado?",
+      "opcoes": ["Em um shopping center", "Na Avenida Litorânea", "Na Rua do Trapiche, Praia Grande", "No bairro do Anil"],
+      "respostaCorreta": "Na Rua do Trapiche, Praia Grande"
+    },
+    {
+      "pergunta": "Qual era a alcunha de Jerônimo de Albuquerque, o herói português que expulsou os franceses de São Luís?",
+      "opcoes": ["O Bravo", "O Conquistador", "O Terror dos Mares", "O Caramuru-Açu"],
+      "respostaCorreta": "O Caramuru-Açu"
+    },
+    {
+      "pergunta": "Qual destes não é um bairro de São Luís?",
+      "opcoes": ["Cohatrac", "Calhau", "Liberdade", "Meireles"],
+      "respostaCorreta": "Meireles"
+    },
+    {
+      "pergunta": "A 'Pedra da Memória', na Praça Gonçalves Dias, comemora qual evento histórico?",
+      "opcoes": ["A fundação da cidade", "A visita de Dom Pedro II", "A expulsão dos holandeses", "A adesão do Maranhão à Independência"],
+      "respostaCorreta": "A adesão do Maranhão à Independência"
+    },
+    {
+      "pergunta": "O que são as 'radiolas' no contexto do reggae em São Luís?",
+      "opcoes": ["Antigos aparelhos de rádio", "Estações de rádio piratas", "Grandes sistemas de som (paredões)", "DJs de reggae"],
+      "respostaCorreta": "Grandes sistemas de som (paredões)"
+    },
+    {
+      "pergunta": "O que significa 'Upaon-Açu' na língua tupi?",
+      "opcoes": ["Rio Grande", "Terra das Palmeiras", "Ilha Grande", "Baía Bonita"],
+      "respostaCorreta": "Ilha Grande"
+    },
+    {
+      "pergunta": "Qual a cor predominante dos azulejos que revestem os casarões do Centro Histórico?",
+      "opcoes": ["Amarelo", "Vermelho", "Verde", "Azul"],
+      "respostaCorreta": "Azul"
+    },
+    {
+      "pergunta": "A Ponte do São Francisco liga o bairro de mesmo nome a qual outra região da cidade?",
+      "opcoes": ["Centro Histórico", "Ponta d'Areia", "Cohatrac", "Cidade Operária"],
+      "respostaCorreta": "Centro Histórico"
+    },
+    {
+      "pergunta": "Qual destes personagens NÃO faz parte do auto do Bumba Meu Boi?",
+      "opcoes": ["Pai Francisco", "Índios", "Curupira", "Cazumbás"],
+      "respostaCorreta": "Curupira"
+    },
+    {
+      "pergunta": "A 'Escadaria do Beco da Pacotilha' é um famoso ponto de encontro e boemia em qual bairro?",
+      "opcoes": ["Renascença", "Praia Grande (Centro Histórico)", "Liberdade", "Olho d'Água"],
+      "respostaCorreta": "Praia Grande (Centro Histórico)"
+    },
+    {
+      "pergunta": "O 'Peixe-pedra frito' é uma iguaria muito apreciada na culinária local. Onde este peixe é comumente encontrado?",
+      "opcoes": ["Em rios de água doce", "Nos manguezais e áreas rochosas", "Em alto-mar", "Em criadouros"],
+      "respostaCorreta": "Nos manguezais e áreas rochosas"
+    },
+    {
+      "pergunta": "Qual o nome da universidade federal com campus principal em São Luís?",
+      "opcoes": ["UEMA", "UFMA", "IFMA", "UNICEUMA"],
+      "respostaCorreta": "UFMA"
+    },
+    {
+      "pergunta": "O Bairro da Liberdade em São Luís é considerado o maior quilombo urbano de qual região do Brasil?",
+      "opcoes": ["Sul", "Norte", "América Latina", "Nordeste"],
+      "respostaCorreta": "América Latina"
+    },
+    {
+      "pergunta": "A 'Dança do Lelê' é uma manifestação cultural maranhense originária de qual cidade?",
+      "opcoes": ["São Luís", "Rosário", "Alcântara", "Imperatriz"],
+      "respostaCorreta": "Rosário"
+    },
+    {
+      "pergunta": "Qual o nome do criador do Guaraná Jesus?",
+      "opcoes": ["Jesus Norberto Gomes", "Antônio Carlos Jobim", "Oswaldo Cruz", "Santos Dumont"],
+      "respostaCorreta": "Jesus Norberto Gomes"
+    },
+    {
+      "pergunta": "Na década de 1970, o reggae chegou a São Luís principalmente através de qual meio?",
+      "opcoes": ["Turistas americanos", "Rádios de ondas curtas do Caribe", "Imigrantes jamaicanos", "Festivais de música"],
+      "respostaCorreta": "Rádios de ondas curtas do Caribe"
+    },
+    {
+      "pergunta": "O que os 'cazumbás', personagens do Bumba Meu Boi, usam na cabeça?",
+      "opcoes": ["Chapéus de palha", "Coroas de flores", "Máscaras de madeira com longos cabelos", "Penachos de penas"],
+      "respostaCorreta": "Máscaras de madeira com longos cabelos"
+    },
+    {
+      "pergunta": "A 'Rua do Giz', uma das mais belas do Centro Histórico, tem esse nome devido ao quê?",
+      "opcoes": ["À cor clara de suas pedras de cantaria", "A uma antiga fábrica de giz", "Ao escritor Giz de Oliveira", "Aos desenhos feitos no chão por crianças"],
+      "respostaCorreta": "À cor clara de suas pedras de cantaria"
+    },
+    {
+      "pergunta": "Qual praia em São Luís é conhecida por ter ruínas de um forte e ser perigosa para banho devido às fortes correntes?",
+      "opcoes": ["Calhau", "Ponta d'Areia", "São Marcos", "Araçagi"],
+      "respostaCorreta": "São Marcos"
+    },
+    {
+      "pergunta": "Em que ano o Centro Histórico de São Luís foi declarado Patrimônio Cultural da Humanidade pela UNESCO?",
+      "opcoes": ["1985", "2000", "1997", "1990"],
+      "respostaCorreta": "1997"
+    },
+    {
+      "pergunta": "O 'Beco do Quebra-Bunda' é um local pitoresco de qual área da cidade?",
+      "opcoes": ["São Francisco", "Cohatrac", "Centro Histórico", "Renascença"],
+      "respostaCorreta": "Centro Histórico"
+    },
+    {
+      "pergunta": "A Reserva do Itapiracó é uma importante área de preservação ambiental. Qual o significado de 'Itapiracó'?",
+      "opcoes": ["Água que corre", "Pedra que ronca", "Mata fechada", "Rio dos peixes"],
+      "respostaCorreta": "Pedra que ronca"
+    },
+    {
+      "pergunta": "Qual o principal ingrediente da 'tiquira', uma aguardente típica do Maranhão?",
+      "opcoes": ["Cana-de-açúcar", "Milho", "Mandioca", "Arroz"],
+      "respostaCorreta": "Mandioca"
+    },
+    {
+      "pergunta": "O lema da bandeira de São Luís é 'Ut Civitas Ad Solem Vivat'. O que isso significa em latim?",
+      "opcoes": ["Para que a cidade viva para sempre", "Para que a cidade para o sol viva", "A cidade do sol e do amor", "Uma cidade forte e justa"],
+      "respostaCorreta": "Para que a cidade para o sol viva"
+    },
+    {
+      "pergunta": "Qual evento climático influencia significativamente a paisagem e o nível dos rios em São Luís?",
+      "opcoes": ["Neve no inverno", "O regime das marés", "Terremotos", "Vulcões"],
+      "respostaCorreta": "O regime das marés"
+    },
+    {
+      "pergunta": "A 'Casa de Nhozinho' é um museu dedicado a qual tipo de arte?",
+      "opcoes": ["Arte sacra", "Pintura moderna", "Artefatos e arte popular maranhense", "Esculturas de metal"],
+      "respostaCorreta": "Artefatos e arte popular maranhense"
+    },
+    {
+      "pergunta": "Qual destes ritmos musicais NÃO é tradicional do Maranhão?",
+      "opcoes": ["Tambor de Crioula", "Baião", "Cacuriá", "Bumba Meu Boi"],
+      "respostaCorreta": "Baião"
+    },
+    {
+      "pergunta": "A economia de São Luís no período colonial foi fortemente baseada na produção de qual matéria-prima?",
+      "opcoes": ["Ouro", "Café", "Algodão e arroz", "Borracha"],
+      "respostaCorreta": "Algodão e arroz"
+    },
+    {
+      "pergunta": "O que é o 'Cacuriá'?",
+      "opcoes": ["Um prato de frutos do mar", "Uma dança sensual e animada", "Um tipo de artesanato em cerâmica", "Uma lenda sobre um boto"],
+      "respostaCorreta": "Uma dança sensual e animada"
+    },
+    {
+      "pergunta": "Qual o nome da batalha em que os portugueses derrotaram os franceses em 1614, perto de São Luís?",
+      "opcoes": ["Batalha dos Guararapes", "Batalha do Riachuelo", "Batalha de Guaxenduba", "Batalha de Tuiuti"],
+      "respostaCorreta": "Batalha de Guaxenduba"
+    },
+    {
+      "pergunta": "Onde fica localizado o Museu Histórico e Artístico do Maranhão?",
+      "opcoes": ["No Palácio dos Leões", "No Convento das Mercês", "No Solar Gomes de Sousa", "Na Igreja do Desterro"],
+      "respostaCorreta": "No Solar Gomes de Sousa"
+    },
+    {
+      "pergunta": "A cidade de Alcântara, vizinha a São Luís, foi uma importante base para o lançamento de qual tipo de veículo?",
+      "opcoes": ["Navios", "Foguetes", "Aviões", "Trens"],
+      "respostaCorreta": "Foguetes"
+    },
+    {
+      "pergunta": "Qual a principal característica do sotaque de Pindaré do Bumba Meu Boi?",
+      "opcoes": ["Uso de matracas", "Ritmo mais lento e cadenciado", "Orquestra com muitos metais", "Ausência de instrumentos"],
+      "respostaCorreta": "Ritmo mais lento e cadenciado"
+    },
+    {
+      "pergunta": "A 'Rua Portugal' é famosa por abrigar qual instituição cultural?",
+      "opcoes": ["A Biblioteca Pública", "O Museu de Arte Sacra", "A Casa do Maranhão", "O Teatro Arthur Azevedo"],
+      "respostaCorreta": "A Casa do Maranhão"
+    },
+    {
+      "pergunta": "O que é 'juçara' (ou açaí) na cultura alimentar de São Luís?",
+      "opcoes": ["Uma sobremesa doce servida com frutas", "Um prato salgado, geralmente com camarão e farinha", "Uma bebida quente", "Um tipo de pão"],
+      "respostaCorreta": "Um prato salgado, geralmente com camarão e farinha"
+    },
+    {
+      "pergunta": "Qual o nome da principal festa de reggae que acontece em São Luís?",
+      "opcoes": ["Rock in Rio", "Lollapalooza", "Maranhão Roots Reggae Festival", "Carnaval"],
+      "respostaCorreta": "Maranhão Roots Reggae Festival"
+    },
+    {
+      "pergunta": "A quem se atribui a frase 'O Maranhão não precisa de independência, já é uma nação'?",
+      "opcoes": ["Dom Pedro I", "Gonçalves Dias", "Lord Cochrane", "José Sarney"],
+      "respostaCorreta": "Lord Cochrane"
+    },
+    {
+      "pergunta": "O que é o 'Valparaíso Acqua Park'?",
+      "opcoes": ["Um aquário municipal", "Um parque aquático de grande porte", "Uma reserva de peixes-boi", "Uma fonte termal"],
+      "respostaCorreta": "Um parque aquático de grande porte"
+    },
+    {
+      "pergunta": "Qual desses bairros de São Luís é uma península?",
+      "opcoes": ["Anil", "Turu", "Ponta d'Areia", "Cidade Operária"],
+      "respostaCorreta": "Ponta d'Areia"
+    },
+    {
+      "pergunta": "Qual o nome do aeroporto internacional de São Luís?",
+      "opcoes": ["Aeroporto de Congonhas", "Aeroporto de Guarulhos", "Aeroporto Marechal Cunha Machado", "Aeroporto de Confins"],
+      "respostaCorreta": "Aeroporto Marechal Cunha Machado"
+    },
+    {
+      "pergunta": "A 'Feirinha São Luís', que acontece aos domingos, ocupa qual praça do Centro Histórico?",
+      "opcoes": ["Praça Deodoro", "Praça Benedito Leite", "Praça Gonçalves Dias", "Praça João Lisboa"],
+      "respostaCorreta": "Praça Benedito Leite"
+    },
+    {
+      "pergunta": "O que a lenda da carruagem de Ana Jansen diz que acontece nas noites de sexta-feira?",
+      "opcoes": ["A carruagem distribui doces", "A carruagem corre em chamas pelas ruas", "A carruagem vira ouro", "A carruagem toca música"],
+      "respostaCorreta": "A carruagem corre em chamas pelas ruas"
+    },
+    {
+      "pergunta": "Qual é a cidade que fica do outro lado da Baía de São Marcos, acessível por ferry boat?",
+      "opcoes": ["Raposa", "São José de Ribamar", "Alcântara", "Paço do Lumiar"],
+      "respostaCorreta": "Alcântara"
+    },
+    {
+      "pergunta": "O Parque Botânico da Vale, em São Luís, é uma área de preservação de qual bioma?",
+      "opcoes": ["Cerrado", "Caatinga", "Amazônia", "Mata Atlântica"],
+      "respostaCorreta": "Amazônia"
+    },
+    {
+      "pergunta": "A 'Torta de Caranguejo' é um prato popular. Qual parte do caranguejo é usada principalmente?",
+      "opcoes": ["As patas", "A casca", "A carne desfiada (catado)", "As garras"],
+      "respostaCorreta": "A carne desfiada (catado)"
+    },
+    {
+      "pergunta": "Qual o nome do principal estádio de futebol de São Luís?",
+      "opcoes": ["Maracanã", "Mineirão", "Castelão", "Morumbi"],
+      "respostaCorreta": "Castelão"
+    },
+    {
+      "pergunta": "O 'Projeto Reviver', iniciado na década de 1980, teve como objetivo principal:",
+      "opcoes": ["Construir prédios modernos", "Recuperar e revitalizar o Centro Histórico", "Criar novas praias artificiais", "Asfaltar todas as ruas"],
+      "respostaCorreta": "Recuperar e revitalizar o Centro Histórico"
+    },
+    {
+      "pergunta": "O 'Boi de Morros' é famoso por qual sotaque de Bumba Meu Boi?",
+      "opcoes": ["Matraca", "Zabumba", "Costa de Mão", "Orquestra"],
+      "respostaCorreta": "Orquestra"
+    }
+  ]
+}

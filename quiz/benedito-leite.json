@@ -1,0 +1,410 @@
+{
+  "nome": "Benedito Leite",
+  "perguntas": [
+    {
+      "pergunta": "O nome da cidade de Benedito Leite é uma homenagem a quem?",
+      "opcoes": ["Um bandeirante", "Um poeta local", "Um senador e intelectual maranhense", "O fundador da cidade"],
+      "respostaCorreta": "Um senador e intelectual maranhense"
+    },
+    {
+      "pergunta": "Qual importante rio define a divisa entre Benedito Leite e o estado do Piauí?",
+      "opcoes": ["Rio Tocantins", "Rio Mearim", "Rio Balsas", "Rio Parnaíba"],
+      "respostaCorreta": "Rio Parnaíba"
+    },
+    {
+      "pergunta": "Quem é considerado o fundador de Benedito Leite, tendo estabelecido um ponto comercial estratégico no local?",
+      "opcoes": ["Gonçalves Dias", "Padre Cícero", "Major Lucas Evangelista de Souza Coelho", "Barão de Itapary"],
+      "respostaCorreta": "Major Lucas Evangelista de Souza Coelho"
+    },
+    {
+      "pergunta": "Qual o bioma predominante na paisagem de Benedito Leite?",
+      "opcoes": ["Amazônia", "Mata Atlântica", "Caatinga", "Cerrado"],
+      "respostaCorreta": "Cerrado"
+    },
+    {
+      "pergunta": "Qual era o nome da vila antes de ser batizada como Benedito Leite?",
+      "opcoes": ["Vila do Monge", "Porto da Serra", "Vila da Foz de Balsas", "Arraial do Treme-Terra"],
+      "respostaCorreta": "Vila da Foz de Balsas"
+    },
+    {
+      "pergunta": "Uma ponte liga Benedito Leite a qual importante cidade do agronegócio no Piauí?",
+      "opcoes": ["Teresina", "Parnaíba", "Floriano", "Uruçuí"],
+      "respostaCorreta": "Uruçuí"
+    },
+    {
+      "pergunta": "Qual o gentílico para quem nasce em Benedito Leite?",
+      "opcoes": ["Leitense", "Beneditense", "Beneleitense", "Beneditino"],
+      "respostaCorreta": "Beneleitense"
+    },
+    {
+      "pergunta": "A economia do município é fortemente baseada em qual setor?",
+      "opcoes": ["Turismo de praia", "Indústria de tecnologia", "Agropecuária", "Pesca industrial"],
+      "respostaCorreta": "Agropecuária"
+    },
+    {
+      "pergunta": "Em que ano o município de Benedito Leite foi recriado, após ter sido extinto anteriormente?",
+      "opcoes": ["1901", "1920", "1935", "1950"],
+      "respostaCorreta": "1935"
+    },
+    {
+      "pergunta": "Qual rio importante tem sua foz no Rio Parnaíba, justamente na região de Benedito Leite?",
+      "opcoes": ["Rio Mearim", "Rio Itapecuru", "Rio Balsas", "Rio Munim"],
+      "respostaCorreta": "Rio Balsas"
+    },
+    {
+      "pergunta": "Qual a santa padroeira de Benedito Leite, com festejo em julho?",
+      "opcoes": ["Santa Teresinha", "Nossa Senhora do Carmo", "Nossa Senhora da Conceição", "Santa Luzia"],
+      "respostaCorreta": "Nossa Senhora do Carmo"
+    },
+    {
+      "pergunta": "A população de Benedito Leite, segundo o Censo de 2022, é de aproximadamente:",
+      "opcoes": ["2.000 habitantes", "5.500 habitantes", "10.000 habitantes", "15.000 habitantes"],
+      "respostaCorreta": "5.500 habitantes"
+    },
+    {
+      "pergunta": "Qual o principal cultivo agrícola do município, seguindo a tendência do sul do Maranhão?",
+      "opcoes": ["Café", "Cana-de-açúcar", "Soja", "Laranja"],
+      "respostaCorreta": "Soja"
+    },
+    {
+      "pergunta": "Qual o apelido carinhoso do Rio Parnaíba, que banha a cidade?",
+      "opcoes": ["Rio da Unidade", "Velho Monge", "Rio-Mar", "Gigante Adormecido"],
+      "respostaCorreta": "Velho Monge"
+    },
+    {
+      "pergunta": "Qual destes municípios NÃO faz divisa com Benedito Leite?",
+      "opcoes": ["Uruçuí (PI)", "Loreto", "São Domingos do Azeitão", "Imperatriz"],
+      "respostaCorreta": "Imperatriz"
+    },
+    {
+      "pergunta": "O que a construção da ponte sobre o Rio Parnaíba representou para Benedito Leite?",
+      "opcoes": ["Um problema ambiental", "Uma importante integração econômica e social com o Piauí", "O fim da navegação fluvial", "Um gasto desnecessário"],
+      "respostaCorreta": "Uma importante integração econômica e social com o Piauí"
+    },
+    {
+      "pergunta": "Qual era o nome inicial do povoado, antes de se chamar Foz de Balsas?",
+      "opcoes": ["Ponta da Serra", "Boca da Mata", "Vila Rica", "Arraial dos Coelhos"],
+      "respostaCorreta": "Ponta da Serra"
+    },
+    {
+      "pergunta": "Qual a principal atividade de lazer dos moradores nos rios da região?",
+      "opcoes": ["Surf", "Passeios de iate", "Banhos e pesca em praias fluviais", "Mergulho de cilindro"],
+      "respostaCorreta": "Banhos e pesca em praias fluviais"
+    },
+    {
+      "pergunta": "O PIB per capita de Benedito Leite está acima ou abaixo da média da maioria dos municípios maranhenses?",
+      "opcoes": ["Muito abaixo", "Na média", "Acima da média", "É o maior do estado"],
+      "respostaCorreta": "Acima da média"
+    },
+    {
+      "pergunta": "Qual a principal via de escoamento da produção agrícola de Benedito Leite?",
+      "opcoes": ["Ferrovias", "Hidrovias", "Rodovias (estradas)", "Dutos"],
+      "respostaCorreta": "Rodovias (estradas)"
+    },
+    {
+      "pergunta": "A culinária local tem forte influência de qual região, além da nordestina?",
+      "opcoes": ["Indígena", "Africana", "Sertaneja e gaúcha (pela migração)", "Europeia"],
+      "respostaCorreta": "Sertaneja e gaúcha (pela migração)"
+    },
+    {
+      "pergunta": "O que a 'agropecuária' representa na composição do PIB de Benedito Leite?",
+      "opcoes": ["É a menor parte", "Não tem representatividade", "É a maior fatia da economia local", "É igual aos serviços"],
+      "respostaCorreta": "É a maior fatia da economia local"
+    },
+    {
+      "pergunta": "Qual a importância da cidade de Balsas para Benedito Leite?",
+      "opcoes": ["Nenhuma", "É um polo regional para serviços mais complexos", "É uma cidade rival", "Fica muito distante para ter relação"],
+      "respostaCorreta": "É um polo regional para serviços mais complexos"
+    },
+    {
+      "pergunta": "O que o hino de Benedito Leite exalta?",
+      "opcoes": ["Apenas o futebol", "A lavoura, a pecuária e a hospitalidade do povo", "A indústria naval", "As praias oceânicas"],
+      "respostaCorreta": "A lavoura, a pecuária e a hospitalidade do povo"
+    },
+    {
+      "pergunta": "Qual a principal característica do relevo de Benedito Leite?",
+      "opcoes": ["Grandes montanhas", "Planícies e terrenos planos do cerrado", "Cânions profundos", "Dunas de areia"],
+      "respostaCorreta": "Planícies e terrenos planos do cerrado"
+    },
+    {
+      "pergunta": "O que a frase 'celeiro de belos prados' no hino da cidade significa?",
+      "opcoes": ["Que a cidade tem muitos celeiros de madeira", "Que a cidade é fértil e produtiva", "Que a cidade tem muitos cavalos", "Que a cidade é muito antiga"],
+      "respostaCorreta": "Que a cidade é fértil e produtiva"
+    },
+    {
+      "pergunta": "Em que estado nasceu o senador Benedito Pereira Leite, que deu nome à cidade?",
+      "opcoes": ["Piauí", "Bahia", "Pernambuco", "Maranhão"],
+      "respostaCorreta": "Maranhão"
+    },
+    {
+      "pergunta": "Qual a principal atividade de lazer nas praias fluviais como a 'Ilha do Amor'?",
+      "opcoes": ["Esquiar", "Tomar banho de rio e acampar", "Construir castelos de areia", "Surfar"],
+      "respostaCorreta": "Tomar banho de rio e acampar"
+    },
+    {
+      "pergunta": "Qual o principal desafio para a agricultura na região?",
+      "opcoes": ["Excesso de chuvas", "Solo infértil", "A logística de transporte e os períodos de estiagem", "Falta de sol"],
+      "respostaCorreta": "A logística de transporte e os períodos de estiagem"
+    },
+    {
+      "pergunta": "A cidade de São Domingos do Azeitão é vizinha a Benedito Leite. Verdadeiro ou Falso?",
+      "opcoes": ["Verdadeiro", "Falso"],
+      "respostaCorreta": "Verdadeiro"
+    },
+    {
+      "pergunta": "Qual o principal tipo de criação de animais na pecuária local?",
+      "opcoes": ["Ovelhas", "Gado de corte (bovinos)", "Lhamas", "Avestruzes"],
+      "respostaCorreta": "Gado de corte (bovinos)"
+    },
+    {
+      "pergunta": "O que o encontro dos rios Balsas e Parnaíba representa para a geografia da região?",
+      "opcoes": ["O fim de ambos os rios", "Um importante marco hidrográfico", "Um local de água salgada", "A nascente de um novo rio"],
+      "respostaCorreta": "Um importante marco hidrográfico"
+    },
+    {
+      "pergunta": "A cultura do 'churrasco' em Benedito Leite foi influenciada por migrantes de qual estado?",
+      "opcoes": ["Bahia", "Rio Grande do Sul", "Amazonas", "Rio de Janeiro"],
+      "respostaCorreta": "Rio Grande do Sul"
+    },
+    {
+      "pergunta": "Qual a principal fonte de energia elétrica da cidade?",
+      "opcoes": ["Usinas termelétricas locais", "Grandes parques solares", "Sistema Interligado Nacional", "Pequenas usinas nucleares"],
+      "respostaCorreta": "Sistema Interligado Nacional"
+    },
+    {
+      "pergunta": "O que a 'administração pública' representa para a economia de Benedito Leite?",
+      "opcoes": ["É a menor parte da economia", "É uma importante fonte de empregos e renda (prefeitura, estado, etc.)", "Não existe no município", "É uma atividade privada"],
+      "respostaCorreta": "É uma importante fonte de empregos e renda (prefeitura, estado, etc.)"
+    },
+    {
+      "pergunta": "Qual destes é um prato típico do sertão maranhense apreciado em Benedito Leite?",
+      "opcoes": ["Paella", "Feijoada", "Maria-Isabel (arroz com carne de sol)", "Sushi"],
+      "respostaCorreta": "Maria-Isabel (arroz com carne de sol)"
+    },
+    {
+      "pergunta": "Qual a principal função do poder legislativo (Câmara de Vereadores) no município?",
+      "opcoes": ["Executar obras", "Criar leis municipais e fiscalizar o prefeito", "Comandar a polícia", "Julgar processos"],
+      "respostaCorreta": "Criar leis municipais e fiscalizar o prefeito"
+    },
+    {
+      "pergunta": "A 'praia Trinta Aboios' é uma praia de qual tipo?",
+      "opcoes": ["Praia de mar com ondas fortes", "Praia fluvial (de rio)", "Praia artificial", "Praia de lagoa"],
+      "respostaCorreta": "Praia fluvial (de rio)"
+    },
+    {
+      "pergunta": "Qual o principal período de visitação das praias fluviais de Benedito Leite?",
+      "opcoes": ["No período chuvoso (janeiro-março)", "No período de seca, quando o rio baixa (julho-setembro)", "Durante o inverno", "No carnaval"],
+      "respostaCorreta": "No período de seca, quando o rio baixa (julho-setembro)"
+    },
+    {
+      "pergunta": "Qual a distância aproximada por estrada de Benedito Leite até a capital, São Luís?",
+      "opcoes": ["Cerca de 200 km", "Cerca de 350 km", "Cerca de 520 km", "Cerca de 800 km"],
+      "respostaCorreta": "Cerca de 800 km"
+    },
+    {
+      "pergunta": "A maioria da população reside em qual zona?",
+      "opcoes": ["Zona Rural", "Zona Urbana", "A população é dividida igualmente", "Não há dados"],
+      "respostaCorreta": "Zona Urbana"
+    },
+    {
+      "pergunta": "O que o termo 'potencial de consumo' baixo indica sobre a economia da cidade?",
+      "opcoes": ["Que as pessoas compram muito", "Que o poder de compra da população é limitado", "Que não existem lojas", "Que os produtos são muito caros"],
+      "respostaCorreta": "Que o poder de compra da população é limitado"
+    },
+    {
+      "pergunta": "O que significa 'esgotamento sanitário adequado', um indicador de saneamento básico?",
+      "opcoes": ["Que todas as casas têm piscina", "Que o esgoto é coletado e tratado corretamente", "Que a água da chuva é coletada", "Que não há banheiros nas casas"],
+      "respostaCorreta": "Que o esgoto é coletado e tratado corretamente"
+    },
+    {
+      "pergunta": "Qual a importância da pecuária para a economia local?",
+      "opcoes": ["Apenas para subsistência", "É uma das principais atividades, junto com a agricultura", "Não há pecuária", "Serve apenas para exposições"],
+      "respostaCorreta": "É uma das principais atividades, junto com a agricultura"
+    },
+    {
+      "pergunta": "O que a 'arborização' de vias públicas significa?",
+      "opcoes": ["A pavimentação das ruas", "A presença de árvores nas calçadas e praças", "A limpeza das ruas", "A instalação de semáforos"],
+      "respostaCorreta": "A presença de árvores nas calçadas e praças"
+    },
+    {
+      "pergunta": "O que o Major Lucas Coelho buscava ao se estabelecer na região?",
+      "opcoes": ["Um local para férias", "Um ponto estratégico para o comércio fluvial", "Ouro e pedras preciosas", "Um local para criar uma nova religião"],
+      "respostaCorreta": "Um ponto estratégico para o comércio fluvial"
+    },
+    {
+      "pergunta": "O clima na região é caracterizado por ter qual tipo de temperatura?",
+      "opcoes": ["Temperaturas baixas o ano todo", "Temperaturas amenas com neve no inverno", "Temperaturas elevadas durante a maior parte do ano", "Variação extrema entre dia e noite"],
+      "respostaCorreta": "Temperaturas elevadas durante a maior parte do ano"
+    },
+    {
+      "pergunta": "Qual destes NÃO é um município da região sul do Maranhão?",
+      "opcoes": ["Balsas", "Riachão", "Carolina", "Bacabal"],
+      "respostaCorreta": "Bacabal"
+    },
+    {
+      "pergunta": "A principal atividade de lazer na cidade envolve o contato com o quê?",
+      "opcoes": ["Grandes centros de compras", "A natureza, especialmente os rios", "Teatros e cinemas", "Parques de diversão"],
+      "respostaCorreta": "A natureza, especialmente os rios"
+    },
+    {
+      "pergunta": "Por que a localização de Benedito Leite na divisa com o Piauí é estratégica?",
+      "opcoes": ["Para defesa militar", "Facilita o intercâmbio comercial e cultural entre os dois estados", "Para isolar a cidade", "Não é estratégica"],
+      "respostaCorreta": "Facilita o intercâmbio comercial e cultural entre os dois estados"
+    },
+    {
+      "pergunta": "O que são 'receitas externas' para um município?",
+      "opcoes": ["Dinheiro de turistas estrangeiros", "Repasses de verbas dos governos estadual e federal", "Vendas de produtos para outros países", "Impostos locais"],
+      "respostaCorreta": "Repasses de verbas dos governos estadual e federal"
+    },
+    {
+      "pergunta": "O que significa dizer que a cidade tem 'novas oportunidades de negócios'?",
+      "opcoes": ["Que a cidade está em decadência", "Que há espaço para o surgimento de novas empresas e investimentos", "Que todas as lojas estão fechando", "Que é proibido abrir novos negócios"],
+      "respostaCorreta": "Que há espaço para o surgimento de novas empresas e investimentos"
+    },
+    {
+      "pergunta": "Qual o principal tipo de solo encontrado no cerrado de Benedito Leite?",
+      "opcoes": ["Solo rochoso e vulcânico", "Solo arenoso de praia", "Latossolo (solo profundo e ácido)", "Solo congelado (permafrost)"],
+      "respostaCorreta": "Latossolo (solo profundo e ácido)"
+    },
+    {
+      "pergunta": "O que o 'salário médio mensal dos trabalhadores formais' indica?",
+      "opcoes": ["A renda de toda a população", "A média de ganhos de quem tem carteira assinada", "O salário mínimo", "O salário do prefeito"],
+      "respostaCorreta": "A média de ganhos de quem tem carteira assinada"
+    },
+    {
+      "pergunta": "Qual a importância de 'recuperar estradas' vicinais para a população rural?",
+      "opcoes": ["Apenas para passeios", "Garante o escoamento da produção e o acesso a serviços na cidade", "Atrapalha o trânsito", "Não tem importância"],
+      "respostaCorreta": "Garante o escoamento da produção e o acesso a serviços na cidade"
+    },
+    {
+      "pergunta": "O que o 'índice de urbanização' mede?",
+      "opcoes": ["A qualidade das ruas", "O percentual da população que vive na área urbana", "O número de prédios", "A quantidade de praças"],
+      "respostaCorreta": "O percentual da população que vive na área urbana"
+    },
+    {
+      "pergunta": "A cidade de Loreto é vizinha a Benedito Leite. Verdadeiro ou Falso?",
+      "opcoes": ["Verdadeiro", "Falso"],
+      "respostaCorreta": "Verdadeiro"
+    },
+    {
+      "pergunta": "Qual o principal meio de transporte para se chegar a Benedito Leite?",
+      "opcoes": ["Trem", "Avião", "Barco", "Rodoviário (carro, ônibus)"],
+      "respostaCorreta": "Rodoviário (carro, ônibus)"
+    },
+    {
+      "pergunta": "Qual o papel do 'comércio' para o fundador Major Lucas Coelho?",
+      "opcoes": ["Era sua principal atividade e o motivo da fundação do povoado", "Era apenas um hobby", "Ele era contra o comércio", "Ele era agricultor"],
+      "respostaCorreta": "Era sua principal atividade e o motivo da fundação do povoado"
+    },
+    {
+      "pergunta": "A 'pecuária extensiva', comum na região, é caracterizada por:",
+      "opcoes": ["Animais criados confinados", "Animais criados em grandes áreas de pasto", "Criação de peixes", "Criação de abelhas"],
+      "respostaCorreta": "Animais criados em grandes áreas de pasto"
+    },
+    {
+      "pergunta": "Qual destes é um desafio para a saúde em Benedito Leite?",
+      "opcoes": ["Excesso de hospitais", "A distância para centros com atendimento de alta complexidade", "Poluição do ar", "Trânsito intenso"],
+      "respostaCorreta": "A distância para centros com atendimento de alta complexidade"
+    },
+    {
+      "pergunta": "O que o festejo da padroeira promove na cidade?",
+      "opcoes": ["Apenas gastos", "Movimentação da economia local e reforço dos laços comunitários e da fé", "Aumento da criminalidade", "Conflitos políticos"],
+      "respostaCorreta": "Movimentação da economia local e reforço dos laços comunitários e da fé"
+    },
+    {
+      "pergunta": "Qual destes é um prato comum na culinária sertaneja, presente em Benedito Leite?",
+      "opcoes": ["Moqueca", "Paçoca de carne de sol", "Vatapá", "Acarajé"],
+      "respostaCorreta": "Paçoca de carne de sol"
+    },
+    {
+      "pergunta": "O que o termo 'afluente' significa no contexto dos rios?",
+      "opcoes": ["Um rio que seca", "Um rio que deságua em outro rio principal", "A nascente de um rio", "Um rio poluído"],
+      "respostaCorreta": "Um rio que deságua em outro rio principal"
+    },
+    {
+      "pergunta": "A 'agricultura familiar' em Benedito Leite é importante para quê?",
+      "opcoes": ["Apenas para exportação", "Para o abastecimento do mercado local com alimentos frescos", "Não existe agricultura familiar", "Para a produção de flores"],
+      "respostaCorreta": "Para o abastecimento do mercado local com alimentos frescos"
+    },
+    {
+      "pergunta": "O que a taxa de escolarização de 97,5% (em 2010) indicava?",
+      "opcoes": ["Que poucas crianças estavam na escola", "Um bom índice de acesso à educação para crianças de 6 a 14 anos", "Que as escolas eram ruins", "Que não havia escolas"],
+      "respostaCorreta": "Um bom índice de acesso à educação para crianças de 6 a 14 anos"
+    },
+    {
+      "pergunta": "Qual o principal tipo de habitação na zona urbana de Benedito Leite?",
+      "opcoes": ["Grandes arranha-céus", "Casas de madeira", "Casas de alvenaria", "Iglus"],
+      "respostaCorreta": "Casas de alvenaria"
+    },
+    {
+      "pergunta": "A 'cultura do vaqueiro' é forte na região. O que ela representa?",
+      "opcoes": ["Uma moda passageira", "Um conjunto de tradições, músicas e habilidades ligadas à lida com o gado", "Uma peça de teatro", "Um time de futebol"],
+      "respostaCorreta": "Um conjunto de tradições, músicas e habilidades ligadas à lida com o gado"
+    },
+    {
+      "pergunta": "A cidade de Pastos Bons tem qual relação com a história de Benedito Leite?",
+      "opcoes": ["Nenhuma", "É a cidade de onde partiu o fundador Major Lucas Coelho", "É uma cidade rival", "É a capital do estado"],
+      "respostaCorreta": "É a cidade de onde partiu o fundador Major Lucas Coelho"
+    },
+    {
+      "pergunta": "O que o 'desenvolvimento' de um município busca?",
+      "opcoes": ["Apenas o crescimento econômico", "A melhoria da qualidade de vida da população em várias áreas", "A diminuição da população", "A construção de muros"],
+      "respostaCorreta": "A melhoria da qualidade de vida da população em várias áreas"
+    },
+    {
+      "pergunta": "A principal atividade de lazer dos jovens envolve qual tipo de música?",
+      "opcoes": ["Música clássica e ópera", "Forró, sertanejo e piseiro", "Jazz e blues", "Rock progressivo"],
+      "respostaCorreta": "Forró, sertanejo e piseiro"
+    },
+    {
+      "pergunta": "O que significa 'sede municipal'?",
+      "opcoes": ["A maior fazenda do município", "A área urbana principal, onde fica a prefeitura", "A nascente do rio principal", "A fronteira do município"],
+      "respostaCorreta": "A área urbana principal, onde fica a prefeitura"
+    },
+    {
+      "pergunta": "Qual destes é um desafio para o pequeno produtor rural de Benedito Leite?",
+      "opcoes": ["Excesso de crédito bancário", "Conseguir vender sua produção por um preço justo", "Muitas estradas asfaltadas", "Falta de terra para plantar"],
+      "respostaCorreta": "Conseguir vender sua produção por um preço justo"
+    },
+    {
+      "pergunta": "A 'hospitalidade' citada no hino da cidade é uma característica de qual aspecto?",
+      "opcoes": ["Da economia", "Da geografia", "Do povo", "Da política"],
+      "respostaCorreta": "Do povo"
+    },
+    {
+      "pergunta": "Qual a importância de ter uma 'quadra escolar coberta'?",
+      "opcoes": ["Apenas para estética", "Permite a prática de esportes e atividades protegidas do sol e da chuva", "Para guardar os carros dos professores", "Não tem importância"],
+      "respostaCorreta": "Permite a prática de esportes e atividades protegidas do sol e da chuva"
+    },
+    {
+      "pergunta": "O que a 'conclusão da construção de uma escola' representa para a comunidade?",
+      "opcoes": ["Um gasto desnecessário", "A ampliação do acesso à educação e melhores condições de ensino", "Um novo prédio para a prefeitura", "Um problema para os pais"],
+      "respostaCorreta": "A ampliação do acesso à educação e melhores condições de ensino"
+    },
+    {
+      "pergunta": "A localização de Benedito Leite no sul do Maranhão a aproxima de qual outro bioma além do Cerrado?",
+      "opcoes": ["Amazônia", "Caatinga", "Mata Atlântica", "Pantanal"],
+      "respostaCorreta": "Caatinga"
+    },
+    {
+      "pergunta": "O que a 'soja transgênica', muito cultivada na região, significa?",
+      "opcoes": ["Que é uma soja orgânica", "Que a soja foi geneticamente modificada para resistir a pragas ou herbicidas", "Que é uma soja de cor diferente", "Que é uma soja que não precisa de água"],
+      "respostaCorreta": "Que a soja foi geneticamente modificada para resistir a pragas ou herbicidas"
+    },
+    {
+      "pergunta": "Qual destes é um animal típico do cerrado encontrado na região de Benedito Leite?",
+      "opcoes": ["Urso polar", "Lobo-guará", "Pinguim", "Leão marinho"],
+      "respostaCorreta": "Lobo-guará"
+    },
+    {
+      "pergunta": "O que a 'mecanização agrícola' causou na zona rural?",
+      "opcoes": ["Aumentou a necessidade de mão de obra manual", "Diminuiu a necessidade de mão de obra e aumentou a produtividade", "Não teve impacto", "Acabou com a agricultura"],
+      "respostaCorreta": "Diminuiu a necessidade de mão de obra e aumentou a produtividade"
+    },
+    {
+      "pergunta": "Qual a principal conclusão sobre a identidade de Benedito Leite?",
+      "opcoes": ["É uma cidade turística de praia", "É uma cidade histórica sem atividade econômica", "É uma cidade marcada pela transição, do comércio fluvial para a força do agronegócio", "É um grande centro industrial"],
+      "respostaCorreta": "É uma cidade marcada pela transição, do comércio fluvial para a força do agronegócio"
+    }
+  ]
+}

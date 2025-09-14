@@ -1,0 +1,450 @@
+{
+  "nome": "Axixá",
+  "perguntas": [
+    {
+      "pergunta": "Axixá é nacionalmente conhecida por ter um dos mais tradicionais e famosos grupos de qual manifestação cultural?",
+      "opcoes": ["Maracatu", "Frevo", "Bumba Meu Boi", "Carnaval de Olinda"],
+      "respostaCorreta": "Bumba Meu Boi"
+    },
+    {
+      "pergunta": "O famoso Boi de Axixá se apresenta no 'sotaque' de...?",
+      "opcoes": ["Matraca", "Zabumba", "Pindaré", "Orquestra"],
+      "respostaCorreta": "Orquestra"
+    },
+    {
+      "pergunta": "O nome da cidade, Axixá, tem origem no nome de...?",
+      "opcoes": ["Um rio", "Um herói indígena", "Uma árvore frutífera", "Uma santa"],
+      "respostaCorreta": "Uma árvore frutífera"
+    },
+    {
+      "pergunta": "Qual importante rio banha a cidade de Axixá, sendo fundamental para sua história e geografia?",
+      "opcoes": ["Rio Tocantins", "Rio Parnaíba", "Rio Munim", "Rio Itapecuru"],
+      "respostaCorreta": "Rio Munim"
+    },
+    {
+      "pergunta": "Quem foi o lendário fundador e 'amo' do Boi de Axixá, responsável por sua fama nacional?",
+      "opcoes": ["Papete", "João do Vale", "Francisco Naiva (Seu Donato)", "Ferreira Gullar"],
+      "respostaCorreta": "Francisco Naiva (Seu Donato)"
+    },
+    {
+      "pergunta": "Quais são as cores tradicionais do Boi de Axixá?",
+      "opcoes": ["Azul e branco", "Verde e amarelo", "Preto e branco", "Vermelho e branco"],
+      "respostaCorreta": "Vermelho e branco"
+    },
+    {
+      "pergunta": "O que diferencia o sotaque de orquestra dos outros sotaques do Bumba Meu Boi?",
+      "opcoes": ["O uso exclusivo de matracas", "A ausência de música, sendo apenas dançado", "O uso de instrumentos de sopro e cordas", "O ritmo extremamente lento"],
+      "respostaCorreta": "O uso de instrumentos de sopro e cordas"
+    },
+    {
+      "pergunta": "Axixá foi desmembrada e emancipada de qual município mais antigo?",
+      "opcoes": ["Rosário", "São Luís", "Icatu", "Morros"],
+      "respostaCorreta": "Icatu"
+    },
+    {
+      "pergunta": "Qual destes instrumentos é característico do sotaque de orquestra do Boi de Axixá?",
+      "opcoes": ["Matraca", "Tambor-onça", "Saxofone", "Zabumba"],
+      "respostaCorreta": "Saxofone"
+    },
+    {
+      "pergunta": "Qual o gentílico para quem nasce em Axixá?",
+      "opcoes": ["Axixano", "Axixaense", "Axixense", "Aixá"],
+      "respostaCorreta": "Axixaense"
+    },
+    {
+      "pergunta": "Em que data se comemora o aniversário de emancipação política de Axixá?",
+      "opcoes": ["7 de Setembro", "23 de Junho", "12 de Dezembro", "1º de Maio"],
+      "respostaCorreta": "23 de Junho"
+    },
+    {
+      "pergunta": "A cidade de Axixá faz parte de qual polo turístico do Maranhão?",
+      "opcoes": ["Polo dos Lençóis Maranhenses", "Polo da Chapada das Mesas", "Polo da Amazônia Maranhense", "Polo Turístico de São Luís"],
+      "respostaCorreta": "Polo Turístico de São Luís"
+    },
+    {
+      "pergunta": "A principal via de acesso rodoviário a Axixá, partindo de São Luís, é a:",
+      "opcoes": ["BR-135", "BR-316", "MA-402 (Translitorânea)", "BR-222"],
+      "respostaCorreta": "MA-402 (Translitorânea)"
+    },
+    {
+      "pergunta": "Qual a principal atividade econômica de Axixá, além do turismo cultural?",
+      "opcoes": ["Indústria pesada", "Agricultura (principalmente mandioca)", "Mineração de bauxita", "Produção de software"],
+      "respostaCorreta": "Agricultura (principalmente mandioca)"
+    },
+    {
+      "pergunta": "O que o Rio Munim proporciona anualmente à cidade, sendo ao mesmo tempo um desafio e uma renovação?",
+      "opcoes": ["Seca extrema", "Congelamento de suas águas", "As cheias (enchentes)", "Uma mudança de cor"],
+      "respostaCorreta": "As cheias (enchentes)"
+    },
+    {
+      "pergunta": "Qual o nome da praça principal de Axixá, onde acontecem muitos eventos culturais?",
+      "opcoes": ["Praça da Matriz", "Praça Gonçalves Dias", "Praça Deodoro", "Praça do Boi"],
+      "respostaCorreta": "Praça da Matriz"
+    },
+    {
+      "pergunta": "O que é o 'barracão' do Boi de Axixá?",
+      "opcoes": ["Um tipo de barco", "Um prato típico", "A sede do grupo, onde acontecem ensaios e eventos", "Uma loja de artesanato"],
+      "respostaCorreta": "A sede do grupo, onde acontecem ensaios e eventos"
+    },
+    {
+      "pergunta": "A população de Axixá, segundo o Censo de 2022, é de aproximadamente:",
+      "opcoes": ["5.000 habitantes", "11.000 habitantes", "25.000 habitantes", "50.000 habitantes"],
+      "respostaCorreta": "11.000 habitantes"
+    },
+    {
+      "pergunta": "Qual destas cidades NÃO faz parte da região do Munim, junto com Axixá?",
+      "opcoes": ["Morros", "Icatu", "Presidente Juscelino", "Imperatriz"],
+      "respostaCorreta": "Imperatriz"
+    },
+    {
+      "pergunta": "Qual a santa padroeira de Axixá?",
+      "opcoes": ["Nossa Senhora da Conceição", "Nossa Senhora da Saúde", "Santa Teresinha", "Nossa Senhora de Nazaré"],
+      "respostaCorreta": "Nossa Senhora da Saúde"
+    },
+    {
+      "pergunta": "O que a 'morte' do boi simboliza no auto do Bumba Meu Boi?",
+      "opcoes": ["O fim da festa", "Um sacrifício para os deuses", "A parte dramática da história, seguida pela ressurreição", "A vitória do mal"],
+      "respostaCorreta": "A parte dramática da história, seguida pela ressurreição"
+    },
+    {
+      "pergunta": "O artesanato local é rico na produção de objetos de qual material?",
+      "opcoes": ["Vidro soprado", "Metais preciosos", "Cerâmica e fibras naturais", "Plástico reciclado"],
+      "respostaCorreta": "Cerâmica e fibras naturais"
+    },
+    {
+      "pergunta": "Qual destes personagens folclóricos é essencial na trama do Bumba Meu Boi?",
+      "opcoes": ["Curupira", "Saci-Pererê", "Pai Francisco e Catirina", "Iara"],
+      "respostaCorreta": "Pai Francisco e Catirina"
+    },
+    {
+      "pergunta": "O que a cheia do Rio Munim fertiliza, beneficiando a agricultura local?",
+      "opcoes": ["As praias", "As várzeas (terras baixas)", "Os morros", "Os telhados das casas"],
+      "respostaCorreta": "As várzeas (terras baixas)"
+    },
+    {
+      "pergunta": "O Boi de Axixá já se apresentou em outros estados e até no exterior. Verdadeiro ou Falso?",
+      "opcoes": ["Verdadeiro", "Falso"],
+      "respostaCorreta": "Verdadeiro"
+    },
+    {
+      "pergunta": "Qual prato, feito com galinha, é uma especialidade da culinária de Axixá e região?",
+      "opcoes": ["Frango xadrez", "Frango a passarinho", "Galinha ao molho pardo", "Strogonoff de frango"],
+      "respostaCorreta": "Galinha ao molho pardo"
+    },
+    {
+      "pergunta": "O que significa 'amo do boi'?",
+      "opcoes": ["O dono do boi, no sentido literal", "O cantador principal e líder do grupo de Bumba Meu Boi", "O coreógrafo da dança", "O motorista do ônibus do grupo"],
+      "respostaCorreta": "O cantador principal e líder do grupo de Bumba Meu Boi"
+    },
+    {
+      "pergunta": "Qual a importância do turismo para a economia de Axixá durante o período junino?",
+      "opcoes": ["Nenhuma", "É uma das principais fontes de renda temporária", "Atrapalha a cidade", "O turismo é proibido"],
+      "respostaCorreta": "É uma das principais fontes de renda temporária"
+    },
+    {
+      "pergunta": "A cidade de Morros, famosa por seus balneários, é vizinha de Axixá. Verdadeiro ou Falso?",
+      "opcoes": ["Verdadeiro", "Falso"],
+      "respostaCorreta": "Verdadeiro"
+    },
+    {
+      "pergunta": "Qual o nome da 'toada', como são chamadas as músicas do Bumba Meu Boi?",
+      "opcoes": ["Samba-enredo", "Marchinha", "Toada", "Aria"],
+      "respostaCorreta": "Toada"
+    },
+    {
+      "pergunta": "O que o 'couro' do boi, ricamente bordado, representa?",
+      "opcoes": ["Apenas um adereço", "A alma e a beleza do boi, sendo uma obra de arte", "Uma proteção contra a chuva", "Uma propaganda de patrocinadores"],
+      "respostaCorreta": "A alma e a beleza do boi, sendo uma obra de arte"
+    },
+    {
+      "pergunta": "A 'Festa do Divino Espírito Santo' em Axixá é uma tradição de qual origem?",
+      "opcoes": ["Indígena", "Africana", "Portuguesa", "Francesa"],
+      "respostaCorreta": "Portuguesa"
+    },
+    {
+      "pergunta": "Qual a principal matéria-prima para a produção da farinha d'água na região?",
+      "opcoes": ["Milho", "Trigo", "Mandioca", "Arroz"],
+      "respostaCorreta": "Mandioca"
+    },
+    {
+      "pergunta": "Qual destes instrumentos NÃO faz parte do sotaque de orquestra?",
+      "opcoes": ["Piston", "Trombone", "Clarinete", "Matraca"],
+      "respostaCorreta": "Matraca"
+    },
+    {
+      "pergunta": "O que são 'índias guerreiras' no Bumba Meu Boi de Axixá?",
+      "opcoes": ["Atletas de artes marciais", "Personagens femininas que dançam e embelezam o grupo", "Seguranças do evento", "Cozinheiras da festa"],
+      "respostaCorreta": "Personagens femininas que dançam e embelezam o grupo"
+    },
+    {
+      "pergunta": "Qual o principal desafio ambiental enfrentado pelo Rio Munim?",
+      "opcoes": ["Congelamento", "Excesso de peixes", "Assoreamento e poluição", "Falta de água"],
+      "respostaCorreta": "Assoreamento e poluição"
+    },
+    {
+      "pergunta": "Onde acontecem os ensaios do Boi de Axixá antes do período junino?",
+      "opcoes": ["No teatro da cidade", "No barracão do boi", "Na praça principal", "Em São Luís"],
+      "respostaCorreta": "No barracão do boi"
+    },
+    {
+      "pergunta": "Qual destes é um município vizinho a Axixá?",
+      "opcoes": ["Santa Inês", "Bacabal", "Presidente Juscelino", "Imperatriz"],
+      "respostaCorreta": "Presidente Juscelino"
+    },
+    {
+      "pergunta": "A história contada no Bumba Meu Boi gira em torno do desejo de Catirina, que estava grávida, de comer o quê?",
+      "opcoes": ["A língua do boi mais bonito da fazenda", "Um peixe raro do rio", "Frutas exóticas", "Um bolo de chocolate"],
+      "respostaCorreta": "A língua do boi mais bonito da fazenda"
+    },
+    {
+      "pergunta": "O que é um 'vaqueiro campeador' no Bumba Meu Boi?",
+      "opcoes": ["Um vaqueiro que canta", "Um vaqueiro que caça o Pai Francisco", "O dono da fazenda", "Um personagem cômico"],
+      "respostaCorreta": "Um vaqueiro que caça o Pai Francisco"
+    },
+    {
+      "pergunta": "A culinária local é baseada em produtos de qual origem?",
+      "opcoes": ["Importados da Europa", "Da caça e da agricultura familiar", "Industrializados", "Frutos do mar"],
+      "respostaCorreta": "Da caça e da agricultura familiar"
+    },
+    {
+      "pergunta": "Axixá faz parte da Região Metropolitana da Grande São Luís. Verdadeiro ou Falso?",
+      "opcoes": ["Verdadeiro", "Falso"],
+      "respostaCorreta": "Verdadeiro"
+    },
+    {
+      "pergunta": "O que a 'ressurreição' do boi representa no final da apresentação?",
+      "opcoes": ["O início de uma nova festa", "A vitória da fé e da alegria sobre a morte", "Que a história foi um sonho", "A chegada da polícia"],
+      "respostaCorreta": "A vitória da fé e da alegria sobre a morte"
+    },
+    {
+      "pergunta": "A 'Casa da Farinha' é um local importante na zona rural para qual finalidade?",
+      "opcoes": ["Vender pães", "Moer café", "Produzir farinha de mandioca", "Armazenar grãos"],
+      "respostaCorreta": "Produzir farinha de mandioca"
+    },
+    {
+      "pergunta": "Qual destes elementos NÃO é parte da paisagem de Axixá?",
+      "opcoes": ["Rio Munim", "Casas coloniais", "Campos de babaçu", "Montanhas com neve"],
+      "respostaCorreta": "Montanhas com neve"
+    },
+    {
+      "pergunta": "O turismo em Axixá é classificado principalmente como:",
+      "opcoes": ["Turismo de aventura", "Turismo cultural", "Turismo de negócios", "Agroturismo"],
+      "respostaCorreta": "Turismo cultural"
+    },
+    {
+      "pergunta": "O que são os 'cazumbás'?",
+      "opcoes": ["Os músicos da orquestra", "Personagens mascarados que divertem o público e protegem o boi", "Os donos da fazenda", "Os cantores"],
+      "respostaCorreta": "Personagens mascarados que divertem o público e protegem o boi"
+    },
+    {
+      "pergunta": "A economia agrícola de Axixá é dominada por:",
+      "opcoes": ["Grandes latifúndios de soja", "Pequenos produtores e agricultura familiar", "Fazendas de café", "Plantações de laranja"],
+      "respostaCorreta": "Pequenos produtores e agricultura familiar"
+    },
+    {
+      "pergunta": "Qual o principal desafio para os moradores de Axixá durante a cheia do Rio Munim?",
+      "opcoes": ["O frio intenso", "A falta de peixes", "As inundações que afetam casas e plantações", "A seca"],
+      "respostaCorreta": "As inundações que afetam casas e plantações"
+    },
+    {
+      "pergunta": "O Boi de Axixá é considerado Patrimônio Cultural de onde?",
+      "opcoes": ["Apenas de Axixá", "Do Brasil", "Do Nordeste", "Da América do Sul"],
+      "respostaCorreta": "Do Brasil"
+    },
+    {
+      "pergunta": "Qual a principal atividade de lazer dos moradores às margens do Rio Munim?",
+      "opcoes": ["Esqui aquático", "Banhos e pesca recreativa", "Surf", "Mergulho com cilindro"],
+      "respostaCorreta": "Banhos e pesca recreativa"
+    },
+    {
+      "pergunta": "O que significa 'bordar o boi'?",
+      "opcoes": ["Contar uma mentira", "Costurar o couro do animal", "Decorar com miçangas e canutilhos o couro do personagem do boi", "Dar nome ao boi"],
+      "respostaCorreta": "Decorar com miçangas e canutilhos o couro do personagem do boi"
+    },
+    {
+      "pergunta": "Qual a importância de 'Seu Donato' para a cultura de Axixá?",
+      "opcoes": ["Foi o primeiro prefeito", "Levou o Boi de Axixá ao reconhecimento nacional", "Construiu a igreja matriz", "Foi um famoso jogador de futebol"],
+      "respostaCorreta": "Levou o Boi de Axixá ao reconhecimento nacional"
+    },
+    {
+      "pergunta": "A cidade de Icatu, de onde Axixá se desmembrou, é famosa por qual evento histórico?",
+      "opcoes": ["A primeira capital do Maranhão", "A Batalha de Jenipapo", "A Balaiada", "A Inconfidência Mineira"],
+      "respostaCorreta": "A primeira capital do Maranhão"
+    },
+    {
+      "pergunta": "Qual o período do ano em que Axixá recebe o maior número de turistas?",
+      "opcoes": ["Carnaval", "Festas Juninas", "Natal", "Páscoa"],
+      "respostaCorreta": "Festas Juninas"
+    },
+    {
+      "pergunta": "A 'burrinha' é um personagem comum em qual manifestação cultural da região?",
+      "opcoes": ["Tambor de Crioula", "Dança do Coco", "Bumba Meu Boi", "Capoeira"],
+      "respostaCorreta": "Bumba Meu Boi"
+    },
+    {
+      "pergunta": "O que a 'miçanga' representa no bordado do couro do boi?",
+      "opcoes": ["Riqueza e brilho", "Proteção espiritual", "As estrelas do céu", "As escamas de um peixe"],
+      "respostaCorreta": "Riqueza e brilho"
+    },
+    {
+      "pergunta": "Qual destes NÃO é um município da microrregião do Rosário, vizinha a Axixá?",
+      "opcoes": ["Rosário", "Santa Rita", "Bacabeira", "Codó"],
+      "respostaCorreta": "Codó"
+    },
+    {
+      "pergunta": "O que é um 'miolo do boi'?",
+      "opcoes": ["A comida servida na festa", "A pessoa que fica dentro da armação do boi, dançando", "O coração do boi, no sentido figurado", "O líder do grupo"],
+      "respostaCorreta": "A pessoa que fica dentro da armação do boi, dançando"
+    },
+    {
+      "pergunta": "A culinária de Axixá, rica em peixes de rio, inclui qual destes pratos?",
+      "opcoes": ["Moqueca capixaba", "Peixada ao leite de coco", "Salmão grelhado", "Paella"],
+      "respostaCorreta": "Peixada ao leite de coco"
+    },
+    {
+      "pergunta": "Qual o principal desafio para a preservação do Bumba Meu Boi como tradição?",
+      "opcoes": ["Falta de interesse do público", "Passar o conhecimento para as novas gerações", "Falta de músicas novas", "Concorrência com o rock"],
+      "respostaCorreta": "Passar o conhecimento para as novas gerações"
+    },
+    {
+      "pergunta": "O que a proximidade com São Luís representa para Axixá?",
+      "opcoes": ["Isolamento completo", "Uma forte conexão econômica e cultural", "Uma rivalidade negativa", "Nenhuma relação"],
+      "respostaCorreta": "Uma forte conexão econômica e cultural"
+    },
+    {
+      "pergunta": "As toadas do Boi de Axixá frequentemente falam sobre:",
+      "opcoes": ["Política internacional", "O cotidiano, a natureza e a própria história do boi", "Física quântica", "Mercado de ações"],
+      "respostaCorreta": "O cotidiano, a natureza e a própria história do boi"
+    },
+    {
+      "pergunta": "Qual o nome do famoso balneário e povoado de Axixá, às margens do Rio Munim?",
+      "opcoes": ["Barreirinhas", "Atins", "Buriti Corrente", "Santo Amaro"],
+      "respostaCorreta": "Buriti Corrente"
+    },
+    {
+      "pergunta": "O que os 'caboclos de pena', no Bumba Meu Boi, representam?",
+      "opcoes": ["Os vaqueiros", "Os donos da fazenda", "Os povos indígenas e sua força espiritual", "Os anjos"],
+      "respostaCorreta": "Os povos indígenas e sua força espiritual"
+    },
+    {
+      "pergunta": "A Festa do Divino em Axixá celebra qual evento do catolicismo?",
+      "opcoes": ["O nascimento de Jesus", "A ressurreição de Cristo", "A descida do Espírito Santo sobre os apóstolos", "A assunção de Maria"],
+      "respostaCorreta": "A descida do Espírito Santo sobre os apóstolos"
+    },
+    {
+      "pergunta": "Qual a principal atividade de lazer no balneário de Buriti Corrente?",
+      "opcoes": ["Esquiar na neve", "Tomar banho de rio e frequentar os bares locais", "Escalar montanhas", "Visitar museus"],
+      "respostaCorreta": "Tomar banho de rio e frequentar os bares locais"
+    },
+    {
+      "pergunta": "A 'saída do boi' do barracão, no início das festas juninas, é um evento que atrai...",
+      "opcoes": ["Apenas os integrantes", "Ninguém", "Uma grande multidão de moradores e turistas", "Apenas a imprensa"],
+      "respostaCorreta": "Uma grande multidão de moradores e turistas"
+    },
+    {
+      "pergunta": "O que a farinha d'água, muito consumida na região, tem de diferente da farinha seca?",
+      "opcoes": ["É mais escura", "Passa por um processo de fermentação antes da torra", "É feita de milho", "É mais doce"],
+      "respostaCorreta": "Passa por um processo de fermentação antes da torra"
+    },
+    {
+      "pergunta": "Qual a importância da MA-402 para Axixá?",
+      "opcoes": ["É apenas uma rua local", "É a principal ligação rodoviária com São Luís e outras cidades", "Leva para o estado do Piauí", "É uma ciclovia"],
+      "respostaCorreta": "É a principal ligação rodoviária com São Luís e outras cidades"
+    },
+    {
+      "pergunta": "A renda da maioria das famílias de Axixá vem de qual fonte?",
+      "opcoes": ["Investimentos na bolsa de valores", "Aluguel de imóveis", "Agricultura familiar e programas sociais", "Royalties de petróleo"],
+      "respostaCorreta": "Agricultura familiar e programas sociais"
+    },
+    {
+      "pergunta": "O que o 'batismo do boi', que ocorre antes das festas, simboliza?",
+      "opcoes": ["A lavagem do couro", "O início oficial da temporada de apresentações", "A venda do boi", "Uma brincadeira com água"],
+      "respostaCorreta": "O início oficial da temporada de apresentações"
+    },
+    {
+      "pergunta": "O IDH de Axixá é considerado:",
+      "opcoes": ["Muito alto", "Alto", "Médio", "Baixo"],
+      "respostaCorreta": "Baixo"
+    },
+    {
+      "pergunta": "Qual o papel de um 'vereador' em Axixá?",
+      "opcoes": ["Comandar a polícia", "Representar a população e criar leis municipais", "Ser o juiz da cidade", "Coletar os impostos"],
+      "respostaCorreta": "Representar a população e criar leis municipais"
+    },
+    {
+      "pergunta": "A 'queimação da palhinha' no final do período junino simboliza o quê?",
+      "opcoes": ["O início do São João", "A despedida e o encerramento das festividades", "Uma fogueira comum", "Um protesto"],
+      "respostaCorreta": "A despedida e o encerramento das festividades"
+    },
+    {
+      "pergunta": "Qual a principal ameaça à tradição do Bumba Meu Boi de Orquestra?",
+      "opcoes": ["A falta de instrumentos", "A dificuldade de renovação dos músicos e brincantes", "A proibição por lei", "A falta de toadas"],
+      "respostaCorreta": "A dificuldade de renovação dos músicos e brincantes"
+    },
+    {
+      "pergunta": "O que é 'entrar na roda' no contexto do Bumba Meu Boi?",
+      "opcoes": ["Fazer uma cirurgia", "Participar da dança e da brincadeira", "Comprar uma parte do boi", "Dirigir um carro em círculo"],
+      "respostaCorreta": "Participar da dança e da brincadeira"
+    },
+    {
+      "pergunta": "A culinária de Axixá é um exemplo da diversidade gastronômica de qual estado?",
+      "opcoes": ["São Paulo", "Bahia", "Pará", "Maranhão"],
+      "respostaCorreta": "Maranhão"
+    },
+    {
+      "pergunta": "As apresentações do Boi de Axixá nos 'arraiais' de São Luís são muito aguardadas. Verdadeiro ou Falso?",
+      "opcoes": ["Verdadeiro", "Falso"],
+      "respostaCorreta": "Verdadeiro"
+    },
+    {
+      "pergunta": "Qual o papel do 'miolo' do boi?",
+      "opcoes": ["Cantar as toadas", "Tocar o principal instrumento", "Ficar dentro da armação do boi e dar vida ao personagem", "Organizar o figurino"],
+      "respostaCorreta": "Ficar dentro da armação do boi e dar vida ao personagem"
+    },
+    {
+      "pergunta": "A cidade de Santa Rita é vizinha de Axixá?",
+      "opcoes": ["Sim, faz divisa", "Não, fica em outro estado", "Não, fica do outro lado do Maranhão", "Sim, mas é separada por um grande rio"],
+      "respostaCorreta": "Não, fica do outro lado do Maranhão"
+    },
+    {
+      "pergunta": "O que o turismo cultural gera para a população local?",
+      "opcoes": ["Apenas problemas", "Renda extra e valorização da cultura", "Poluição", "Afastamento dos jovens"],
+      "respostaCorreta": "Renda extra e valorização da cultura"
+    },
+    {
+      "pergunta": "O que são os 'cazumbás', figuras mascaradas do Bumba Meu Boi?",
+      "opcoes": ["Os músicos da orquestra", "Os cantores principais", "Seres místicos que protegem o boi e divertem o público", "Os vaqueiros da fazenda"],
+      "respostaCorreta": "Seres místicos que protegem o boi e divertem o público"
+    },
+    {
+      "pergunta": "O que é um 'barracão' no contexto das festas juninas?",
+      "opcoes": ["Uma casa grande e simples", "A sede de um grupo de Bumba Meu Boi", "Um tipo de comida", "Uma barraca de praia"],
+      "respostaCorreta": "A sede de um grupo de Bumba Meu Boi"
+    },
+    {
+      "pergunta": "A tradição do Bumba Meu Boi em Axixá é passada principalmente de que forma?",
+      "opcoes": ["Em livros e escolas", "De pai para filho, de forma oral e prática", "Pela internet", "Em cursos universitários"],
+      "respostaCorreta": "De pai para filho, de forma oral e prática"
+    },
+    {
+      "pergunta": "A cidade de Axixá é considerada predominantemente rural ou urbana?",
+      "opcoes": ["Totalmente urbana", "Totalmente rural", "Predominantemente rural, com uma pequena sede urbana", "Equilibrada entre os dois"],
+      "respostaCorreta": "Predominantemente rural, com uma pequena sede urbana"
+    },
+    {
+      "pergunta": "Qual a principal importância de preservar o Rio Munim?",
+      "opcoes": ["Apenas para a beleza da paisagem", "Garantir a sobrevivência da fauna, da flora e das comunidades que dependem dele", "Para a prática de esportes radicais", "Para a construção de hidrelétricas"],
+      "respostaCorreta": "Garantir a sobrevivência da fauna, da flora e das comunidades que dependem dele"
+    },
+    {
+      "pergunta": "O Boi de Axixá já foi tema de qual manifestação artística nacional?",
+      "opcoes": ["Enredo de escola de samba no Rio de Janeiro", "Filme de Hollywood", "Peça da Broadway", "Novela da Globo"],
+      "respostaCorreta": "Enredo de escola de samba no Rio de Janeiro"
+    },
+    {
+      "pergunta": "O que a 'identidade cultural' de Axixá representa para seus moradores?",
+      "opcoes": ["Um motivo de vergonha", "Algo sem importância", "Um forte sentimento de orgulho e pertencimento", "Uma obrigação"],
+      "respostaCorreta": "Um forte sentimento de orgulho e pertencimento"
+    }
+  ]
+}

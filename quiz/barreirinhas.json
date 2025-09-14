@@ -1,0 +1,440 @@
+{
+  "nome": "Barreirinhas",
+  "perguntas": [
+    {
+      "pergunta": "Barreirinhas é mundialmente conhecida por ser o principal portal de entrada para qual atração natural?",
+      "opcoes": ["Chapada das Mesas", "Delta do Parnaíba", "Parque Nacional dos Lençóis Maranhenses", "Floresta Amazônica"],
+      "respostaCorreta": "Parque Nacional dos Lençóis Maranhenses"
+    },
+    {
+      "pergunta": "Qual é o principal rio que corta a cidade de Barreirinhas e é usado para passeios turísticos?",
+      "opcoes": ["Rio Mearim", "Rio Tocantins", "Rio Munim", "Rio Preguiças"],
+      "respostaCorreta": "Rio Preguiças"
+    },
+    {
+      "pergunta": "O que são as 'lagoas' encontradas entre as dunas dos Lençóis Maranhenses?",
+      "opcoes": ["Crateras de meteoros com água", "Piscinas de água salgada do mar", "Acúmulos de água da chuva", "Fontes termais"],
+      "respostaCorreta": "Acúmulos de água da chuva"
+    },
+    {
+      "pergunta": "Qual o nome do passeio de barco (lancha voadeira) que desce o Rio Preguiças?",
+      "opcoes": ["Circuito das Águas", "Passeio do Delta", "Circuito de Caburé", "Rota das Emoções"],
+      "respostaCorreta": "Circuito de Caburé"
+    },
+    {
+      "pergunta": "Qual o nome do veículo 4x4 adaptado, essencial para atravessar as dunas e chegar às lagoas?",
+      "opcoes": ["Buggy", "Jardineira", "Pau de Arara", "Quadriciclo"],
+      "respostaCorreta": "Jardineira"
+    },
+    {
+      "pergunta": "A 'Lagoa Azul' e a 'Lagoa Bonita' são os dois circuitos mais famosos de qual atração?",
+      "opcoes": ["Rio Preguiças", "Parque Nacional dos Lençóis Maranhenses", "Delta do Parnaíba", "Chapada das Mesas"],
+      "respostaCorreta": "Parque Nacional dos Lençóis Maranhenses"
+    },
+    {
+      "pergunta": "O que é 'Caburé', um dos destinos do passeio de lancha pelo Rio Preguiças?",
+      "opcoes": ["Uma grande cachoeira", "Uma tribo indígena isolada", "Um pequeno povoado numa faixa de areia entre o rio e o mar", "Uma montanha"],
+      "respostaCorreta": "Um pequeno povoado numa faixa de areia entre o rio e o mar"
+    },
+    {
+      "pergunta": "Qual o gentílico para quem nasce em Barreirinhas?",
+      "opcoes": ["Barreirense", "Barreirinhense", "Barrinhense", "Barrense"],
+      "respostaCorreta": "Barreirinhense"
+    },
+    {
+      "pergunta": "A melhor época para visitar os Lençóis Maranhenses, com as lagoas cheias, é geralmente entre quais meses?",
+      "opcoes": ["Janeiro e Março", "Outubro e Dezembro", "Maio e Setembro", "Abril e Junho"],
+      "respostaCorreta": "Maio e Setembro"
+    },
+    {
+      "pergunta": "Qual o nome do povoado conhecido pelos ventos fortes, ideal para a prática de kitesurf, localizado perto de Barreirinhas?",
+      "opcoes": ["Caburé", "Santo Amaro", "Atins", "Vassouras"],
+      "respostaCorreta": "Atins"
+    },
+    {
+      "pergunta": "O que são os 'Pequenos Lençóis', uma das paradas do passeio de lancha?",
+      "opcoes": ["Uma maquete dos Lençóis", "Uma área de dunas e lagoas similar aos Grandes Lençóis, porém menor", "Uma loja que vende lençóis", "Uma pequena ilha"],
+      "respostaCorreta": "Uma área de dunas e lagoas similar aos Grandes Lençóis, porém menor"
+    },
+    {
+      "pergunta": "Em 'Vassouras', primeira parada do passeio no Rio Preguiças, é comum encontrar qual animal?",
+      "opcoes": ["Onças-pintadas", "Macacos-prego", "Araras-azuis", "Pinguins"],
+      "respostaCorreta": "Macacos-prego"
+    },
+    {
+      "pergunta": "Qual a principal base da economia de Barreirinhas?",
+      "opcoes": ["Indústria pesada", "Agronegócio de soja", "Turismo", "Extração de petróleo"],
+      "respostaCorreta": "Turismo"
+    },
+    {
+      "pergunta": "A travessia do Parque Nacional a pé, de Atins a Santo Amaro, é uma atividade de qual tipo de turismo?",
+      "opcoes": ["Turismo de luxo", "Turismo de negócios", "Trekking (turismo de aventura)", "Turismo religioso"],
+      "respostaCorreta": "Trekking (turismo de aventura)"
+    },
+    {
+      "pergunta": "Qual o nome do farol localizado no povoado de Mandacaru, que oferece uma vista panorâmica da região?",
+      "opcoes": ["Farol da Barra", "Farol de Santo Antônio", "Farol Preguiças", "Farol do Saber"],
+      "respostaCorreta": "Farol Preguiças"
+    },
+    {
+      "pergunta": "A culinária local é famosa por pratos à base de qual iguaria?",
+      "opcoes": ["Carne de cordeiro", "Truta defumada", "Camarão e peixes de rio", "Queijos finos"],
+      "respostaCorreta": "Camarão e peixes de rio"
+    },
+    {
+      "pergunta": "Por que o Rio Preguiças recebeu esse nome?",
+      "opcoes": ["Pela grande quantidade de bichos-preguiça em suas margens", "Porque suas águas correm muito lentamente", "Em homenagem a um explorador chamado Preguiça", "Por causa do sono que dá em quem navega"],
+      "respostaCorreta": "Porque suas águas correm muito lentamente"
+    },
+    {
+      "pergunta": "A areia das dunas dos Lençóis Maranhenses é composta principalmente de qual mineral?",
+      "opcoes": ["Argila", "Quartzo", "Granito", "Calcário"],
+      "respostaCorreta": "Quartzo"
+    },
+    {
+      "pergunta": "Para chegar ao Circuito Lagoa Bonita, é necessário subir uma duna íngreme com a ajuda de:",
+      "opcoes": ["Um elevador", "Uma escada rolante", "Uma escada de madeira ou corda", "Um teleférico"],
+      "respostaCorreta": "Uma escada de madeira ou corda"
+    },
+    {
+      "pergunta": "O que significa dizer que as lagoas dos Lençóis são 'perenes' ou 'intermitentes'?",
+      "opcoes": ["Que a água é salgada", "Que elas secam durante o período de estiagem", "Que são muito fundas", "Que a água é quente"],
+      "respostaCorreta": "Que elas secam durante o período de estiagem"
+    },
+    {
+      "pergunta": "Qual cidade é a outra principal base para explorar o Parque Nacional, além de Barreirinhas?",
+      "opcoes": ["São Luís", "Teresina", "Santo Amaro do Maranhão", "Parnaíba"],
+      "respostaCorreta": "Santo Amaro do Maranhão"
+    },
+    {
+      "pergunta": "O que é a 'Rota das Emoções'?",
+      "opcoes": ["Uma novela da Globo", "Um roteiro turístico integrado que inclui Lençóis Maranhenses, Delta do Parnaíba e Jericoacoara", "Uma montanha-russa local", "O nome de uma toada de Bumba Meu Boi"],
+      "respostaCorreta": "Um roteiro turístico integrado que inclui Lençóis Maranhenses, Delta do Parnaíba e Jericoacoara"
+    },
+    {
+      "pergunta": "Qual o nome do aeroporto de Barreirinhas?",
+      "opcoes": ["Aeroporto Internacional de São Luís", "Aeroporto de Barreirinhas", "Aeroporto de Imperatriz", "Não há aeroporto"],
+      "respostaCorreta": "Aeroporto de Barreirinhas"
+    },
+    {
+      "pergunta": "A vegetação que se encontra nas margens do Rio Preguiças é predominantemente de:",
+      "opcoes": ["Cerrado", "Caatinga", "Mangue e restinga", "Floresta de coníferas"],
+      "respostaCorreta": "Mangue e restinga"
+    },
+    {
+      "pergunta": "Qual o prato mais famoso de Atins, que leva o camarão como ingrediente principal?",
+      "opcoes": ["Pizza de camarão", "Churrasco de camarão", "Camarão grelhado no espeto", "Arroz de cuxá com camarão"],
+      "respostaCorreta": "Camarão grelhado no espeto"
+    },
+    {
+      "pergunta": "O que a palavra 'barreirinhas' significa, em alusão às barreiras de argila do rio?",
+      "opcoes": ["Grandes barreiras", "Pequenas barreiras", "Barreiras de areia", "Barreiras de pedra"],
+      "respostaCorreta": "Pequenas barreiras"
+    },
+    {
+      "pergunta": "O Parque Nacional dos Lençóis Maranhenses é considerado o maior campo de dunas de onde?",
+      "opcoes": ["Do Maranhão", "Do Nordeste", "Do Brasil", "Da América do Sul"],
+      "respostaCorreta": "Do Brasil"
+    },
+    {
+      "pergunta": "Qual a principal atividade noturna na Avenida Beira-Rio em Barreirinhas?",
+      "opcoes": ["Ir ao cinema", "Frequentar os restaurantes, bares e feiras de artesanato", "Ir ao teatro", "Observar as estrelas"],
+      "respostaCorreta": "Frequentar os restaurantes, bares e feiras de artesanato"
+    },
+    {
+      "pergunta": "Qual destes peixes, adaptados a sobreviver na lama durante a seca, pode ser encontrado nas lagoas?",
+      "opcoes": ["Tubarão", "Salmão", "Piramboia (peixe-pulmonado)", "Bacalhau"],
+      "respostaCorreta": "Piramboia (peixe-pulmonado)"
+    },
+    {
+      "pergunta": "A cidade de Barreirinhas foi emancipada de qual município?",
+      "opcoes": ["São Luís", "Tutóia", "Humberto de Campos", "Primeira Cruz"],
+      "respostaCorreta": "Tutóia"
+    },
+    {
+      "pergunta": "O que é o 'Canto de Atins', localizado após o povoado de Atins?",
+      "opcoes": ["Um festival de música", "Uma praia deserta onde o rio encontra o mar", "Uma montanha", "Uma cachoeira"],
+      "respostaCorreta": "Uma praia deserta onde o rio encontra o mar"
+    },
+    {
+      "pergunta": "Qual a santa padroeira de Barreirinhas?",
+      "opcoes": ["Santa Teresinha", "Nossa Senhora da Conceição", "Santa Rita", "Nossa Senhora de Fátima"],
+      "respostaCorreta": "Nossa Senhora da Conceição"
+    },
+    {
+      "pergunta": "Por que é obrigatório visitar o Parque Nacional com um guia credenciado?",
+      "opcoes": ["Para pagar mais caro", "É uma área de proteção ambiental com regras de visitação e risco de se perder", "Para o guia tirar fotos", "Não é obrigatório"],
+      "respostaCorreta": "É uma área de proteção ambiental com regras de visitação e risco de se perder"
+    },
+    {
+      "pergunta": "O que a 'revoada dos guarás' proporciona aos turistas no final da tarde?",
+      "opcoes": ["Um show de acrobacias aéreas", "Um espetáculo visual com centenas de aves vermelhas voando para seus ninhos", "Uma chuva de penas", "Um concerto de cantos de pássaros"],
+      "respostaCorreta": "Um espetáculo visual com centenas de aves vermelhas voando para seus ninhos"
+    },
+    {
+      "pergunta": "O que é uma 'duna', a principal formação geológica dos Lençóis?",
+      "opcoes": ["Uma montanha de pedra", "Um morro coberto de vegetação", "Um monte de areia formado pela ação do vento", "Uma cratera"],
+      "respostaCorreta": "Um monte de areia formado pela ação do vento"
+    },
+    {
+      "pergunta": "O que o artesanato local mais utiliza como matéria-prima?",
+      "opcoes": ["Ouro e prata", "Plástico", "Fibra de buriti", "Vidro"],
+      "respostaCorreta": "Fibra de buriti"
+    },
+    {
+      "pergunta": "Qual destes é o principal desafio para a conservação do Parque Nacional?",
+      "opcoes": ["Falta de areia", "O avanço do turismo desordenado e o tráfego de veículos irregulares", "Excesso de chuva", "Falta de sol"],
+      "respostaCorreta": "O avanço do turismo desordenado e o tráfego de veículos irregulares"
+    },
+    {
+      "pergunta": "Qual o nome da principal avenida de Barreirinhas, que margeia o rio?",
+      "opcoes": ["Avenida Litorânea", "Avenida Paulista", "Avenida Beira-Rio", "Avenida Atlântica"],
+      "respostaCorreta": "Avenida Beira-Rio"
+    },
+    {
+      "pergunta": "O que significa dizer que as águas das lagoas são 'cristalinas'?",
+      "opcoes": ["Que são salgadas", "Que são muito geladas", "Que são transparentes e limpas", "Que são medicinais"],
+      "respostaCorreta": "Que são transparentes e limpas"
+    },
+    {
+      "pergunta": "O 'Bumba Meu Boi' em Barreirinhas é uma tradição forte, especialmente em que época do ano?",
+      "opcoes": ["Carnaval", "Páscoa", "Festas Juninas", "Natal"],
+      "respostaCorreta": "Festas Juninas"
+    },
+    {
+      "pergunta": "A cidade de Paulino Neves faz divisa com Barreirinhas. Verdadeiro ou Falso?",
+      "opcoes": ["Verdadeiro", "Falso"],
+      "respostaCorreta": "Verdadeiro"
+    },
+    {
+      "pergunta": "Por que os veículos comuns não conseguem andar nas dunas?",
+      "opcoes": ["É proibido por lei", "A areia fofa exige veículos 4x4 com pneus especiais", "Não há gasolina na região", "Os motoristas não conhecem o caminho"],
+      "respostaCorreta": "A areia fofa exige veículos 4x4 com pneus especiais"
+    },
+    {
+      "pergunta": "O que o 'buriti', palmeira comum na região, fornece?",
+      "opcoes": ["Apenas sombra", "Frutos para doces e sucos, e palha para artesanato", "Madeira para construção", "Látex"],
+      "respostaCorreta": "Frutos para doces e sucos, e palha para artesanato"
+    },
+    {
+      "pergunta": "Qual o principal atrativo de um sobrevoo de monomotor sobre os Lençóis?",
+      "opcoes": ["A emoção do voo", "A vista panorâmica e única do 'deserto' de dunas e lagoas", "A velocidade da aeronave", "Observar os animais"],
+      "respostaCorreta": "A vista panorâmica e única do 'deserto' de dunas e lagoas"
+    },
+    {
+      "pergunta": "Qual o nome do fenômeno que impede o avanço do mar sobre o continente na região dos Lençóis?",
+      "opcoes": ["A Muralha da China", "A barreira de recifes de corais", "A foz do Rio Preguiças", "As correntes marítimas e os ventos"],
+      "respostaCorreta": "As correntes marítimas e os ventos"
+    },
+    {
+      "pergunta": "O que significa 'desmembrado' na história de um município?",
+      "opcoes": ["Que ele foi destruído", "Que ele foi separado de um município maior para se tornar independente", "Que ele mudou de nome", "Que ele foi comprado"],
+      "respostaCorreta": "Que ele foi separado de um município maior para se tornar independente"
+    },
+    {
+      "pergunta": "Qual o papel do ICMBio no Parque Nacional dos Lençóis Maranhenses?",
+      "opcoes": ["Promover festas", "Administrar e fiscalizar a unidade de conservação", "Construir hotéis", "Vender terrenos"],
+      "respostaCorreta": "Administrar e fiscalizar a unidade de conservação"
+    },
+    {
+      "pergunta": "O que é 'tapioca', uma iguaria comum no café da manhã local?",
+      "opcoes": ["Um tipo de pão", "Uma espécie de panqueca feita com a goma da mandioca", "Um bolo de chocolate", "Um suco de frutas"],
+      "respostaCorreta": "Uma espécie de panqueca feita com a goma da mandioca"
+    },
+    {
+      "pergunta": "O que são 'condutores de visitantes'?",
+      "opcoes": ["Motoristas de ônibus", "Guias locais credenciados para acompanhar os turistas", "Pilotos de avião", "Donos de hotéis"],
+      "respostaCorreta": "Guias locais credenciados para acompanhar os turistas"
+    },
+    {
+      "pergunta": "A travessia de balsa sobre o Rio Preguiças é necessária para qual passeio?",
+      "opcoes": ["Passeio de lancha", "Passeio para a Lagoa Azul", "Passeio para a Lagoa Bonita", "Não é necessária nenhuma balsa"],
+      "respostaCorreta": "Passeio para a Lagoa Bonita"
+    },
+    {
+      "pergunta": "Qual a principal fonte de renda para os moradores de povoados como Caburé e Atins?",
+      "opcoes": ["Agricultura de soja", "Indústria", "Pesca e turismo", "Mineração"],
+      "respostaCorreta": "Pesca e turismo"
+    },
+    {
+      "pergunta": "O que o termo 'off-road' significa nos passeios de Barreirinhas?",
+      "opcoes": ["Andar apenas no asfalto", "Dirigir fora de estradas pavimentadas, na areia e em trilhas", "Fazer um passeio de barco", "Um tipo de comida"],
+      "respostaCorreta": "Dirigir fora de estradas pavimentadas, na areia e em trilhas"
+    },
+    {
+      "pergunta": "Qual a sensação térmica ao caminhar descalço na areia dos Lençóis, mesmo sob o sol forte?",
+      "opcoes": ["A areia é extremamente quente", "A areia é surpreendentemente fria ou morna", "A areia é pegajosa", "A areia é escura"],
+      "respostaCorreta": "A areia é surpreendentemente fria ou morna"
+    },
+    {
+      "pergunta": "O que é o 'Circuito da Lagoa da Esperança'?",
+      "opcoes": ["Um circuito de corridas", "Um roteiro menos explorado, com uma das poucas lagoas perenes", "O mesmo que o Circuito Lagoa Azul", "Uma competição de natação"],
+      "respostaCorreta": "Um roteiro menos explorado, com uma das poucas lagoas perenes"
+    },
+    {
+      "pergunta": "O que é o 'turismo de base comunitária', praticado em alguns povoados?",
+      "opcoes": ["Turismo onde os hotéis são de grandes redes internacionais", "Turismo organizado e gerido pela própria comunidade local", "Turismo exclusivo para moradores", "Turismo virtual"],
+      "respostaCorreta": "Turismo organizado e gerido pela própria comunidade local"
+    },
+    {
+      "pergunta": "Qual destes NÃO é um povoado do município de Barreirinhas?",
+      "opcoes": ["Atins", "Caburé", "Mandacaru", "Parnaíba"],
+      "respostaCorreta": "Parnaíba"
+    },
+    {
+      "pergunta": "A cidade de Barreirinhas é considerada predominantemente plana. Verdadeiro ou Falso?",
+      "opcoes": ["Verdadeiro", "Falso"],
+      "respostaCorreta": "Verdadeiro"
+    },
+    {
+      "pergunta": "Qual a importância da 'temporada de ventos' (segundo semestre) para Atins?",
+      "opcoes": ["Atrapalha o turismo", "É ideal para a prática de kitesurf, atraindo atletas do mundo todo", "Causa muitos destelhamentos", "Não há temporada de ventos"],
+      "respostaCorreta": "É ideal para a prática de kitesurf, atraindo atletas do mundo todo"
+    },
+    {
+      "pergunta": "Por que a paisagem dos Lençóis Maranhenses é considerada única no mundo?",
+      "opcoes": ["É o único deserto que neva", "É o único deserto com milhares de lagoas de água doce", "É o maior deserto do mundo", "É o deserto mais quente"],
+      "respostaCorreta": "É o único deserto com milhares de lagoas de água doce"
+    },
+    {
+      "pergunta": "O que é a 'Fronhas', um item comum no artesanato local?",
+      "opcoes": ["A fronha de travesseiro", "Uma pequena rede de descanso feita de buriti", "Um tipo de doce", "Uma lenda local"],
+      "respostaCorreta": "Uma pequena rede de descanso feita de buriti"
+    },
+    {
+      "pergunta": "Qual o principal tipo de hospedagem em Barreirinhas?",
+      "opcoes": ["Albergues para mochileiros", "Grandes resorts de luxo", "Pousadas de diversos tamanhos e padrões", "Casas de aluguel"],
+      "respostaCorreta": "Pousadas de diversos tamanhos e padrões"
+    },
+    {
+      "pergunta": "O que o pôr do sol visto do alto de uma duna proporciona?",
+      "opcoes": ["Uma vista comum", "Um espetáculo de cores sobre a paisagem de dunas e lagoas", "A chance de ver a aurora boreal", "Apenas o escurecer do dia"],
+      "respostaCorreta": "Um espetáculo de cores sobre a paisagem de dunas e lagoas"
+    },
+    {
+      "pergunta": "Qual destes é um desafio para o futuro de Barreirinhas?",
+      "opcoes": ["Falta de turistas", "Conciliar o crescimento do turismo com a preservação ambiental e a qualidade de vida", "Excesso de hotéis", "Pouco sol"],
+      "respostaCorreta": "Conciliar o crescimento do turismo com a preservação ambiental e a qualidade de vida"
+    },
+    {
+      "pergunta": "O que são 'cardumes', frequentemente vistos nas lagoas maiores?",
+      "opcoes": ["Um tipo de planta aquática", "Grupos de peixes nadando juntos", "Pedras no fundo da lagoa", "Insetos voadores"],
+      "respostaCorreta": "Grupos de peixes nadando juntos"
+    },
+    {
+      "pergunta": "A 'Casa de Farinha' na zona rural de Barreirinhas produz farinha de quê?",
+      "opcoes": ["Trigo", "Milho", "Mandioca", "Arroz"],
+      "respostaCorreta": "Mandioca"
+    },
+    {
+      "pergunta": "O que a expressão 'mar de dunas' quer dizer?",
+      "opcoes": ["Que as dunas estão submersas", "A imensa e contínua extensão de dunas, que se assemelha a um oceano", "Que há uma praia chamada Dunas", "Uma metáfora para problemas"],
+      "respostaCorreta": "A imensa e contínua extensão de dunas, que se assemelha a um oceano"
+    },
+    {
+      "pergunta": "Qual destes NÃO é um item essencial para levar aos passeios nos Lençóis?",
+      "opcoes": ["Protetor solar e chapéu", "Água", "Roupa de banho", "Casaco de neve"],
+      "respostaCorreta": "Casaco de neve"
+    },
+    {
+      "pergunta": "A cidade de Humberto de Campos é vizinha a Barreirinhas. Verdadeiro ou Falso?",
+      "opcoes": ["Verdadeiro", "Falso"],
+      "respostaCorreta": "Verdadeiro"
+    },
+    {
+      "pergunta": "Por que o camarão de Atins é famoso?",
+      "opcoes": ["Por ser o menor do mundo", "Pelo seu tamanho e pelo modo de preparo na grelha", "Por ser azul", "Por ser servido com chocolate"],
+      "respostaCorreta": "Pelo seu tamanho e pelo modo de preparo na grelha"
+    },
+    {
+      "pergunta": "O que é um 'oásis', termo que pode ser aplicado a algumas áreas do Parque Nacional?",
+      "opcoes": ["Uma miragem no deserto", "Uma área de vegetação e água em meio ao deserto de dunas", "Um hotel de luxo", "Um shopping center"],
+      "respostaCorreta": "Uma área de vegetação e água em meio ao deserto de dunas"
+    },
+    {
+      "pergunta": "O que a 'cheia' do Rio Preguiças pode causar na cidade de Barreirinhas?",
+      "opcoes": ["A seca dos poços", "Alagamentos em áreas mais baixas da cidade", "A melhora do sinal de celular", "O congelamento da água"],
+      "respostaCorreta": "Alagamentos em áreas mais baixas da cidade"
+    },
+    {
+      "pergunta": "Qual a principal atividade dos barqueiros do Rio Preguiças?",
+      "opcoes": ["Pesca industrial", "Transporte de cargas pesadas", "Condução de passeios turísticos", "Corrida de barcos"],
+      "respostaCorreta": "Condução de passeios turísticos"
+    },
+    {
+      "pergunta": "O que é 'mandacaru', nome de um dos povoados do Rio Preguiças?",
+      "opcoes": ["Um tipo de peixe", "Uma espécie de cacto", "Um instrumento musical", "Um herói local"],
+      "respostaCorreta": "Uma espécie de cacto"
+    },
+    {
+      "pergunta": "O que o termo 'ecossistema' significa no contexto dos Lençóis?",
+      "opcoes": ["Um sistema econômico", "O conjunto de seres vivos e o ambiente em que vivem, em delicado equilíbrio", "Um aplicativo de turismo", "Uma agência de viagens"],
+      "respostaCorreta": "O conjunto de seres vivos e o ambiente em que vivem, em delicado equilíbrio"
+    },
+    {
+      "pergunta": "Qual a principal lembrança que os turistas levam de Barreirinhas?",
+      "opcoes": ["O frio", "A paisagem única das dunas e lagoas", "O trânsito intenso", "Os prédios altos"],
+      "respostaCorreta": "A paisagem única das dunas e lagoas"
+    },
+    {
+      "pergunta": "O que é uma 'pousada'?",
+      "opcoes": ["Um grande hospital", "Um tipo de hospedagem, geralmente menor e mais aconchegante que um hotel", "Uma delegacia de polícia", "Um restaurante de luxo"],
+      "respostaCorreta": "Um tipo de hospedagem, geralmente menor e mais aconchegante que um hotel"
+    },
+    {
+      "pergunta": "A cor da água das lagoas pode variar entre tons de azul e verde. Verdadeiro ou Falso?",
+      "opcoes": ["Verdadeiro", "Falso"],
+      "respostaCorreta": "Verdadeiro"
+    },
+    {
+      "pergunta": "Por que o passeio para o Canto de Atins é conhecido como 'a rota do camarão'?",
+      "opcoes": ["Porque o caminho tem formato de camarão", "Pela fama dos restaurantes de camarão no destino final", "Porque se pesca camarão durante o trajeto", "É apenas um nome comercial"],
+      "respostaCorreta": "Pela fama dos restaurantes de camarão no destino final"
+    },
+    {
+      "pergunta": "Qual destes transportes é comum para se locomover dentro do povoado de Atins?",
+      "opcoes": ["Metrô", "Quadriciclo ou jardineira", "Ônibus de dois andares", "Bicicleta de aluguel"],
+      "respostaCorreta": "Quadriciclo ou jardineira"
+    },
+    {
+      "pergunta": "O que significa dizer que as dunas são 'móveis'?",
+      "opcoes": ["Que elas têm rodas", "Que elas mudam de lugar e formato constantemente pela ação do vento", "Que são feitas de material flexível", "Que são uma ilusão de ótica"],
+      "respostaCorreta": "Que elas mudam de lugar e formato constantemente pela ação do vento"
+    },
+    {
+      "pergunta": "O que o 'turismo sustentável' busca em Barreirinhas?",
+      "opcoes": ["Maximizar o lucro a qualquer custo", "Minimizar o impacto ambiental e sociocultural, promovendo a conservação", "Proibir a entrada de turistas", "Construir o máximo de hotéis possível"],
+      "respostaCorreta": "Minimizar o impacto ambiental e sociocultural, promovendo a conservação"
+    },
+    {
+      "pergunta": "Qual a função da vegetação de restinga nas margens do Rio Preguiças?",
+      "opcoes": ["Atrapalhar a navegação", "Ajudar a fixar a areia e proteger as margens da erosão", "Servir de alimento para os peixes", "Não tem função"],
+      "respostaCorreta": "Ajudar a fixar a areia e proteger as margens da erosão"
+    },
+    {
+      "pergunta": "Qual a principal cidade de partida para quem viaja de ônibus para Barreirinhas?",
+      "opcoes": ["Teresina", "Fortaleza", "Belém", "São Luís"],
+      "respostaCorreta": "São Luís"
+    },
+    {
+      "pergunta": "O que o termo 'baixa temporada' significa para o turismo em Barreirinhas?",
+      "opcoes": ["A melhor época para visitar", "O período com menos turistas e lagoas mais secas", "O período de festas juninas", "A época de chuvas"],
+      "respostaCorreta": "O período com menos turistas e lagoas mais secas"
+    },
+    {
+      "pergunta": "Qual a principal característica do povoado de Caburé?",
+      "opcoes": ["É uma grande metrópole", "Fica numa faixa de areia com o rio de um lado e o mar do outro", "É uma ilha flutuante", "Fica no topo de uma montanha"],
+      "respostaCorreta": "Fica numa faixa de areia com o rio de um lado e o mar do outro"
+    },
+    {
+      "pergunta": "A beleza dos Lençóis Maranhenses é formada pela combinação de quais dois elementos?",
+      "opcoes": ["Neve e montanhas", "Rochas e vulcões", "Dunas de areia branca e lagoas de água doce", "Florestas e rios"],
+      "respostaCorreta": "Dunas de areia branca e lagoas de água doce"
+    },
+    {
+      "pergunta": "O que a expressão 'paraíso na Terra' busca descrever sobre os Lençóis Maranhenses?",
+      "opcoes": ["O calor intenso", "A dificuldade de acesso", "Sua beleza natural exuberante e única", "O custo da viagem"],
+      "respostaCorreta": "Sua beleza natural exuberante e única"
+    }
+  ]
+}

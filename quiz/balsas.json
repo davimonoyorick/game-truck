@@ -1,0 +1,445 @@
+{
+  "nome": "Balsas",
+  "perguntas": [
+    {
+      "pergunta": "Balsas é amplamente reconhecida como a capital de qual setor econômico no Maranhão?",
+      "opcoes": ["Pesca Industrial", "Indústria Têxtil", "Turismo Histórico", "Agronegócio"],
+      "respostaCorreta": "Agronegócio"
+    },
+    {
+      "pergunta": "A paisagem natural no entorno de Balsas é dominada por qual bioma brasileiro?",
+      "opcoes": ["Amazônia", "Mata Atlântica", "Cerrado", "Caatinga"],
+      "respostaCorreta": "Cerrado"
+    },
+    {
+      "pergunta": "O nome da cidade de Balsas tem origem em qual atividade histórica no rio local?",
+      "opcoes": ["A fabricação de barcos", "A travessia do rio por meio de grandes balsas", "A presença de baleias", "Uma lenda sobre um balseiro"],
+      "respostaCorreta": "A travessia do rio por meio de grandes balsas"
+    },
+    {
+      "pergunta": "Qual é o principal rio que corta a cidade e lhe dá o nome?",
+      "opcoes": ["Rio Mearim", "Rio Tocantins", "Rio Parnaíba", "Rio das Balsas"],
+      "respostaCorreta": "Rio das Balsas"
+    },
+    {
+      "pergunta": "Qual é a principal cultura agrícola que impulsionou o desenvolvimento de Balsas?",
+      "opcoes": ["Café", "Laranja", "Cana-de-açúcar", "Soja"],
+      "respostaCorreta": "Soja"
+    },
+    {
+      "pergunta": "Balsas é uma cidade central na fronteira agrícola conhecida pela sigla MATOPIBA. O que o 'MA' representa?",
+      "opcoes": ["Mato Grosso", "Manaus", "Maranhão", "Macapá"],
+      "respostaCorreta": "Maranhão"
+    },
+    {
+      "pergunta": "Qual o gentílico para quem nasce em Balsas?",
+      "opcoes": ["Balsamense", "Balseiro", "Balsense", "Balsiano"],
+      "respostaCorreta": "Balsense"
+    },
+    {
+      "pergunta": "Qual grande evento, focado no agronegócio, acontece anualmente em Balsas?",
+      "opcoes": ["Festa do Peão de Barretos", "Oktoberfest", "Carnaval de Salvador", "AgroBalsas (antiga FENASUL)"],
+      "respostaCorreta": "AgroBalsas (antiga FENASUL)"
+    },
+    {
+      "pergunta": "A cidade de Balsas está localizada em qual região do Maranhão?",
+      "opcoes": ["Norte", "Leste", "Oeste", "Sul"],
+      "respostaCorreta": "Sul"
+    },
+    {
+      "pergunta": "O desenvolvimento agrícola de Balsas a partir da década de 70 foi impulsionado pela chegada de migrantes de qual região do Brasil?",
+      "opcoes": ["Nordeste", "Norte", "Sudeste", "Sul (gaúchos, catarinenses, paranaenses)"],
+      "respostaCorreta": "Sul (gaúchos, catarinenses, paranaenses)"
+    },
+    {
+      "pergunta": "Além da soja, qual outro grão é muito cultivado em Balsas, geralmente na segunda safra ('safrinha')?",
+      "opcoes": ["Trigo", "Cevada", "Milho", "Aveia"],
+      "respostaCorreta": "Milho"
+    },
+    {
+      "pergunta": "Qual o santo padroeiro de Balsas?",
+      "opcoes": ["São João", "São Pedro", "São Bernardo", "Santo Antônio"],
+      "respostaCorreta": "Santo Antônio"
+    },
+    {
+      "pergunta": "Qual rodovia federal, conhecida como Transamazônica, passa por Balsas?",
+      "opcoes": ["BR-135", "BR-316", "BR-010", "BR-230"],
+      "respostaCorreta": "BR-230"
+    },
+    {
+      "pergunta": "O que são 'silos', estruturas muito comuns na paisagem de Balsas?",
+      "opcoes": ["Caixas d'água gigantes", "Prédios residenciais", "Grandes reservatórios para armazenar grãos", "Torres de telecomunicação"],
+      "respostaCorreta": "Grandes reservatórios para armazenar grãos"
+    },
+    {
+      "pergunta": "Balsas possui um dos maiores Produtos Internos Brutos (PIB) do Maranhão. Verdadeiro ou Falso?",
+      "opcoes": ["Verdadeiro", "Falso"],
+      "respostaCorreta": "Verdadeiro"
+    },
+    {
+      "pergunta": "Qual o nome do aeroporto de Balsas, fundamental para a logística do agronegócio?",
+      "opcoes": ["Aeroporto de Imperatriz", "Aeroporto de São Luís", "Aeroporto de Balsas (Cangapara)", "Aeroporto de Barreirinhas"],
+      "respostaCorreta": "Aeroporto de Balsas (Cangapara)"
+    },
+    {
+      "pergunta": "Qual polo turístico de cachoeiras e cânions fica na região de Balsas?",
+      "opcoes": ["Lençóis Maranhenses", "Chapada Diamantina", "Chapada dos Veadeiros", "Parque Nacional da Chapada das Mesas"],
+      "respostaCorreta": "Parque Nacional da Chapada das Mesas"
+    },
+    {
+      "pergunta": "A população de Balsas, segundo o Censo de 2022, se aproxima de quantos habitantes?",
+      "opcoes": ["50.000", "75.000", "100.000", "150.000"],
+      "respostaCorreta": "100.000"
+    },
+    {
+      "pergunta": "A agricultura praticada em Balsas é caracterizada por ser:",
+      "opcoes": ["De subsistência e manual", "Altamente mecanizada e em larga escala", "Orgânica e em pequenos lotes", "Hidropônica"],
+      "respostaCorreta": "Altamente mecanizada e em larga escala"
+    },
+    {
+      "pergunta": "O que o acrônimo MATOPIBA representa?",
+      "opcoes": ["Uma tribo indígena", "Um tipo de soja", "Uma região formada por Maranhão, Tocantins, Piauí e Bahia", "Uma empresa de transportes"],
+      "respostaCorreta": "Uma região formada por Maranhão, Tocantins, Piauí e Bahia"
+    },
+    {
+      "pergunta": "Qual destas cidades é o principal polo urbano do sul do Maranhão?",
+      "opcoes": ["Carolina", "Riachão", "Balsas", "Imperatriz"],
+      "respostaCorreta": "Balsas"
+    },
+    {
+      "pergunta": "O festejo de Santo Antônio em Balsas acontece em que mês?",
+      "opcoes": ["Janeiro", "Junho", "Agosto", "Dezembro"],
+      "respostaCorreta": "Junho"
+    },
+    {
+      "pergunta": "O relevo da região de Balsas, com grandes áreas planas, é ideal para qual atividade?",
+      "opcoes": ["Alpinismo", "Cultivo de uvas em terraços", "Agricultura mecanizada", "Esqui"],
+      "respostaCorreta": "Agricultura mecanizada"
+    },
+    {
+      "pergunta": "Qual era o nome original do povoado que deu origem a Balsas?",
+      "opcoes": ["Vila Nova do Maranhão", "Santo Antônio de Balsas", "Porto de Balsas", "Vila do Cerrado"],
+      "respostaCorreta": "Santo Antônio de Balsas"
+    },
+    {
+      "pergunta": "A culinária de Balsas sofreu forte influência de qual cultura migrante?",
+      "opcoes": ["Japonesa", "Italiana", "Gaúcha (churrasco)", "Árabe"],
+      "respostaCorreta": "Gaúcha (churrasco)"
+    },
+    {
+      "pergunta": "Qual destes produtos também é uma cultura importante em Balsas, além da soja e do milho?",
+      "opcoes": ["Algodão", "Café", "Cacau", "Laranja"],
+      "respostaCorreta": "Algodão"
+    },
+    {
+      "pergunta": "O que a 'agricultura de precisão', usada em Balsas, utiliza para otimizar o plantio?",
+      "opcoes": ["Previsões astrológicas", "GPS, drones e sensores", "Pêndulos e varinhas", "Apenas a experiência do agricultor"],
+      "respostaCorreta": "GPS, drones e sensores"
+    },
+    {
+      "pergunta": "Qual a importância de Balsas para a balança comercial do Maranhão?",
+      "opcoes": ["Nenhuma, pois só produz para o consumo local", "É um dos principais municípios exportadores do estado", "Importa mais do que exporta", "Não participa da balança comercial"],
+      "respostaCorreta": "É um dos principais municípios exportadores do estado"
+    },
+    {
+      "pergunta": "Qual o principal desafio ambiental relacionado ao agronegócio em Balsas?",
+      "opcoes": ["Excesso de árvores", "O desmatamento do Cerrado e o uso de agrotóxicos", "Falta de sol", "Invasão de animais selvagens"],
+      "respostaCorreta": "O desmatamento do Cerrado e o uso de agrotóxicos"
+    },
+    {
+      "pergunta": "O que é 'escoamento da safra', um termo muito importante para Balsas?",
+      "opcoes": ["A irrigação da plantação", "O transporte dos grãos colhidos até os portos ou consumidores", "A venda da colheita na feira local", "A perda de grãos por causa da chuva"],
+      "respostaCorreta": "O transporte dos grãos colhidos até os portos ou consumidores"
+    },
+    {
+      "pergunta": "O Rio das Balsas é um afluente de qual grande rio?",
+      "opcoes": ["Rio São Francisco", "Rio Amazonas", "Rio Parnaíba", "Rio Tocantins"],
+      "respostaCorreta": "Rio Parnaíba"
+    },
+    {
+      "pergunta": "Qual a principal função da feira AgroBalsas?",
+      "opcoes": ["Vender produtos de artesanato", "Apresentar novas tecnologias e realizar negócios no setor do agronegócio", "Realizar um festival de música", "Promover rodeios"],
+      "respostaCorreta": "Apresentar novas tecnologias e realizar negócios no setor do agronegócio"
+    },
+    {
+      "pergunta": "A economia de Balsas é considerada mais dinâmica que a da maioria dos municípios maranhenses. Verdadeiro ou Falso?",
+      "opcoes": ["Verdadeiro", "Falso"],
+      "respostaCorreta": "Verdadeiro"
+    },
+    {
+      "pergunta": "Qual o principal destino da soja produzida em Balsas?",
+      "opcoes": ["O mercado local", "A fabricação de cosméticos", "Exportação, principalmente para a China", "A produção de biocombustíveis"],
+      "respostaCorreta": "Exportação, principalmente para a China"
+    },
+    {
+      "pergunta": "O que o 'Cerrado', bioma de Balsas, significa em termos de vegetação?",
+      "opcoes": ["Floresta densa e fechada", "Árvores retorcidas, gramíneas e arbustos", "Vegetação de dunas e praias", "Pântano"],
+      "respostaCorreta": "Árvores retorcidas, gramíneas e arbustos"
+    },
+    {
+      "pergunta": "Qual o principal tipo de máquina usada na colheita da soja em Balsas?",
+      "opcoes": ["Arado manual", "Trator de esteira", "Colheitadeira", "Enxada"],
+      "respostaCorreta": "Colheitadeira"
+    },
+    {
+      "pergunta": "Qual a cidade-portal para as cachoeiras da Chapada das Mesas, vizinha a Balsas?",
+      "opcoes": ["Imperatriz", "Grajaú", "Carolina", "Riachão"],
+      "respostaCorreta": "Carolina"
+    },
+    {
+      "pergunta": "A 'Cachoeira da Pedra Caída', um famoso complexo turístico, fica em qual município?",
+      "opcoes": ["Balsas", "Riachão", "Carolina", "Alto Parnaíba"],
+      "respostaCorreta": "Carolina"
+    },
+    {
+      "pergunta": "Qual a importância da infraestrutura de transportes (estradas, aeroporto) para Balsas?",
+      "opcoes": ["É secundária", "É vital para o escoamento da produção e para a economia", "Atrapalha a cidade", "Serve apenas para o transporte de pessoas"],
+      "respostaCorreta": "É vital para o escoamento da produção e para a economia"
+    },
+    {
+      "pergunta": "Qual o principal tipo de gado criado na região?",
+      "opcoes": ["Gado holandês", "Búfalos", "Gado Nelore e seus cruzamentos", "Gado angus"],
+      "respostaCorreta": "Gado Nelore e seus cruzamentos"
+    },
+    {
+      "pergunta": "O que o termo 'fronteira agrícola' significa?",
+      "opcoes": ["Uma divisa entre fazendas", "Uma área onde a atividade agrícola está se expandindo para novas terras", "Uma cerca para o gado", "Uma lei sobre agricultura"],
+      "respostaCorreta": "Uma área onde a atividade agrícola está se expandindo para novas terras"
+    },
+    {
+      "pergunta": "A cidade de Riachão, vizinha a Balsas, é famosa por suas:",
+      "opcoes": ["Grandes indústrias", "Praias de água salgada", "Cachoeiras e balneários", "Prédios históricos"],
+      "respostaCorreta": "Cachoeiras e balneários"
+    },
+    {
+      "pergunta": "Qual o principal desafio para o futuro de Balsas?",
+      "opcoes": ["Encontrar alguma atividade econômica", "Conciliar o crescimento do agronegócio com a sustentabilidade ambiental", "Atrair moradores", "Construir a primeira rua"],
+      "respostaCorreta": "Conciliar o crescimento do agronegócio com a sustentabilidade ambiental"
+    },
+    {
+      "pergunta": "Qual a cultura predominante na culinária do dia a dia de Balsas?",
+      "opcoes": ["Culinária vegana", "Culinária francesa", "Culinária brasileira tradicional com influências do sul", "Culinária molecular"],
+      "respostaCorreta": "Culinária brasileira tradicional com influências do sul"
+    },
+    {
+      "pergunta": "O que significa 'PIB', um indicador no qual Balsas se destaca?",
+      "opcoes": ["População Interna Bruta", "Produto Interno Bruto", "Plano de Investimento Básico", "Preço Ideal de Bens"],
+      "respostaCorreta": "Produto Interno Bruto"
+    },
+    {
+      "pergunta": "A 'Serra do Penitente', na região, é um exemplo de qual formação geológica?",
+      "opcoes": ["Vulcão", "Cânion", "Chapada (planalto)", "Depressão"],
+      "respostaCorreta": "Chapada (planalto)"
+    },
+    {
+      "pergunta": "Qual destes profissionais é essencial para o agronegócio em Balsas?",
+      "opcoes": ["Oceanógrafo", "Engenheiro agrônomo", "Arquiteto naval", "Cineasta"],
+      "respostaCorreta": "Engenheiro agrônomo"
+    },
+    {
+      "pergunta": "A cidade de Alto Parnaíba, vizinha a Balsas, fica na nascente de qual rio importante?",
+      "opcoes": ["Rio Amazonas", "Rio Tocantins", "Rio Parnaíba", "Rio Mearim"],
+      "respostaCorreta": "Rio Parnaíba"
+    },
+    {
+      "pergunta": "O que é 'calagem', um processo importante para corrigir o solo do Cerrado?",
+      "opcoes": ["A aplicação de calcário para diminuir a acidez do solo", "A irrigação do solo", "A colheita do calcário", "A pintura do solo com cal"],
+      "respostaCorreta": "A aplicação de calcário para diminuir a acidez do solo"
+    },
+    {
+      "pergunta": "O crescimento de Balsas atraiu muitas agências de qual setor?",
+      "opcoes": ["Agências de modelo", "Agências de viagem", "Agências bancárias e de insumos agrícolas", "Agências de publicidade"],
+      "respostaCorreta": "Agências bancárias e de insumos agrícolas"
+    },
+    {
+      "pergunta": "O que é a 'safrinha'?",
+      "opcoes": ["Uma colheita pequena e sem valor", "A segunda safra plantada no mesmo ano, aproveitando o final das chuvas", "A colheita de frutas pequenas", "O apelido da AgroBalsas"],
+      "respostaCorreta": "A segunda safra plantada no mesmo ano, aproveitando o final das chuvas"
+    },
+    {
+      "pergunta": "Qual a principal religião em Balsas?",
+      "opcoes": ["Judaísmo", "Islamismo", "Cristianismo (Católicos e Evangélicos)", "Budismo"],
+      "respostaCorreta": "Cristianismo (Católicos e Evangélicos)"
+    },
+    {
+      "pergunta": "O que a 'mecanização do campo' significa?",
+      "opcoes": ["O uso de trabalhadores manuais", "A substituição do trabalho manual por máquinas", "A criação de robôs agricultores", "A construção de cercas metálicas"],
+      "respostaCorreta": "A substituição do trabalho manual por máquinas"
+    },
+    {
+      "pergunta": "O clima de Balsas é classificado como:",
+      "opcoes": ["Tropical de altitude", "Subtropical", "Tropical com estação seca", "Equatorial"],
+      "respostaCorreta": "Tropical com estação seca"
+    },
+    {
+      "pergunta": "Qual a importância da cidade para a arrecadação de impostos do Maranhão?",
+      "opcoes": ["É irrelevante", "Está entre os maiores arrecadadores de ICMS do estado", "Paga mais impostos que a capital", "Não paga impostos"],
+      "respostaCorreta": "Está entre os maiores arrecadadores de ICMS do estado"
+    },
+    {
+      "pergunta": "Qual destes NÃO é um município do sul do Maranhão?",
+      "opcoes": ["Riachão", "Tasso Fragoso", "Carolina", "Pinheiro"],
+      "respostaCorreta": "Pinheiro"
+    },
+    {
+      "pergunta": "O que a 'geração de empregos' em Balsas atrai?",
+      "opcoes": ["Apenas animais", "Pessoas de outras cidades e estados em busca de trabalho", "Empresas de outros países", "Turistas de inverno"],
+      "respostaCorreta": "Pessoas de outras cidades e estados em busca de trabalho"
+    },
+    {
+      "pergunta": "O que é um 'latifúndio', tipo de propriedade comum no agronegócio de Balsas?",
+      "opcoes": ["Uma pequena horta", "Uma grande extensão de terra pertencente a um único proprietário", "Uma fazenda de gado leiteiro", "Uma cooperativa de agricultores"],
+      "respostaCorreta": "Uma grande extensão de terra pertencente a um único proprietário"
+    },
+    {
+      "pergunta": "O que são 'commodities agrícolas', principal produto de Balsas?",
+      "opcoes": ["Produtos artesanais", "Produtos de alta tecnologia", "Produtos de origem agrícola com cotação internacional, como soja e milho", "Produtos de luxo"],
+      "respostaCorreta": "Produtos de origem agrícola com cotação internacional, como soja e milho"
+    },
+    {
+      "pergunta": "O churrasco, popular em Balsas, é uma herança cultural de qual estado?",
+      "opcoes": ["Bahia", "Rio de Janeiro", "Amazonas", "Rio Grande do Sul"],
+      "respostaCorreta": "Rio Grande do Sul"
+    },
+    {
+      "pergunta": "Qual o principal desafio para a saúde em Balsas, uma cidade polo?",
+      "opcoes": ["Falta de pacientes", "Atender a alta demanda da própria cidade e das cidades vizinhas", "Excesso de hospitais", "Clima muito saudável"],
+      "respostaCorreta": "Atender a alta demanda da própria cidade e das cidades vizinhas"
+    },
+    {
+      "pergunta": "Qual a principal atividade de lazer nas praias do Rio das Balsas?",
+      "opcoes": ["Surf", "Banho de rio e socialização nos bares", "Mergulho", "Passeios de iate"],
+      "respostaCorreta": "Banho de rio e socialização nos bares"
+    },
+    {
+      "pergunta": "O que significa 'Cerrado Rupestre', encontrado em algumas áreas da Chapada das Mesas?",
+      "opcoes": ["Cerrado com muitas árvores de borracha", "Cerrado que cresce sobre formações rochosas", "Cerrado plantado pelo homem", "Cerrado com neve"],
+      "respostaCorreta": "Cerrado que cresce sobre formações rochosas"
+    },
+    {
+      "pergunta": "A 'sojicultura' é o cultivo de quê?",
+      "opcoes": ["Milho", "Soja", "Algodão", "Arroz"],
+      "respostaCorreta": "Soja"
+    },
+    {
+      "pergunta": "O que a 'logística' representa para o agronegócio de Balsas?",
+      "opcoes": ["Algo sem importância", "Um fator crucial para o sucesso, envolvendo transporte e armazenamento", "Apenas a compra de sementes", "O marketing da fazenda"],
+      "respostaCorreta": "Um fator crucial para o sucesso, envolvendo transporte e armazenamento"
+    },
+    {
+      "pergunta": "Qual a importância de um 'parque de exposições', onde ocorre a AgroBalsas?",
+      "opcoes": ["É apenas um campo de futebol", "É uma infraestrutura fundamental para grandes eventos e feiras", "Um local para shows de rock", "Um zoológico"],
+      "respostaCorreta": "É uma infraestrutura fundamental para grandes eventos e feiras"
+    },
+    {
+      "pergunta": "O que são 'insumos agrícolas', muito comercializados em Balsas?",
+      "opcoes": ["Tratores e colheitadeiras", "Sementes, fertilizantes e defensivos", "Roupas para agricultores", "Comida para os trabalhadores"],
+      "respostaCorreta": "Sementes, fertilizantes e defensivos"
+    },
+    {
+      "pergunta": "Qual destes NÃO é um benefício do agronegócio para Balsas?",
+      "opcoes": ["Geração de empregos e alta arrecadação", "Desenvolvimento de infraestrutura", "Aumento da biodiversidade do Cerrado", "Dinamismo econômico"],
+      "respostaCorreta": "Aumento da biodiversidade do Cerrado"
+    },
+    {
+      "pergunta": "O que é 'plantio direto', uma técnica usada para conservar o solo?",
+      "opcoes": ["Plantar sem usar sementes", "Plantar sobre a palha da colheita anterior, sem arar o solo", "Plantar apenas em linha reta", "Plantar com as mãos"],
+      "respostaCorreta": "Plantar sobre a palha da colheita anterior, sem arar o solo"
+    },
+    {
+      "pergunta": "Qual o principal tipo de empresa que compõe o setor de serviços em Balsas?",
+      "opcoes": ["Estúdios de cinema", "Empresas de tecnologia", "Lojas, restaurantes, oficinas e escritórios", "Parques de diversão"],
+      "respostaCorreta": "Lojas, restaurantes, oficinas e escritórios"
+    },
+    {
+      "pergunta": "A cidade de Balsas tem um dos maiores crescimentos populacionais do Maranhão. Verdadeiro ou Falso?",
+      "opcoes": ["Verdadeiro", "Falso"],
+      "respostaCorreta": "Verdadeiro"
+    },
+    {
+      "pergunta": "O que o 'agronegócio de alta tecnologia' em Balsas busca?",
+      "opcoes": ["Usar métodos antigos de plantio", "Aumentar a produtividade por hectare usando tecnologia", "Plantar apenas para subsistência", "Diminuir a produção"],
+      "respostaCorreta": "Aumentar a produtividade por hectare usando tecnologia"
+    },
+    {
+      "pergunta": "Qual o principal destino do escoamento da safra de grãos de Balsas?",
+      "opcoes": ["Porto de Santos (SP)", "Porto de Paranaguá (PR)", "Porto de Itaqui (em São Luís)", "Porto de Rio Grande (RS)"],
+      "respostaCorreta": "Porto de Itaqui (em São Luís)"
+    },
+    {
+      "pergunta": "O que a 'cultura gaúcha' trouxe para a identidade de Balsas?",
+      "opcoes": ["O carnaval", "O Bumba Meu Boi", "O churrasco e o chimarrão", "A festa de Iemanjá"],
+      "respostaCorreta": "O churrasco e o chimarrão"
+    },
+    {
+      "pergunta": "Qual o principal motivo para a valorização das terras em Balsas nas últimas décadas?",
+      "opcoes": ["A descoberta de ouro", "A expansão da fronteira agrícola da soja", "A construção de praias artificiais", "A beleza da cidade"],
+      "respostaCorreta": "A expansão da fronteira agrícola da soja"
+    },
+    {
+      "pergunta": "O que são 'agrotóxicos' ou 'defensivos agrícolas'?",
+      "opcoes": ["Adubos naturais", "Produtos químicos usados para combater pragas e doenças na lavoura", "Sistemas de irrigação", "Tipos de sementes"],
+      "respostaCorreta": "Produtos químicos usados para combater pragas e doenças na lavoura"
+    },
+    {
+      "pergunta": "Qual a importância de um aeroporto funcional para o agronegócio de Balsas?",
+      "opcoes": ["Apenas para turismo", "Facilita o transporte rápido de peças, técnicos e empresários", "Não tem importância", "Para exportar grãos por avião"],
+      "respostaCorreta": "Facilita o transporte rápido de peças, técnicos e empresários"
+    },
+    {
+      "pergunta": "Qual o principal tipo de vegetação que foi removida para dar lugar às plantações em Balsas?",
+      "opcoes": ["Mata Atlântica", "Manguezal", "Cerrado nativo", "Floresta de coníferas"],
+      "respostaCorreta": "Cerrado nativo"
+    },
+    {
+      "pergunta": "O que a 'cadeia produtiva da soja' inclui?",
+      "opcoes": ["Apenas o plantio", "Desde a produção de sementes até a exportação do grão ou óleo", "Apenas a colheita", "Apenas a venda no supermercado"],
+      "respostaCorreta": "Desde a produção de sementes até a exportação do grão ou óleo"
+    },
+    {
+      "pergunta": "O desenvolvimento de Balsas é um exemplo do quê no interior do Brasil?",
+      "opcoes": ["Estagnação econômica", "Da força e dos desafios do agronegócio", "Da preservação total do meio ambiente", "Do declínio da agricultura"],
+      "respostaCorreta": "Da força e dos desafios do agronegócio"
+    },
+    {
+      "pergunta": "Qual destes NÃO é um município que faz parte da região do MATOPIBA?",
+      "opcoes": ["Balsas (MA)", "Uruçuí (PI)", "Barreiras (BA)", "Cuiabá (MT)"],
+      "respostaCorreta": "Cuiabá (MT)"
+    },
+    {
+      "pergunta": "A pecuária de Balsas é mais focada na produção de carne ou de leite?",
+      "opcoes": ["Leite", "Carne", "Lã", "Queijo"],
+      "respostaCorreta": "Carne"
+    },
+    {
+      "pergunta": "Qual o principal produto derivado da soja processada, além do óleo?",
+      "opcoes": ["Farinha de soja (farelo)", "Leite de soja", "Tofu", "Shoyu"],
+      "respostaCorreta": "Farinha de soja (farelo)"
+    },
+    {
+      "pergunta": "O que significa dizer que Balsas tem uma economia 'pujante'?",
+      "opcoes": ["Que é uma economia pequena e frágil", "Que é uma economia forte, vigorosa e em crescimento", "Que é uma economia baseada na pesca", "Que é uma economia estagnada"],
+      "respostaCorreta": "Que é uma economia forte, vigorosa e em crescimento"
+    },
+    {
+      "pergunta": "A grande extensão territorial do município de Balsas é uma vantagem para qual atividade?",
+      "opcoes": ["Construção de prédios altos", "Criação de parques aquáticos", "Expansão da agropecuária", "Transporte por metrô"],
+      "respostaCorreta": "Expansão da agropecuária"
+    },
+    {
+      "pergunta": "Qual o papel de Balsas para os municípios menores ao seu redor?",
+      "opcoes": ["É um município dependente deles", "Atua como um polo, fornecendo serviços e comércio", "Não tem relação com eles", "É um rival econômico"],
+      "respostaCorreta": "Atua como um polo, fornecendo serviços e comércio"
+    },
+    {
+      "pergunta": "O que a 'diversificação de culturas' busca em uma região como Balsas?",
+      "opcoes": ["Plantar apenas soja", "Reduzir a dependência de um único produto, como a soja", "Plantar flores e hortaliças", "Parar a agricultura"],
+      "respostaCorreta": "Reduzir a dependência de um único produto, como a soja"
+    },
+    {
+      "pergunta": "O futuro de Balsas depende do equilíbrio entre produção agrícola e...",
+      "opcoes": ["...a exploração espacial.", "...a pesca de camarão.", "...a conservação do Cerrado.", "...a produção de filmes."],
+      "respostaCorreta": "...a conservação do Cerrado."
+    }
+  ]
+}
